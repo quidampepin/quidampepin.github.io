@@ -174,7 +174,10 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-top: 50px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: $lightGray;
 }
 
 .masthead {
@@ -220,6 +223,9 @@ img {
   font-family: $roboto;
   font-weight: 700;
   font-size:30px;
+  a {
+    color: inherit;
+  }
 }
 
 .site-description {
@@ -299,6 +305,7 @@ nav {
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
+
 
 footer {
   padding: 20px 0;
