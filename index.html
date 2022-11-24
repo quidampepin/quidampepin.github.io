@@ -11,7 +11,7 @@ layout: default
 
 <div class="posts">
   
-  <h2>Latest entries</h>
+  <h2>Latest entries</h2>
 
   {% for post in site.posts %}
     <article class="post">
@@ -19,7 +19,7 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 
       <div class="date">
-        {{ post.date }}
+        {{ post.date | date: "%Y-%m-%d"}}
       </div>
 
     </article>
