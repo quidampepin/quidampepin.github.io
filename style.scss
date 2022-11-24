@@ -170,7 +170,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 2px solid $lightGray;
   background-color:#F5F5F5;
 
   @include mobile {
@@ -210,7 +209,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $roboto;
-  font-weight: 400;
+  font-weight: 800;
   font-size:32px;
 }
 
