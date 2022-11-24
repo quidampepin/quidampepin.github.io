@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1200px;
   padding: 0 10px;
   width: 100%;
 }
@@ -170,7 +170,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  background-color:#F5F5F5;
+  border-bottom: 2px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -209,8 +209,8 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $roboto;
-  font-weight: 800;
-  font-size:32px;
+  font-weight: 700;
+  font-size:30px;
 }
 
 .site-description {
@@ -227,8 +227,8 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $roboto;
-  font-weight: 400;
-  font-size: 20px;
+  font-weight: 500;
+  font-size: 22px;
 
   @include mobile {
     float: none;

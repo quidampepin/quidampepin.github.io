@@ -2,17 +2,26 @@
 layout: default
 ---
 
+<h1>Welcome</h1>
+
+<p>This is my personal publishing space.<p/>
+
+  <p>Notes, ideas and stories about UX, content design, life, and anything else that inspires me. <p/>
+
+
 <div class="posts">
+  
+  <h2>Latest entries</h>
+
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 
-      <div class="entry">
-        {{ post.excerpt }}
+      <div class="date">
+        {{ post.date }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
