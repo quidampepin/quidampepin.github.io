@@ -2,7 +2,7 @@
 
 <h1>Ideas</h1>
 <div class="posts">
-  {% for post in site.categories.Articles %}
+  {% for post in site.categories.Ideas %}
     <article class="post">
 
  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
