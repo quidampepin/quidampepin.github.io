@@ -1,17 +1,15 @@
 
 
-<h1>Notes</h1>
+<h1>Ideas</h1>
 <div class="posts">
   {% for post in site.categories.Articles %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+ <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 
-      <div class="entry">
-        {{ post.excerpt }}
+      <div class="date">
+        {{ post.date | date: "%Y-%m-%d"}}
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>

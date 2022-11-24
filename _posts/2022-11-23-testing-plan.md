@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing plan
-category: Articles
+category: Ideas
 ---
 
 ## Summary-Test
@@ -10,7 +10,6 @@ We are running usability testing on the Infobase landing page prototype to make 
 
 
 ## Methodology
-
 
 
 * Formative testing - the goal is to uncover usability issues to fix, not establish a success rate baseline

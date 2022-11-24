@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test title
-category: Notes
+title: Story 1
+category: Stories
 ---
 
-This is a short note
+This is a story
