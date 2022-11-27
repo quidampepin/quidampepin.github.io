@@ -2,7 +2,7 @@
 
 <h1>Récits</h1>
 <div class="posts">
-  {% for post in site.categories.Récits %}
+  {% for post in site.categories.recits %}
     <article class="post">
 
        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
