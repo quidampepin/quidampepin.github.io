@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Testing plan
-category: Ideas
+category: Idées
+description: Un plan de test d'utilisabilité
 ---
 
 ## Summary-Test
