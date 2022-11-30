@@ -2,7 +2,7 @@
 
 <h1>Récits</h1>
 <div class="posts">
-  {% for post in site.categories.récits %}
+  {% for post in site.categories.recits %}
 
 
   <article class="post">
