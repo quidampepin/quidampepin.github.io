@@ -189,12 +189,17 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $montserrat;
+  font-family: $opensans;
   font-weight: 700;
   font-size:30px;
+  float: left;
   a {
     color: inherit;
     text-decoration: none;
+  }
+
+  @include mobile {
+    float: none;
   }
 }
 
@@ -209,9 +214,10 @@ img {
 }
 
 nav {
-  font-family: $montserrat;
+  font-family: $opensans;
   font-weight: 500;
   font-size: 22px;
+  float: right;
 
 
 
@@ -223,6 +229,9 @@ nav {
     font-weight: 500;
     letter-spacing: 1px;
 
+  }
+  @include mobile {
+    float: none;
   }
 }
 
