@@ -3,6 +3,7 @@ layout: post
 title: Testing plan
 category: Idees
 description: Un plan de test d'utilisabilité
+Tag: Idées
 ---
 
 ## Summary-Test
