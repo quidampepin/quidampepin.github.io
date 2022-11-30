@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Récit 1
+title: Un après-midi de juillet
 category: recits
-description: Un après-midi de juillet
+description: L'appel a retenti dans la maison vers deux heures de l'après-midi. C'était une journée radieuse de juillet, en pleine canicule.
 tag: Récit
 ---
 
