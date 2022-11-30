@@ -1,8 +1,8 @@
 
 
-<h1>Idées</h1>
+<h1>Billets</h1>
 <div class="posts">
-  {% for post in site.categories.Idees %}
+  {% for post in site.categories.Billets %}
   <article class="post">
 
    <h3 style="margin-bottom:0">
