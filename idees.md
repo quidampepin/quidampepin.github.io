@@ -2,7 +2,7 @@
 
 <h1>Idées</h1>
 <div class="posts">
-  {% for post in site.categories.idees %}
+  {% for post in site.categories.Idees %}
   <article class="post">
 
    <h3 style="margin-bottom:0">
