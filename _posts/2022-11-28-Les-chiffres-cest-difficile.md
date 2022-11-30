@@ -2,10 +2,11 @@
 layout: post
 title: Les chiffres, c'est difficile
 category: Notes
-description: Comment concevoir du contenu pour les gens à faible numéracie
+description: Concevoir du contenu pour les gens à faible numéracie.
 tag: Note
 ---
 
-Une affiche géniale quoi faire et ne pas faire pour aider les gens à comprendre les chiffres dans nos designs: 
+Une affiche géniale sur quoi faire et ne pas faire pour aider les gens à comprendre les chiffres dans nos designs: 
 
-https://twitter.com/LauraParkerUX/status/1597160048786313216
+[Twitter: Designing for users with dyscalculia or low numeracy ](https://twitter.com/LauraParkerUX/status/1597160048786313216)
+
