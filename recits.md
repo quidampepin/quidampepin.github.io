@@ -5,12 +5,12 @@
   {% for post in site.categories.recits %}
 
 
-      <article class="post">
+  <article class="post">
 
-       <h3 style="margin-bottom:0">
+  <h3 style="margin-bottom:0">
    
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </h2>
+   <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h3>
       <div class="date">
         {{ post.date | date: "%Y-%m-%d"}}
       </div>
@@ -18,7 +18,7 @@
         {{ post.description }}
       </p>
 
-    </article>
+  </article>
     
   {% endfor %}
 </div>
