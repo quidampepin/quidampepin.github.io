@@ -4,7 +4,9 @@ layout: default
 
 <h1>Bienvenue</h1>
 
-  <p>Notes, idées et récits au sujet de tout et de rien. <p/>
+<p>Je suis un fonctionnaire fédéral, agent libre du gouvernement du Canada. Je suis présentement à l'emploi de l'Agence de la Santé Publique du Canada. <p/>  
+  <p>Ma spécialité est la conception de contenu (content design), la conception de services (service design) et l'UX. <p/>  
+<p>Vous trouverez ici des notes, des idées et des récits au sujet de tout et de rien. Parfois lié à mon emploi, et parfois non.<p/>
 
 
 <div class="posts">
@@ -15,15 +17,16 @@ layout: default
     <article class="post">
 
        <h3 style="margin-bottom:0">
+        <div class="date">
+          {{ post.date | date: "%Y-%m-%d"}}
+        </div>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h2>
        <p>
         {{ post.description }}
       </p>
 
-      <div class="date">
-        {{ post.date | date: "%Y-%m-%d"}}
-      </div>
+  
 
     </article>
   {% endfor %}
