@@ -2,14 +2,13 @@
 layout: post
 title: Testing plan
 category: Idees
-description: Un plan de test d'utilisabilité
+excerpt_separator: <!--more-->
 tag: Billet
 ---
 
-## Summary-Test
-
 We are running usability testing on the Infobase landing page prototype to make sure it works as intended. The landing page should make it easy to find different types of data products. 
 
+<!--more-->
 
 ## Methodology
 
