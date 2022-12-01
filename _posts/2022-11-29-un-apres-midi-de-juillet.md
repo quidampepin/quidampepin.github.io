@@ -2,11 +2,12 @@
 layout: post
 title: Un après-midi de juillet
 category: recits
-description: L'appel a retenti dans la maison vers deux heures de l'après-midi. C'était une journée radieuse de juillet, en pleine canicule.
+excerpt_separator: <!--more-->
 tag: Récit
 ---
 
 L'appel a retenti dans la maison vers deux heures de l'après-midi. C'était une journée radieuse de juillet, en pleine canicule. Les enfants jouaient dans la piscine, pendant que je sirotais tranquillement ma bière. J'ai déposé ma 50 et j'ai couru vers le téléphone. J'ai décroché à la quatrième sonnerie, juste avant que le répondeur embarque. C’était mon frère Régent, la voix étranglée par l’émotion, qui m’a appris la nouvelle. Mon père était mort. 
+<!--more-->
 
 Apprendre la nouvelle aux enfants n’a pas été trop difficile, somme toute. Bien sûr, David va s’ennuyer des immenses bols de crème glacée trois-couleurs, des conseils de baseball, ce genre de choses. Mails ils n’avaient pas l’air trop dévastés. Ils ne le voyaient pas si souvent, après tout. J’ai rapidement fait ma valise, le strict nécessaire, et j’ai pris la route vers Montréal.
 
