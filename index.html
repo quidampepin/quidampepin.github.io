@@ -27,9 +27,9 @@ layout: default
         {{ post.date | date: "%Y-%m-%d"}} - {{ post.tag }}
       </div>
        <p style="margin-top: .5em;">
-        {{ post.excerpt }}
+        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste</a>
       </p>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lire le reste</a>
+
 
   
 
