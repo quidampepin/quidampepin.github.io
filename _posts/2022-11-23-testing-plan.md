@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing plan
-category: Idees
+category: Billets
 excerpt_separator: <!--more-->
 tag: Billet
 ---
