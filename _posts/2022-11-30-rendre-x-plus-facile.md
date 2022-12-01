@@ -7,6 +7,7 @@ tag: Note
 ---
 
 Enfilade Twitter intéressante sur nos objectifs de design:
+
 [Twitter: I bonk people who say "feature X makes it easier to..." on the head with my design stick. ](https://twitter.com/PavelASamsonov/status/1597660843746897922)
 
 <!--more-->
