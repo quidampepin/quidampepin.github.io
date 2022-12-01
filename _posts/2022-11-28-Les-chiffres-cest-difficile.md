@@ -2,7 +2,7 @@
 layout: post
 title: Les chiffres, c'est difficile
 category: Notes
-description: Concevoir du contenu pour les gens à faible numéracie.
+excerpt_separator: <!--more-->
 tag: Note
 ---
 
