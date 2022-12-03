@@ -1,4 +1,6 @@
-
+---
+category: recits
+---
 
 <h1>Récits</h1>
 <div class="posts">
