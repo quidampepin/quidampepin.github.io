@@ -28,10 +28,25 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/notes/">Notes</a>
-            <a href="{{ site.baseurl }}/billets/">Billets</a>
-            <a href="{{ site.baseurl }}/recits/">Récits</a>
-          </nav>
+  <ul>
+    <li>
+      <a href="/notes/" {% if page.category == "Notes" %}style="border-bottom: 5px solid #000"{% endif %}>
+        Notes
+      </a>
+    </li>
+    <li>
+      <a href="/billets/" {% if page.category == "Billets" %}style="border-bottom: 5px solid #000"{% endif %}>
+        Billets
+      </a>
+    </li>
+    <li>
+      <a href="/recits/" {% if page.category == "recits" %}style="border-bottom: 5px solid #000"{% endif %}>
+        Récits
+      </a>
+    </li>
+  </ul>
+</nav>
+
    
         </header>
         
