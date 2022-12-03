@@ -1,3 +1,6 @@
+---
+category: Notes
+---
 
 
 <h1>Notes</h1>
