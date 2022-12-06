@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rendre X plus facile...
+title: Nos objectifs de design
 category: Notes
 excerpt_separator: <!--more-->
 tag: Note
