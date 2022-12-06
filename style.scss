@@ -220,6 +220,10 @@ nav {
   float: right;
 
 
+nav a:hover {
+  border-bottom: 5px solid $darkGray;
+}
+
 
   a {
     margin-right: 20px;
@@ -228,7 +232,7 @@ nav {
     text-align: right;
     font-weight: 600;
     letter-spacing: 1px;
-
+	  
   }
   @include mobile {
     float: none;

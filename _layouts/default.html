@@ -28,10 +28,19 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/notes/">Notes</a>
-            <a href="{{ site.baseurl }}/billets/">Billets</a>
-            <a href="{{ site.baseurl }}/recits/">Récits</a>
-          </nav>
+  
+    
+      <a href="/notes/" {% if page.category == "Notes" %}style="border-bottom: 5px solid #222"{% endif %}>
+        Notes</a>
+    
+      <a href="/billets/" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
+        Billets</a>
+    
+      <a href="/recits/" {% if page.category == "recits" %}style="border-bottom: 5px solid #222"{% endif %}>
+        Récits</a>
+    
+</nav>
+
    
         </header>
         

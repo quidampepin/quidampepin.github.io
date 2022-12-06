@@ -1,3 +1,6 @@
+---
+category: Billets
+---
 
 
 <h1>Billets</h1>
