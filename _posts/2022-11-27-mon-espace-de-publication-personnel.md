@@ -13,7 +13,7 @@ Après plusieurs essais infructueux dans le passé, j'ai décidé de me créer u
 
 ## Mes sujets de prédilection
 
-Une bonne proportion de ce que je prévois d'écrire touche à mon travail: la conception de contenu (_content design_), l’expérience utilisateur (UX), la présence Web et la prestation de service du gouvernement du Canada., et l’amélioration continue basée sur les données probantes (_evidence-based continuous improvement_)  
+Une bonne proportion de ce que je prévois d'écrire touche à mon travail: la conception de contenu (_content design_), l’expérience utilisateur (UX), la présence Web et la prestation de service du gouvernement du Canada, et l’amélioration continue basée sur les données probantes (_evidence-based continuous improvement_)  
 
 J’entends le faire tout en respectant mon code d’éthique, bien sûr (je compte faire un billet sur cette question, mais en attendant ce billet écrit par Sean Boots reflète assez bien ma position: [Principles for blogging as a public servant](https://sboots.ca/2020/01/21/principles-for-blogging-as-a-public-servant/). 
 
