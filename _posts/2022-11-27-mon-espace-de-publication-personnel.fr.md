@@ -4,6 +4,7 @@ title: Mon espace de publication personnel
 category: Billets
 excerpt_separator: <!--more-->
 tag: Billet
+lang: fr
 ---
 
 

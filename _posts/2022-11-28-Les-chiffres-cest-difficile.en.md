@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Les chiffres, c'est difficile
+title: Numbers are hard
 category: Notes
 excerpt_separator: <!--more-->
 tag: Note
+lang: en
 ---
 
-Une affiche géniale sur quoi faire et ne pas faire pour aider les gens à comprendre les chiffres dans nos designs: 
+A great do's and don'ts poster to help people understand the numbers in our designs:
+
 <!--more-->
 
 [Twitter: Designing for users with dyscalculia or low numeracy ](https://twitter.com/LauraParkerUX/status/1597160048786313216)

@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<h1>Welcome</h1>
+
+<div style="max-width: 65ch;">
+
+
+  <p>Welcome to my personal publishing space. The opinions and ideas presented here are my own, and do not represent the opinion of my employer.</p>  
+
+
+<p>I am one of <a href="https://wiki.gccollab.ca/Canada%27s_Free_Agents">Canada's Free Agents</a>,  , currently employed by the Public Health Agency of Canada. </p>
+   </div>
+<div class="posts">
+  
+  <h2>Latest entries</h2>
+
+  {% for post in site.posts %}
+    <article class="post">
+
+       <h3 style="margin-bottom:0">
+   
+      {{ post.title }}
+      </h3>
+      <div class="date">
+        {{ post.date | date: "%Y-%m-%d"}} - {{ post.tag }}
+      </div>
+       <p style="margin-top: .5em;">
+        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Read the rest of "{{ post.title }}"</a>
+      </p>
+
+
+  
+
+    </article>
+  {% endfor %}
+</div>
