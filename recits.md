@@ -4,7 +4,7 @@ lang: fr
 ref: recits
 ---
 
-<h1>Stories</h1>
+<h1>Récits</h1>
 <div class="posts">
   {% assign posts=site.categories.recits | where:"lang", page.lang %}
   {% for post in posts %}
