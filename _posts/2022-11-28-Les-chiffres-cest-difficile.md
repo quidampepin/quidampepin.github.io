@@ -4,6 +4,8 @@ title: Les chiffres, c'est difficile
 category: Notes
 excerpt_separator: <!--more-->
 tag: Note
+lang: fr
+ref: chiffres-difficile
 ---
 
 Une affiche géniale sur quoi faire et ne pas faire pour aider les gens à comprendre les chiffres dans nos designs: 

@@ -4,6 +4,8 @@ title: Un après-midi de juillet
 category: recits
 excerpt_separator: <!--more-->
 tag: Récit
+lang: fr
+ref: juillet
 ---
 
 L'appel a retenti dans la maison vers deux heures de l'après-midi. C'était une journée radieuse de juillet, en pleine canicule. Les enfants jouaient dans la piscine, pendant que je sirotais tranquillement ma bière. J'ai déposé ma 50 et j'ai couru vers le téléphone. J'ai décroché à la quatrième sonnerie, juste avant que le répondeur embarque. C’était mon frère Régent, la voix étranglée par l’émotion, qui m’a appris la nouvelle. Mon père était mort. 

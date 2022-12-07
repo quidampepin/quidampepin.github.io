@@ -1,5 +1,7 @@
 ---
 category: recits
+lang: fr
+ref: recits
 ---
 
 <h1>Récits</h1>

@@ -1,5 +1,7 @@
 ---
 category: Notes
+lang: fr
+ref: notes
 ---
 
 
