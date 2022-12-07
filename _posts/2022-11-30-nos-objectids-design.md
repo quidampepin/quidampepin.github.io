@@ -4,7 +4,6 @@ title: Nos objectifs de design
 category: Notes
 excerpt_separator: <!--more-->
 tag: Note
-lang: fr
 ---
 
 Dans une optique basée sur les résultats (*outcomes*), ce n'est pas suffisant de dire "Nous voulons rendre X plus facile". Cela implique que X n'est pas facile aujourd'hui, mais pourquoi? En quoi est-ce que le design proposé va rendre X plus facile? 

@@ -1,7 +1,0 @@
-{% if page.lang %}
-  {% assign current_lang = page.lang %}
-{% else %}
-  {% assign current_lang = site.default_lang %}
-{% endif %}
-
-{% include_relative i18n/{{ current_lang }}/index.html %}
