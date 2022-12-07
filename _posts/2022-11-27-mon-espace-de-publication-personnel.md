@@ -24,13 +24,13 @@ En somme, il s’agit d’un espace de publication plutôt éclectique.
 
 ## En français
 
-J’avais d’abord pensé écrire en anglais. J’ai ensuite pensé à tout publier en anglais et en français. Puis j’ai finalement opté pour rédiger uniquement en français. 
+J’avais d’abord pensé écrire en anglais, histoire d'être compris par la majorité. J’ai ensuite pensé à tout publier dans les deux langues. Puis j’ai finalement opté pour rédiger uniquement en français. 
 
 Pourquoi? 
 
-D’abord, plusieurs fonctionnaires fédéraux publient ce genre de texte. Je pense à [Sean Boots](https://sboots.ca/), [Honey Dacanay](https://honeygolightly.medium.com/), et [Paul Craig.](https://federal-field-notes.ca/) À ma connaissance, la vaste majorité de ces textes sont publiés en anglais seulement. J’ai longtemps dit que j’aimerais voir ces textes publiés dans les deux langues. Manifestement, ce n’est pas raisonnable de demander à des individus de publier dans les deux langues officielles. 
+D’abord, plusieurs fonctionnaires fédéraux publient ce genre de texte. Je pense entre autres à [Sean Boots](https://sboots.ca/), [Honey Dacanay](https://honeygolightly.medium.com/), et [Paul Craig.](https://federal-field-notes.ca/) À ma connaissance, la vaste majorité de ces textes sont publiés en anglais seulement. J’ai longtemps dit que j’aimerais voir ces textes publiés dans les deux langues. Manifestement, ce n’est pas raisonnable de demander à des individus de publier dans les deux langues officielles. 
 
-Publier en français est ma façon d’injecter un peu de français dans cet espace public. 
+Publier en français est ma façon d’injecter un peu de la deuxième langue officielle dans l'espace public. 
 
 Ensuite, je passe mes journées à travailler en anglais. Rédiger dans ma langue maternelle est un plaisir que je m’accorde trop peu souvent. 
 
