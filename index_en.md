@@ -17,7 +17,7 @@ ref: index
 <div class="posts">
   
   <h2>Last entries</h2>
-
+  {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in site.posts %}
     <article class="post">
 
