@@ -7,7 +7,7 @@ ref: notes
 
 <h1>Notes</h1>
 <div class="posts">
-  {% assign posts=site.posts | where:"lang", page.lang and "category", Notes%}
+  {% assign posts=site.categories.Notes | where:"lang", page.lang %}
   {% for post in posts %}
    <article class="post">
 
