@@ -1,31 +1,29 @@
 ---
-category: recits
-lang: fr
-ref: recits
+category: Billets
+lang: en
+ref: billets
 ---
 
-<h1>Stories</h1>
+
+<h1>Posts</h1>
 <div class="posts">
-  {% assign posts=site.categories.recits | where:"lang", page.lang %}
+  {% assign posts=site.categories.Billets | where:"lang", page.lang %}
   {% for post in posts %}
 
   <article class="post">
 
-  <h3 style="margin-bottom:0">
+   <h3 style="margin-bottom:0">
    
-{{ post.title }}
+   {{ post.title }}
       </h3>
       <div class="date">
         {{ post.date | date: "%Y-%m-%d"}}
       </div>
           <p style="margin-top: .5em;">
         {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste de "{{ post.title }}"</a>
-
       </p>
 
   </article>
     
   {% endfor %}
 </div>
-
-

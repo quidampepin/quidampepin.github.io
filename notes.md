@@ -7,7 +7,8 @@ ref: notes
 
 <h1>Notes</h1>
 <div class="posts">
-  {% for post in site.categories.Notes %}
+    {% assign posts=site.categories.Notes | where:"lang", page.lang %}
+  {% for post in posts %}
    <article class="post">
 
    <h3 style="margin-bottom:0">
