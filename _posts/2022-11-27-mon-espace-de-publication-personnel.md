@@ -28,7 +28,7 @@ J’avais d’abord pensé écrire en anglais, histoire d'être compris par la m
 
 Pourquoi? 
 
-D’abord, plusieurs fonctionnaires fédéraux publient ce genre de texte. Je pense entre autres à [Sean Boots](https://sboots.ca/), [Honey Dacanay](https://honeygolightly.medium.com/), et [Paul Craig.](https://federal-field-notes.ca/) À ma connaissance, la vaste majorité de ces textes sont publiés en anglais seulement. J’ai longtemps dit que j’aimerais voir ces textes publiés dans les deux langues. Manifestement, ce n’est pas raisonnable de demander à des individus de publier dans les deux langues officielles. 
+D’abord, plusieurs fonctionnaires fédéraux publient ce genre de texte. Je pense entre autres à [Sean Boots](https://sboots.ca/), [Honey Dacanay](https://honeygolightly.medium.com/), [Paul Craig.](https://federal-field-notes.ca/) et [Andrea Hill](https://afhill.medium.com/). À ma connaissance, la vaste majorité de ces textes sont publiés en anglais seulement. J’ai longtemps dit que j’aimerais voir ces textes publiés dans les deux langues. Manifestement, ce n’est pas raisonnable de demander à des individus de publier dans les deux langues officielles. 
 
 Publier en français est ma façon d’injecter un peu de la deuxième langue officielle dans l'espace public. 
 

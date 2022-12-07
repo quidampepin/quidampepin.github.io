@@ -10,13 +10,13 @@ category: Notes
 
    <h3 style="margin-bottom:0">
    
-   <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+   {{ post.title }}
       </h3>
       <div class="date">
         {{ post.date | date: "%Y-%m-%d"}}
       </div>
            <p style="margin-top: .5em;">
-        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste</a>
+        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste de "{{ post.title }}"</a>
       </p>
 
 
