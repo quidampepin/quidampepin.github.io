@@ -8,7 +8,7 @@ lang: EN
 ref: juillet
 ---
 
-The call rang through the house at about two in the afternoon. It was a bright July day, in the middle of a heat wave. The kids were playing in the pool, while I sipped my beer. I put down my Labbatt 50 and ran to the phone. I picked up on the fourth ring, just before the answering machine would do it. It was my brother Regent, his voice choked with emotion, who told me the news. My father had died.
+The call rang through the house at about two in the afternoon. It was a bright July day, in the middle of a heat wave. The kids were playing in the pool, while I sipped my beer. I put down my Labatt 50 and ran to the phone. I picked up on the fourth ring, just before the answering machine would do it. It was my brother Regent, his voice choked with emotion, who told me the news. My father had died.
 
 It wasn't too hard to tell the kids the news, after all. Of course, David will miss the huge bowls of three-color ice cream, the baseball tips, that sort of thing. But they didn't seem too devastated. They didn't see him that often, all in all. I quickly packed my suitcase, the bare necessities, and headed to Montreal.
 
@@ -100,7 +100,7 @@ I burst out laughing:
 
 "I was eight years old, you were six..."
 
-I laughed to tears, but I'm not sure where they came from, those tears...
+I laughed until I cried, but I'm not sure where they came from, those tears...
 
 "My God... They were so surprised to see two young rascals with guns!"
 
@@ -118,7 +118,7 @@ I had forgotten about that, before Regent mentioned it. I remembered heroic batt
 
 After a sober funeral service, the funeral home was painful, as always. Even though I know it's important for mourning, I always found it strange to parade in front of an inanimate, bloated body, filled with strange substances to make it look a little real. I guess you wouldn't want to remember someone you love in their final demise.
 
-We went back to Regent's after the funeral home. Just him and me. Of the 10.82 we had found and the $30, we a grand total of $28.82 left. Enough for a 12-pack and a pizza.
+We went back to Regent's after the funeral home. Just him and me. Of the 10.82 we had found and the $30, we had a grand total of $28.82 left. Enough for a 12-pack and a pizza.
 
 We ate without speaking, in a rather heavy silence.
 
