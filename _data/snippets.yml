@@ -9,6 +9,7 @@ en:
   recitsname: Stories
   recitsurl: /stories/
   creativecommons: Made available under the
+  language: EN
 
 fr:
   homename: David Pepin
@@ -20,3 +21,4 @@ fr:
   recitsname: Récits
   recitsurl: /recits/
   creativecommons: Mis à disposition selon les termes de la
+  language: FR
