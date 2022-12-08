@@ -6,7 +6,7 @@ layout: default
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
   
-    <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{% if post.lang == en %} EN {% elsif post.lang == fr %} FR % endif %}</a>   
+    <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
   {% endfor %}
   <h1>{{ page.title }}</h1>
 

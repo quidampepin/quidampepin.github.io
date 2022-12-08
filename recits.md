@@ -1,6 +1,6 @@
 ---
 category: recits
-lang: fr
+lang: FR
 ref: recits
 ---
 

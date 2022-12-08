@@ -1,6 +1,6 @@
 ---
 category: Notes
-lang: en
+lang: EN
 ref: notes
 ---
 

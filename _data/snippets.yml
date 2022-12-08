@@ -1,5 +1,5 @@
 
-en:
+EN:
   homename: David Pepin
   homeurl: /index_en/
   notesname: Notes
@@ -9,9 +9,9 @@ en:
   recitsname: Stories
   recitsurl: /stories/
   creativecommons: Made available under the
-  language: EN
 
-fr:
+
+FR:
   homename: David Pepin
   homeurl: /index_fr/
   notesname: Notes
@@ -21,4 +21,3 @@ fr:
   recitsname: Récits
   recitsurl: /recits/
   creativecommons: Mis à disposition selon les termes de la
-  language: FR

@@ -4,7 +4,7 @@ title: A July afternoon
 category: recits
 excerpt_separator: <!--more-->
 tag: Récit
-lang: en
+lang: EN
 ref: juillet
 ---
 English test - Not yet translated

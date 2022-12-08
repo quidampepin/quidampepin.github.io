@@ -4,7 +4,7 @@ title: Un après-midi de juillet
 category: recits
 excerpt_separator: <!--more-->
 tag: Récit
-lang: fr
+lang: FR
 ref: juillet
 ---
 

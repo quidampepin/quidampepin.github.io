@@ -1,6 +1,6 @@
 ---
 category: Billets
-lang: fr
+lang: FR
 ref: billets
 ---
 

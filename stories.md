@@ -1,10 +1,10 @@
 ---
 category: recits
-lang: en
+lang: EN
 ref: recits
 ---
 
-<h1>Récits</h1>
+<h1>Stories</h1>
 <div class="posts">
 
   {% assign posts=site.categories.recits | where:"lang", page.lang %}

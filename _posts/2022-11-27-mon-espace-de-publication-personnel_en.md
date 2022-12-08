@@ -4,7 +4,7 @@ title: My personal publishing space
 category: Billets
 excerpt_separator: <!--more-->
 tag: Post
-lang: en
+lang: EN
 ref: espace
 ---
 

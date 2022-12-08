@@ -4,7 +4,7 @@ title: Remplacer les sprints?
 category: Notes
 excerpt_separator: <!--more-->
 tag: Note
-lang: fr
+lang: FR
 ref: remplacer-sprints
 ---
 

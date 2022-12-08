@@ -4,7 +4,7 @@ title: Numbers are hard
 category: Notes
 excerpt_separator: <!--more-->
 tag: Note
-lang: en
+lang: EN
 ref: chiffres-difficile
 ---
 

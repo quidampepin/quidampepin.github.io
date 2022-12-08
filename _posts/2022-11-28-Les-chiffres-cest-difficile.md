@@ -4,7 +4,7 @@ title: Les chiffres, c'est difficile
 category: Notes
 excerpt_separator: <!--more-->
 tag: Note
-lang: fr
+lang: FR
 ref: chiffres-difficile
 ---
 

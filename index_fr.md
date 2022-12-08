@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: fr
+lang: FR
 ref: index
 ---
 
