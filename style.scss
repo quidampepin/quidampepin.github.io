@@ -255,6 +255,10 @@ nav a:hover {
     text-align: right;
     letter-spacing: 1px;
 	  
+
+  @include mobile {
+    float: none;
+  }
 }
 
 
