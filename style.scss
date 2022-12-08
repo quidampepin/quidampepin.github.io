@@ -218,21 +218,21 @@ nav {
   font-weight: 600;
   font-size: 22px;
   float: right;
-
+}
 
 nav a:hover {
   border-bottom: 5px solid $darkGray;
 }
 
 
-selector {
+.selector {
   font-family: $opensans;
   font-weight: 600;
   font-size: 22px;
   float: right;
+}
 
-
-selector a:hover {
+.selector a:hover {
   border-bottom: 5px solid $darkGray;
 }
 
