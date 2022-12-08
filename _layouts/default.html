@@ -19,26 +19,28 @@
   </head>
 
   <body>
-    {%- assign snippets = site.data.snippets %}
+    {% assign pagelang = site.data.snippets[page.lang] %}
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
 
           <div class="site-name">
-            <a href="{{ snippets.homeurl[page.language] }}">{{ snippets.homename[page.language] }}}</a>
+            <a href="{{ pagelang.homeurl }}">{{ pagelang.homename}}}</a>
           </div>
 
           <nav>
-  
+            
+
+
     
-      <a href="{{ snippets.notesurl[page.language] }}" {% if page.category == "Notes" %}style="border-bottom: 5px solid #222"{% endif %}>
-        {{ {{ snippets.notesname[page.language] }}</a>
+      <a href="{{ pagelang.notesurl }}}" {% if page.category == "Notes" %}style="border-bottom: 5px solid #222"{% endif %}>
+        {{ pagelang.notesname }}</a>
     
-      <a href="{{ snippets.billetsurl[page.language] }}" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
-        {{ snippets.billetsname[page.language] }}}</a>
+      <a href="{{ pagelang.billetsurl }}" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
+        {{ pagelang.billetsname }}</a>
     
-      <a href="{{ snippets.recitsurl[page.language] }}" {% if page.category == "recits" %}style="border-bottom: 5px solid #222"{% endif %}>
-        {{ snippets.recitsname[page.language] }}</a>
+      <a href="{{ pagelang.recitsurl }}" {% if page.category == "recits" %}style="border-bottom: 5px solid #222"{% endif %}>
+        {{ pagelang.recitsname }}</a>
     
 </nav>
 

@@ -1,0 +1,20 @@
+
+en:
+  homename: David Pepin
+  homeurl: /index_en/
+  notesname: Notes
+  notesurl: /notes_en/
+  billetsname: Posts
+  billetsurl: /posts/
+  recitsname: Stories
+  recitsurl: /stories/
+
+fr:
+  homename: David Pepin
+  homeurl: /index_fr/
+  notesname: Notes
+  notesurl: /notes/
+  billetsname: Billets
+  billetsurl: /billets/
+  recitsname: Récits
+  recitsurl: /recits/
