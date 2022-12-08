@@ -42,7 +42,7 @@ So, I will write in French, and do my best to translate and publish in both lang
 
 A few technical notes in closing.
 
-I decided to build this space using Jekyll, publishing directly to GitHub. It's simple to use, free and open. Also, I wanted a very minimalistic design, to put the emphasis the text.
+I decided to build this space using Jekyll, publishing directly to GitHub. It's simple to use, free and open. Also, I wanted a very minimalistic design, to put emphasis on the text.
 
 I started from [Jekyll Now](https://github.com/barryclark/jekyll-now), and created my own [GitHub repository](https://github.com/quidampepin/quidampepin.github.io). 
 
