@@ -1,12 +1,12 @@
 ---
-layout: post
 category: recits
 lang: FR
 ref: recits
 ---
 
 <h1>Récits</h1>
-
+ <a class="selector" href="/recits/" style="border-bottom: 5px solid #222">FR</a>  
+ <a class="selector" href="/stories/">EN</a>   
 
 <div class="posts">
   {% assign posts=site.categories.recits | where:"lang", page.lang %}
