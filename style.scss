@@ -225,6 +225,18 @@ nav a:hover {
 }
 
 
+selector {
+  font-family: $opensans;
+  font-weight: 600;
+  font-size: 22px;
+  float: right;
+
+
+selector a:hover {
+  border-bottom: 5px solid $darkGray;
+}
+
+
   a {
     margin-right: 20px;
     color: $darkGray;
