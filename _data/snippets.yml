@@ -4,7 +4,7 @@ EN:
   homeurl: /index_en/
   notesname: Notes
   notesurl: /notes_en/
-  billetsname: Posts
+  billetsname: Blog
   billetsurl: /posts/
   recitsname: Stories
   recitsurl: /stories/
@@ -16,7 +16,7 @@ FR:
   homeurl: /index_fr/
   notesname: Notes
   notesurl: /notes/
-  billetsname: Billets
+  billetsname: Blogue
   billetsurl: /billets/
   recitsname: Récits
   recitsurl: /recits/

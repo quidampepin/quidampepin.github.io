@@ -32,15 +32,16 @@
             
 
 
-    
-      <a href="{{ pagelang.notesurl }}" {% if page.category == "Notes" %}style="border-bottom: 5px solid #222"{% endif %}>
-        {{ pagelang.notesname }}</a>
+   
     
       <a href="{{ pagelang.billetsurl }}" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
         {{ pagelang.billetsname }}</a>
     
       <a href="{{ pagelang.recitsurl }}" {% if page.category == "recits" %}style="border-bottom: 5px solid #222"{% endif %}>
         {{ pagelang.recitsname }}</a>
+
+        <a href="{{ pagelang.notesurl }}" {% if page.category == "Notes" %}style="border-bottom: 5px solid #222"{% endif %}>
+          {{ pagelang.notesname }}</a>
     
 </nav>
 
