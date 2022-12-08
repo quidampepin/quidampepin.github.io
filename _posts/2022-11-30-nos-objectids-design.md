@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nos objectifs de design
+title: Raffiner nos objectifs de design
 category: Notes
 excerpt_separator: <!--more-->
 tag: Note
