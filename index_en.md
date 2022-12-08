@@ -12,7 +12,7 @@ ref: index
   <p>Welcome to my personal publishing space. The opinions and ideas presented here are my own, and do not represent the opinion of my employer.</p>  
 
 
-<p>I am on one of <a href="https://wiki.gccollab.ca/Canada%27s_Free_Agents">Canada's Free Agents</a>, currently employed by the Public Health Agency of Canada.</p>
+<p>I am one of <a href="https://wiki.gccollab.ca/Canada%27s_Free_Agents">Canada's Free Agents</a>, currently employed by the Public Health Agency of Canada.</p>
    </div>
 <div class="posts">
   
