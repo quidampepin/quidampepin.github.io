@@ -10,9 +10,10 @@ ref: juillet
 
 The call rang through the house at about two in the afternoon. It was a bright July day, in the middle of a heat wave. The kids were playing in the pool, while I sipped my beer. I put down my Labatt 50 and ran to the phone. I picked up on the fourth ring, just before the answering machine would do it. It was my brother Regent, his voice choked with emotion, who told me the news. My father had died.
 
+<!--more-->
+
 It wasn't too hard to tell the kids the news, after all. Of course, David will miss the huge bowls of three-color ice cream, the baseball tips, that sort of thing. But they didn't seem too devastated. They didn't see him that often, all in all. I quickly packed my suitcase, the bare necessities, and headed to Montreal.
 
-<!--more-->
 
 I knew it would eventually catch up with him, all those excesses. This need to quench an endless thirst, to numb the pain. A little artificial comfort in a hard, arid, hostile world. I can't blame him, actually.
 
