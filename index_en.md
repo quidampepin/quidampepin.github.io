@@ -4,19 +4,19 @@ lang: EN
 ref: index
 ---
 
-<h1>Bienvenue</h1>
+<h1>Welcome</h1>
 
 <div style="max-width: 65ch;">
 
 
-  <p>Englis test - Bienvenue dans mon espace de publication personnel. Les opinions et les idées présentées ici n'engagent que moi, et ne représenent pas l'opinion de mon employeur. </p>  
+  <p>Welcome to my personal publishing space. The opinions and ideas presented here are my own, and do not represent the opinion of my employer.</p>  
 
 
-<p>Je suis un <a href="https://wiki.gccollab.ca/Agents_libres_du_Canada">agent libre du Canada</a>, présentement à l'emploi de l'Agence de la Santé Publique du Canada. </p>
+<p>I am on one of <a href="https://wiki.gccollab.ca/Canada%27s_Free_Agents">Canada's Free Agents</a>, currently employed by the Public Health Agency of Canada.</p>
    </div>
 <div class="posts">
   
-  <h2>Last entries</h2>
+  <h2>Latest entries</h2>
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in posts %}
     <article class="post">

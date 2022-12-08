@@ -4,7 +4,7 @@ lang: FR
 ref: recits
 ---
  
-<h1>Récits</h1>
+<h1>Fiction</h1>
 
 
 <div class="posts">
@@ -21,7 +21,7 @@ ref: recits
         {{ post.date | date: "%Y-%m-%d"}}
       </div>
           <p style="margin-top: .5em;">
-        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste de "{{ post.title }}"</a>
+        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste de « {{ post.title }} »</a>
 
       </p>
 

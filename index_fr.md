@@ -29,7 +29,7 @@ ref: index
         {{ post.date | date: "%Y-%m-%d"}} - {{ post.tag }}
       </div>
        <p style="margin-top: .5em;">
-        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste de "{{ post.title }}"</a>
+        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste de « {{ post.title }} »</a>
       </p>
 
 

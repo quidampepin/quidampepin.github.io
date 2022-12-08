@@ -5,7 +5,7 @@ ref: billets
 ---
 
 
-<h1>Posts</h1>
+<h1>Blog</h1>
 <div class="posts">
   {% assign posts=site.categories.Billets | where:"lang", page.lang %}
   {% for post in posts %}

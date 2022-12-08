@@ -5,7 +5,7 @@ ref: billets
 ---
 
 
-<h1>Billets</h1>
+<h1>Blogue</h1>
 <div class="posts">
    {% assign posts=site.categories.Billets | where:"lang", page.lang %}
   {% for post in posts %}
@@ -20,7 +20,7 @@ ref: billets
         {{ post.date | date: "%Y-%m-%d"}}
       </div>
           <p style="margin-top: .5em;">
-        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste de "{{ post.title }}"</a>
+        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste de « {{ post.title }} »</a>
       </p>
 
   </article>
