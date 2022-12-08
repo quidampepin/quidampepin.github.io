@@ -4,7 +4,7 @@ title: Nos objectifs de design
 category: Notes
 excerpt_separator: <!--more-->
 tag: Note
-lang: EN
+lang: FR
 ref: objectifs-design
 ---
 
