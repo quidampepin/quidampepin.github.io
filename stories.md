@@ -1,4 +1,5 @@
 ---
+layout: page
 category: recits
 lang: EN
 ref: recits
