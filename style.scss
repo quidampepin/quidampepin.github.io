@@ -218,24 +218,11 @@ nav {
   font-weight: 600;
   font-size: 22px;
   float: right;
-}
+
 
 nav a:hover {
   border-bottom: 5px solid $darkGray;
 }
-
-
-.selector {
-  font-family: $opensans;
-  font-weight: 600;
-  font-size: 22px;
-  float: right;
-}
-
-.selector a:hover {
-  border-bottom: 5px solid $darkGray;
-}
-
 
   a {
     margin-right: 20px;
@@ -254,6 +241,33 @@ nav a:hover {
 //
 // .main
 //
+
+
+
+.selector {
+  font-family: $opensans;
+  font-weight: 600;
+  font-size: 22px;
+  float: right;
+
+
+.selector a:hover {
+  border-bottom: 5px solid $darkGray;
+}
+
+  a {
+    margin-right: 20px;
+    color: $darkGray;
+    text-decoration: none;
+    text-align: right;
+    font-weight: 600;
+    letter-spacing: 1px;
+	  
+  }
+  @include mobile {
+    float: none;
+  }
+}
 
 .posts {
   max-width:65ch
