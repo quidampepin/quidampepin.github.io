@@ -3,7 +3,7 @@ layout: post
 title: A July afternoon
 category: recits
 excerpt_separator: <!--more-->
-tag: Récit
+tag: Fiction
 lang: EN
 ref: juillet
 ---

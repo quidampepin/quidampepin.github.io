@@ -3,7 +3,7 @@ layout: post
 title: My personal publishing space
 category: Billets
 excerpt_separator: <!--more-->
-tag: Post
+tag: Blog
 lang: EN
 ref: espace
 ---

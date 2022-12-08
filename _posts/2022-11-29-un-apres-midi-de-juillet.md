@@ -3,7 +3,7 @@ layout: post
 title: Un après-midi de juillet
 category: recits
 excerpt_separator: <!--more-->
-tag: Récit
+tag: Fiction
 lang: FR
 ref: juillet
 ---
