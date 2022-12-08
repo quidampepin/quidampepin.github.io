@@ -24,20 +24,20 @@
         <header class="masthead clearfix">
 
           <div class="site-name">
-            <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+            <a href="{{ site.t[page.lang].homeurl }}">{{ site.t[page.lang].homename }}</a>
           </div>
 
           <nav>
   
     
-      <a href="/notes/" {% if page.category == "Notes" %}style="border-bottom: 5px solid #222"{% endif %}>
-        Notes</a>
+      <a href="{{ site.t[page.lang].notesurl}}" {% if page.category == "Notes" %}style="border-bottom: 5px solid #222"{% endif %}>
+        {{ site.t[page.lang].notesname }}</a>
     
-      <a href="/billets/" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
-        Billets</a>
+      <a href="{{ site.t[page.lang].billeturl}}" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
+        {{ site.t[page.lang].billetsname }}</a>
     
-      <a href="/recits/" {% if page.category == "recits" %}style="border-bottom: 5px solid #222"{% endif %}>
-        Récits</a>
+      <a href="{{ site.t[page.lang].recitsurl }}" {% if page.category == "recits" %}style="border-bottom: 5px solid #222"{% endif %}>
+        {{ site.t[page.lang].recitsname }}</a>
     
 </nav>
 
