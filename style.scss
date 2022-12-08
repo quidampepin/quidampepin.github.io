@@ -249,23 +249,20 @@ nav a:hover {
   font-weight: 600;
   font-size: 22px;
   float: right;
- 
+  margin-right: 20px;
+    color: $darkGray;
+    text-decoration: none;
+    text-align: right;
+    letter-spacing: 1px;
+	  
+
   @include mobile {
     float: none;
   }
 }
 
- .selector a {
-    margin-right: 20px;
-    color: $darkGray;
-    text-decoration: none;
-    text-align: right;
-    font-weight: 600;
-    letter-spacing: 1px;
-	  
-  }
 
-.selector a:hover {
+.selector: hover {
   border-bottom: 5px solid $darkGray;
 }
 
