@@ -7,121 +7,121 @@ tag: Fiction
 lang: EN
 ref: juillet
 ---
-English test - Not yet translated
 
-L'appel a retenti dans la maison vers deux heures de l'après-midi. C'était une journée radieuse de juillet, en pleine canicule. Les enfants jouaient dans la piscine, pendant que je sirotais tranquillement ma bière. J'ai déposé ma 50 et j'ai couru vers le téléphone. J'ai décroché à la quatrième sonnerie, juste avant que le répondeur embarque. C’était mon frère Régent, la voix étranglée par l’émotion, qui m’a appris la nouvelle. Mon père était mort. 
+The call rang through the house at about two in the afternoon. It was a bright July day, in the middle of a heat wave. The kids were playing in the pool, while I sipped my beer. I put down my Labbatt 50 and ran to the phone. I picked up on the fourth ring, just before the answering machine would do it. It was my brother Regent, his voice choked with emotion, who told me the news. My father had died.
+
+It wasn't too hard to tell the kids the news, after all. Of course, David will miss the huge bowls of three-color ice cream, the baseball tips, that sort of thing. But they didn't seem too devastated. They didn't see him that often, all in all. I quickly packed my suitcase, the bare necessities, and headed to Montreal.
+
 <!--more-->
 
-Apprendre la nouvelle aux enfants n’a pas été trop difficile, somme toute. Bien sûr, David va s’ennuyer des immenses bols de crème glacée trois-couleurs, des conseils de baseball, ce genre de choses. Mails ils n’avaient pas l’air trop dévastés. Ils ne le voyaient pas si souvent, après tout. J’ai rapidement fait ma valise, le strict nécessaire, et j’ai pris la route vers Montréal.
+I knew it would eventually catch up with him, all those excesses. This need to quench an endless thirst, to numb the pain. A little artificial comfort in a hard, arid, hostile world. I can't blame him, actually.
 
-Je savais bien que ça finirait par le rattraper, tous ces excès. Ce besoin d’étancher une soif sans fin, d’engourdir le mal. Un peu de douillet artificiel dans un monde dur, aride, hostile. Je ne peux pas le blâmer, au fond. 
+I was thinking about all this when I arrived at the apartment. Jean-Paul lived in a half-basement on 13th Avenue, near Masson. When I parked, I saw Regent leaning against the white door of the building, his eternal cigarette in the corner of his mouth, his hands in his pockets.
 
-Je pensais à tout ça quand je suis arrivé à l’appartement. Jean-Paul habitait un demi sous-sol, sur la 13e avenue, près de Masson. Quand je me suis stationné, j'ai vu Régent adossé à la porte blanche de l'immeuble, son éternelle cigarette au coin de la bouche, les mains dans les poches.
+- Hey brother.
 
-— Salut l'frère.
+- Hey.
 
-— Salut.
+- I'm warning you right now, there's a lot of cleaning to be done in there... I didn't have the heart to start all alone...
 
-— Je t'avertis tout de suite, y'a pas mal de ménage à faire là-dedans... J'avais pas le coeur de commencer tout seul...
+I sketched a semblance of a smile as an answer.
 
-J'ai esquissé un semblant de sourire en guise de réponse.
+His eyes were puffy, his complexion gray. God, he looked like dad...
 
-Il avait les yeux bouffis, le teint gris. Dieu qu’il ressemblait à papa…
+A subtle smile appeared on his face: "Before I came, I went through the bottom of my old box. I found his green cap, you know, the one he wore when we went to Birmingham with him? Do you remember that?"
 
-Un sourire subtil est apparu sur son visage : « Avant de venir, j’ai fouillé au fond de ma vieille boîte. J’ai trouvé sa casquette verte, tsé là, celle qu’il portait quand on est allés à Birmingham avec lui? Tu t’en souviens? »
+Do I remember? How could I forget... My father, a misunderstood hero in my eyes as an eight year old, a trucker by trade, somewhat by accident, had driven from Birmingham to Montreal and back in his big Western Star, with a clutch that didn't cooperate at all. I can still see him, with both feet on the dashboard, pulling like crazy on the gearshift to get out of the truck stop. In my memory as a proud daddy's boy, on that day, he had fought the infernal machine, and he had won.
 
-Si je m’en souvenais? Comment j’aurais pu oublier… Mon père, héros incompris à mes yeux d’enfant de huit ans, _trucker_ de métier un peu par accident, avait fait l’aller-retour Birmingham-Montréal dans son gros Western Star, avec une _clutch_ qui ne coopérait pas du tout. Je le revois encore, les deux pieds sur le tableau de bord, à tirer comme un fou sur le bras de vitesse pour repartir du _truck stop_. En tout cas, dans mon souvenir de ti-gars fier de son papa, cette fois-là, il avait combattu la machine infernale, et il avait gagné. 
+We entered the apartment in silence. The smell of cigarettes was omnipresent. The garbage my father had left behind told me bits and pieces of his last days. Everywhere were empty boxes of "Au Coq" - he delivered chicken. And empty beer bottles. A few bottles of vodka, also empty, and three or four overflowing ashtrays completed the picture. He kept this diet until he was over 60. That's quite a feat, when you think about it.
 
-Nous sommes entrés dans l'appartement en silence. L’odeur de cigarette était omniprésente. Les déchets laissés par mon père me racontaient des bribes de ses dernières journées. Partout traînaient les boîtes vides de « Au Coq » — il livrait du poulet. Et les bouteilles de bière vides. Quelques bouteilles de vodka, vides aussi, et trois ou quatre cendriers qui débordaient complétaient le tableau. Il a tenu ce régime jusqu’à plus de 60 ans. Ce n'est pas rien, quand on y pense.
+They found him in his shower. He hadn't shown up for his delivery shift. That never happened to him. The job called his ex-girlfriend. She came to check on him. When there was no answer, since she still had the key, she went in. His inert body lay at the bottom of the shower. From the state of the bathroom, he must have had something in his stomach, or intestines. Blood and feces everywhere. Heart failure, apparently. The pain was too much, the heart gave out, it seems.
 
-Ils l'ont trouvé dans sa douche. Il ne s'était pas pointé pour son _shift_ de livreur. Ça ne lui arrivait jamais. La job a appelé son ex-blonde. Elle est venue voir. Comme il n'y avait pas de réponse, et qu'elle avait encore la clé, elle est entrée. Son corps inerte gisait au fond de la douche. À voir l'état de la salle de bain, il devait avoir quelque chose à l'estomac, ou aux intestins. Du sang et des excréments un peu partout. Une défaillance cardiaque, que j'ai appris plus tard. La douleur était trop forte, le coeur a lâché, il paraît.
-
-Il faut dire qu’il ne l’a pas eu facile…
+I have to say he didn't have it easy...
 
 1951.
 
-Régent n’avais même pas deux ans, j’avais sept mois. Louise, notre mère, n’était pas encore sortie de l’hôpital depuis l’accouchement. Une histoire de coeur, thrombose, ou quelque chose comme ça. Je n’ai jamais su exactement. 
+Regent was not even two years old, I was seven months old. Louise, our mother, had not yet been discharged from the hospital since the delivery. A heart problem, thrombosis, or something like that. I never knew exactly.
 
-Elle est décédée le 24 novembre.
+She died on November 24.
 
-On oublie facilement, mais c’était avant l’assurance-maladie publique. Six mois, c’était des dizaines de milliers de dollars. 
+It's easy to forget, but that was before public health insurance. Six months was tens of thousands of dollars.
 
-Mon père s’est retrouvé dans la vingtaine, avec deux ti-culs sur les bras, et une dette insurmontable. Bienvenue dans le monde des adultes. 
+My father found himself in his twenties, with two young boys on his hands, and an insurmountable debt. Welcome to the adult world.
 
-Il en a fait des choses pour essayer de s’élever au-dessus de la mêlée… Distribution de gaz naturel avant que ce soit payant, finalement racheté par gaz Métropolitain. Propriétaire de bar, histoire de combiner travail et passion, de joindre l’utile à l’agréable. _Trucker_. Puis livreur de poulet. 
+He did a lot of things to try to rise above the fray... Distribution of natural gas before it was a good-paying idea, bought in the end by Gaz Métropolitain. Bar owner, to combine work and passion, business with pleasure. Trucker. Then chicken delivery man.
 
-Il ne s’en est jamais remis, je pense, de ce trou noir financier. Une vie à se battre contre la machine à intérêts. Et cette fois, il a perdu, je crois bien. 
+He never recovered, I think, from this financial black hole. A lifetime of fighting the interest machine. And this time he lost.
 
-En tout, on a trouvé huit dollars et cinquante-sept cents en change dans une poche de son pantalon, sans doute ce qu’il restait des _tips_ de la veille, et deux dollars et vingt-cinq cents dans les craques du divan brun. Pas de compte de banque, pas de carte de crédit. Quelques babioles sans valeur. Deux ou trois souvenirs importants, des bijoux qui apparteaient à Louise, les boutons de manchette qu’il portait à son mariage. Une vie de travail acharné qui tenait dans une petite boîte.
-
-*     *     *
-
-Le petit bureau de l’arrangeur funéraire correspondait plutôt bien à l’image que je m’en étais fait : morne, brun, froid, avec des relents de trépas…
-
-Le petit homme trapu nous avait fait son petit boniment appris par coeur sur les soins impeccables qu’ils apportaient à nos proches décédés, pour leur dernier “voyage” - Ç’eut été préférable qu’il y ait des soins avant, il me semble. 
-
-Il nous a proposé sa panoplie de cercueils, du plus _cheap_ dont les vers auraient raison en un rien de temps, à la Cadillac chromée qui, dit-on, conserverait notre père dans un état fort acceptable pendant au moins 100 ans.
-
-Puis il nous a proposé la crémation. Mon frère a failli s’étouffer : 
-
- « Es-tu fou crisse! Avec ce qu’il buvait, il va brûler pendant trois jours! »
-
-Jean-Paul avait un arrangement prépayé pour le cercueil _cheap_. Ce sont les vers qui seront contents. 
+All in all, we found eight dollars and fifty-seven cents in change in a pocket of his pants, probably what was left of the previous day's tips, and two dollars and twenty-five cents in the cracks of the brown couch. No bank account, no credit card. A few worthless trinkets. A couple of important mementos, jewelry that belonged to Louise, the cufflinks he wore at his wedding. A lifetime of hard work that fit in a small box.
 
 *     *     *
 
-Il fallait bien faire quelque chose avec sa vieille _minoune_. La rouille avait rongé presque toute la carrosserie, et elle faisait un tout un vacarme en roulant. Comme nous pensions bien refuser la succession — il devait bien avoir des dettes, Jean-Paul —, nous avons décidé d’aller vendre nous-même l’auto à la ferraille. 30$, ça ne nuirait pas. Le gars de la cour à _scrap_ avait l’air sceptique en regardant successivement le permis de conduire de Jean-Paul, puis le visage de Régent : 
+The little office of the funeral arranger corresponded rather well to the image I had formed of it: gloomy, brown, cold, with hints of death...
 
-— 1926, hein?
+The short, stocky man had given us a rote speech about the impeccable care they were giving to our deceased loved ones on their last "trip" - it would have been better if there had been some care beforehand, I thought.
 
-— Oui monsieur!
+He offered us his array of caskets, from the cheapest that worms would get the better of in no time, to the chrome Cadillac that, he said, would keep our father in a very acceptable state for at least 100 years.
 
-— Bien conservé, pour 62 ans…
+Then he suggested cremation. My brother almost choked:
 
-— C’est ça quand tu mènes une bonne vie! 
+"Are you crazy? With what he drank, he will burn for three days!"
 
-— Ouin…
-
-Finalement, le gars nous a donné l’argent sans trop rechigner. Ce n’était pas de ses affaires, après tout. Sûrement une histoire de décès.
-
-Avec le 30$, nous sommes arrêtés lui acheter une chemise neuve chez _Croteau_. Huit dollars. Une paire de bas blancs. Trois dollars. Il y avait une paire de pantalons acceptable et des souliers propres dans ses armoires. Ça irait pour le salon. C’est Régent qui s’inquiétait pour son look : « On le peignera comme il aimait, la _wave_ par en-arrière, avec le _Dippity-do_.
-
-Dans l’auto, Régent a eu un autre accès de nostalgie.
-
-— Tu te rappelles des huissiers, Alain?
-
-— Lesquels?
-
-— Tsé, ceux qu’on a repoussés avec les carabines?
-
-J’ai éclaté d’un grand rire:
-
-— Ah! Oui! On était tellement jeunes…
-
-— J’avais huit ans, toi six…
-
-Je riais aux larmes, mais je ne suis pas sûr d’où elles venaient, ces larmes…
-
-— My God… Ils étaient tellement surpris de voir deux ti-culs avec des _guns_..! 
-
-— Il était où, Jean-Paul?
-
-— Il travaillait, j’imagine.
-
-— En tout cas, ça a marché, ils sont partis sans rien prendre! 
-
-Mais on a déménagé à la hâte deux jours plus tard…
-
-J’avais oublié ça, avant que Régent en parle. Je me rappelais de combats héroïques, de résistances obstinées, de la dure fraternité entre Régent et moi; mais pas de la misère, de la pauvreté, du manque. Faut croire qu’il avait quand même bien fait ça, Jean-Paul. 
+Jean-Paul had a prepaid arrangement for the cheap casket. The worms will be happy.
 
 *     *     *
 
-Après un service funéraire sobre, le salon funéraire a été pénible, comme toujours. J’ai beau savoir que c’est important pour le deuil, j’ai toujours trouvé ça étrange de défiler devant un corps inanimé, bouffi, rempli de substances étranges pour qu’il ait l’air un peu vrai. J’imagine qu’on ne voudrait pas se rappeler d’une personne qu’on aime dans son ultime déchéance.
+Something had to be done with his old wreck of car. The rust had eaten away most of the bodywork, and it was making quite a racket as it drove along. Since we were thinking of refusing the inheritance - he must have had debts, Jean-Paul - we decided to sell the car to the scrap yard ourselves. 30$ wouldn't hurt. The guy at the scrap yard looked skeptical as he looked successively at Jean-Paul's driver's license, and at Regent's face:
 
-Nous sommes retournés chez Régent après le salon. Juste lui et moi. Des dix et quatre-vingt-deux qu’on avait trouvés et des trente dollars de l’auto, il nous restait un grand total de vingt-huit dollars et quatre-vingt-deux cents. Assez pour une caisse de douze et une pizza. 
+- 1926, huh?
 
-Nous avons mangé sans parler, dans un silence un peu lourd. 
+- Yes sir!
 
-Régent a soudainement souri, puis il m’a dit : « Je pense à ça, on est en train de manger et boire notre héritage! »
+- Well preserved, for 62 years...
 
-Nous avons éclaté d’un long rire, tendre et rude comme l’amour de papa, et nous avons fini la caisse de douze en se remémorant ses gloires et ses déboires. 
+- That's what happens when you lead a good life!
+
+- ...
+
+In the end, the guy gave us the money without too much trouble. It was none of his business, after all. Probably a death thing, he must have thought.
+
+With the $30, we stopped to buy him a new shirt at _Croteau_. Eight dollars. A pair of white socks. Three dollars. There was an acceptable pair of pants and clean shoes in his closets. That would do for the funeral parlour. It was Regent who worried about his look: "We'll comb it the way he liked it, the wave towards the back with _the Dippity-do_.
+
+In the car, Regent had another bout of nostalgia.
+
+- Do you remember the bailiffs, Alain?
+
+- Which ones?
+
+- You know, the ones we fought off with the rifles?
+
+I burst out laughing:
+
+- Ah, yes, we were so young...
+
+- I was eight years old, you were six...
+
+I laughed to tears, but I'm not sure where they came from, those tears...
+
+- My God... They were so surprised to see two young rascals with guns!
+
+- Where was Jean-Paul?
+
+- Working, I guess.
+
+- Anyway, it worked, they left without taking anything!
+
+But we moved in a hurry two days later...
+
+I had forgotten about that, before Regent mentioned it. I remembered heroic battles, stubborn resistance, the rough brotherhood between Regent and me; but not the misery, the poverty, the lack. It seems that Jean-Paul had done OK with us.
+
+*     *     *
+
+After a sober funeral service, the funeral home was painful, as always. Even though I know it's important for mourning, I always found it strange to parade in front of an inanimate, bloated body, filled with strange substances to make it look a little real. I guess you wouldn't want to remember someone you love in their final demise.
+
+We went back to Regent's after the funeral home. Just him and me. Of the 10.82 we had found and the $30, we a grand total of $28.82 left. Enough for a 12-pack and a pizza.
+
+We ate without speaking, in a rather heavy silence.
+
+Regent suddenly smiled, then said to me, "Thinking about it: we're eating and drinking our inheritance!"
+
+We burst into a long laugh, tender and rough like Dad's love, and finished the 12-pack, reminiscing about his glories and setbacks.

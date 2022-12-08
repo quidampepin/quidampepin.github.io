@@ -24,7 +24,7 @@ But I will not limit myself to my work, particularly in the Fiction section. I'l
 In short, this should be a rather eclectic publishing space.
 
 
-## In Fernch... and in English
+## In French... and in English
 
 After much thought, I decided to publish in both languages. At first, I had thought of writing in English, so that I would be understood by the majority. Then I thought about publishing only in French, my mother tongue. Then I finally decided to publish in both languages. 
 
