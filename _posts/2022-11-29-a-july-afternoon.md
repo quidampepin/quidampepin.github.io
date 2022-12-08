@@ -18,11 +18,11 @@ I knew it would eventually catch up with him, all those excesses. This need to q
 
 I was thinking about all this when I arrived at the apartment. Jean-Paul lived in a half-basement on 13th Avenue, near Masson. When I parked, I saw Regent leaning against the white door of the building, his eternal cigarette in the corner of his mouth, his hands in his pockets.
 
-- Hey brother.
+"Hey brother."
 
-- Hey.
+"Hey."
 
-- I'm warning you right now, there's a lot of cleaning to be done in there... I didn't have the heart to start all alone...
+"I'm warning you right now, there's a lot of cleaning to be done in there... I didn't have the heart to start all alone..."
 
 I sketched a semblance of a smile as an answer.
 
@@ -72,15 +72,15 @@ Jean-Paul had a prepaid arrangement for the cheap casket. The worms will be happ
 
 Something had to be done with his old wreck of car. The rust had eaten away most of the bodywork, and it was making quite a racket as it drove along. Since we were thinking of refusing the inheritance - he must have had debts, Jean-Paul - we decided to sell the car to the scrap yard ourselves. 30$ wouldn't hurt. The guy at the scrap yard looked skeptical as he looked successively at Jean-Paul's driver's license, and at Regent's face:
 
-- 1926, huh?
+"1926, huh?"
 
-- Yes sir!
+"Yes sir!"
 
-- Well preserved, for 62 years...
+"Well preserved, for 62 years..."
 
-- That's what happens when you lead a good life!
+"That's what happens when you lead a good life!"
 
-- ...
+"..."
 
 In the end, the guy gave us the money without too much trouble. It was none of his business, after all. Probably a death thing, he must have thought.
 
@@ -88,27 +88,27 @@ With the $30, we stopped to buy him a new shirt at _Croteau_. Eight dollars. A p
 
 In the car, Regent had another bout of nostalgia.
 
-- Do you remember the bailiffs, Alain?
+"Do you remember the bailiffs, Alain?"
 
-- Which ones?
+"Which ones?"
 
-- You know, the ones we fought off with the rifles?
+"You know, the ones we fought off with the rifles?"
 
 I burst out laughing:
 
-- Ah, yes, we were so young...
+"Ah, yes, we were so young..."
 
-- I was eight years old, you were six...
+"I was eight years old, you were six..."
 
 I laughed to tears, but I'm not sure where they came from, those tears...
 
-- My God... They were so surprised to see two young rascals with guns!
+"My God... They were so surprised to see two young rascals with guns!"
 
-- Where was Jean-Paul?
+"Where was Jean-Paul?"
 
-- Working, I guess.
+"Working, I guess."
 
-- Anyway, it worked, they left without taking anything!
+"Anyway, it worked, they left without taking anything!"
 
 But we moved in a hurry two days later...
 
