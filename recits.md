@@ -3,9 +3,6 @@ category: recits
 lang: FR
 ref: recits
 ---
- <a class="selector" href="/recits/" style="border-bottom: 5px solid #222">FR</a>  
- <a class="selector" href="/stories/">EN</a>   
- 
 <h1>Récits</h1>
 
 
