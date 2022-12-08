@@ -19,7 +19,7 @@ ref: notes
         {{ post.date | date: "%Y-%m-%d"}}
       </div>
            <p style="margin-top: .5em;">
-        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire le reste de "{{ post.title }}"</a>
+        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Read the rest of "{{ post.title }}"</a>
       </p>
 
 
