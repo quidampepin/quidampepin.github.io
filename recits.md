@@ -1,15 +1,9 @@
 ---
-layout: page
+layout: post
 category: recits
 lang: FR
 ref: recits
 ---
- {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %}
-    
-      <a class="selector" href="{{ page.url }}" class="{{ page.lang }}" {% if page.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
-  {% endfor %}
-    
 
 <h1>Récits</h1>
 
