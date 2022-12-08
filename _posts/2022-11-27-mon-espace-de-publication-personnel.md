@@ -26,7 +26,7 @@ En somme, il s’agit d’un espace de publication plutôt éclectique.
 
 ## En français... et en anglais
 
-Après mûre réflexion, j'ai décidé de publier dans les deux langues. J’avais d’abord pensé écrire en anglais, histoire d'être compris par la majorité. J’ai ensuite pensé à publier seulement en français, ma langue matternelle. Puis j’ai finalement opté pour publier dans les deux langues. 
+Après mûre réflexion, j'ai décidé de publier dans les deux langues. J’avais d’abord pensé écrire en anglais, histoire d'être compris par la majorité. J’ai ensuite pensé à publier seulement en français, ma langue maternelle. Puis j’ai finalement opté pour publier dans les deux langues. 
 
 Pourquoi? 
 
@@ -36,7 +36,7 @@ Publier dans les deux langues français est ma façon d’injecter un peu de la 
 
 Ensuite, je passe mes journées à travailler en anglais. Rédiger dans ma langue maternelle est un plaisir que je m’accorde trop peu souvent. 
 
-Ainsi, je vais rédiger en français, et faire de mom mieux pour traduire le tout et publier dans les deux langues. 
+Ainsi, je vais rédiger en français, et faire de mon mieux pour traduire le tout et publier dans les deux langues. 
 
 ## Un site Jekyll, publié sur GitHub
 

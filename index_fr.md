@@ -9,7 +9,7 @@ ref: index
 <div style="max-width: 65ch;">
 
 
-  <p>Bienvenue dans mon espace de publication personnel. Les opinions et les idées présentées ici n'engagent que moi, et ne représenent pas l'opinion de mon employeur. </p>  
+  <p>Bienvenue dans mon espace de publication personnel. Les opinions et les idées présentées ici n'engagent que moi, et ne représentent pas l'opinion de mon employeur. </p>  
 
 
 <p>Je suis un <a href="https://wiki.gccollab.ca/Agents_libres_du_Canada">agent libre du Canada</a>, présentement à l'emploi de l'Agence de la Santé Publique du Canada. </p>
