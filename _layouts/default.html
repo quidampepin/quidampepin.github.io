@@ -44,7 +44,35 @@
     
 </nav>
 
-   
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </li>
+{% endfor %}
+
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <li>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+  </li>
+{% endfor %}
+
+<ul>
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+  {% for post in posts %}
+    <li>
+      <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+    </li>
+  {% endfor %}
+  
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% for page in pages %}
+    <li>
+      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+    </li>
+  {% endfor %}
+  </ul>
         </header>
         
       </div>
@@ -63,7 +91,7 @@
         <footer class="footer">
           {% include svg-icons.html %}
 
-          <p>&copy; David Pepin <br>Mis à disposition selon les termes de la <a href=https://creativecommons.org/licenses/by/4.0/deed.fr>Licence Creative Commons Attribution 4.0 International</a>.</p>
+          <p>&copy; David Pepin <br>{{ pagelang.creativecommons }} <a href=https://creativecommons.org/licenses/by/4.0/deed.fr>Licence Creative Commons Attribution 4.0 International</a>.</p>
 
           
         </footer>
