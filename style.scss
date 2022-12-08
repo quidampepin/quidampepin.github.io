@@ -249,13 +249,12 @@ nav a:hover {
   font-weight: 600;
   font-size: 22px;
   float: right;
+ 
+  @include mobile {
+    float: none;
+  }
 
-
-.selector a:hover {
-  border-bottom: 5px solid $darkGray;
-}
-
-  a {
+ .selector a {
     margin-right: 20px;
     color: $darkGray;
     text-decoration: none;
@@ -264,9 +263,9 @@ nav a:hover {
     letter-spacing: 1px;
 	  
   }
-  @include mobile {
-    float: none;
-  }
+
+.selector a:hover {
+  border-bottom: 5px solid $darkGray;
 }
 
 .posts {
