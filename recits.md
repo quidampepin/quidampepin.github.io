@@ -5,6 +5,13 @@ ref: recits
 ---
 
 <h1>Récits</h1>
+
+ {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% for page in pages %}
+    
+      <a class="selector" href="{{ page.url }}" class="{{ page.lang }}" {% if page.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
+    {% endfor %}
+    
 <div class="posts">
   {% assign posts=site.categories.recits | where:"lang", page.lang %}
   {% for post in posts %}
