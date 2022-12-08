@@ -30,7 +30,7 @@ After much thought, I decided to publish in both languages. At first, I had thou
 
 Why? 
 
-First, several federal public servants publish this type of text. I am thinking among others of [Sean Boots](https://sboots.ca/), [Honey Dacanay](https://honeygolightly.medium.com/), [Paul Craig.](https://federal-field-notes.ca/) et [Andrea Hill](https://afhill.medium.com/). To my knowledge, the vast majority of these texts are published in English only. I have long said that I would like to see these texts published in both languages. I decided to show that it was possible.
+First, several federal public servants publish this type of text. I am thinking among others of [Sean Boots](https://sboots.ca/), [Honey Dacanay](https://honeygolightly.medium.com/), [Paul Craig.](https://federal-field-notes.ca/) and [Andrea Hill](https://afhill.medium.com/). To my knowledge, the vast majority of these texts are published in English only. I have long said that I would like to see these texts published in both languages. I decided to show that it was possible.
 
 Publishing in both languages is my way of injecting a bit of the second official language into the public space.
 
