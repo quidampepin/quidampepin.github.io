@@ -44,30 +44,18 @@
     
 </nav>
 
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %}
-  <li>
-    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-  </li>
-{% endfor %}
+{% assign posts=site.posts | where:"ref", page.ref}
+{% if page.lang == en %}
+{% assign posts=posts | where:"lang", fr}
+<a href="{{ post.url }}">{{ Français }}</a>
+{% endif %}
 
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
-  <li>
-    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-  </li>
-{% endfor %}
+{% if page.lang == fr %}
+{% assign posts=posts | where:"lang", en}
+<a href="{{ post.url }}">{{ Anglais }}</a>
+{% endif %}
 
-<ul>
-  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for post in posts %}
-    <li>
-      <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-    </li>
-  {% endfor %}
-
-  </ul>
-        </header>
+</header>
         
       </div>
     </div>
