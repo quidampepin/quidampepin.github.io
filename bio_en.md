@@ -2,11 +2,11 @@
 layout: page
 lang: EN
 ref: bio
+category: Bio
 ---
 
 <h1>Bio</h1>
 
-<div style="max-width: 65ch;">
 
 ## Childhood
 
@@ -38,4 +38,3 @@ Since then, one thing led to another and I learned a lot. Writing for the web, U
 
 As of August 2022, I am one of Canada’s Free Agents. I’m currently on assignment with the Public Health Agency of Canada.
 
-</div>

@@ -7,8 +7,6 @@ category: Bio
 
 <h1>Bienvenue</h1>
 
-<div style="max-width: 65ch;">
-
 ## Enfance
 
 J’ai grandi à Papineauville, un petit village paisible. Peuplé d’à peine 1 500 âmes, il est situé à 1 heure d’Ottawa-Gatineau et 2 heures de Montréal, sur la la Kitchissippi (la Rivière des Outaouais). 
@@ -39,4 +37,3 @@ C’est à ce moment que j’ai vraiment trouvé ma voie professionnelle : organ
 Depuis ce temps, de fil en aiguille, j’ai beaucoup appris. Écriture pour le Web, UX, design de contenu, conception de service, amélioration fondée sur les données probantes : j’essaie de m’inspirer de plusieurs disciplines pour concevoir le meilleur contenu possible. 
 
 Depuis août 2022, je suis un [Agent libre du Canada](https://wiki.gccollab.ca/Agents_libres_du_Canada), et je suis présentement en affectation à l’Agence de santé publique du Canada. 
-</div>
