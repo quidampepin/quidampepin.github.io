@@ -2,6 +2,7 @@
 layout: page
 lang: EN
 ref: index
+Category: Home
 ---
 
 <h1>Welcome</h1>
