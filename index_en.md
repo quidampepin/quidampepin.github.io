@@ -6,14 +6,12 @@ ref: index
 
 <h1>Welcome</h1>
 
-<div style="max-width: 65ch;">
 
 
  Welcome to my personal publishing space!
+ 
+ Blog posts, fiction, scattered notes: a place to publish writing experiments.
 
-  Blog posts, fiction, scattered notes: a place to publish writing experiments.
-
-   </div>
 <div class="posts">
   
   <h2>Latest entries</h2>

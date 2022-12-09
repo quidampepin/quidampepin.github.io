@@ -6,14 +6,11 @@ ref: index
 
 <h1>Bienvenue</h1>
 
-<div style="max-width: 65ch;">
-
 
   Bienvenue dans mon espace de publication personnel!
   
   Des billets de blogue, des textes de fiction, des notes éparpillées : un endroit où déposer des expériences d'écriture. 
 
-   </div>
 <div class="posts">
   
   <h2>Dernières entrées</h2>
