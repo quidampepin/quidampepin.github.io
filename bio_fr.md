@@ -6,6 +6,7 @@ category: Bio
 ---
 
 <h1>Bienvenue</h1>
+<img src="{{ site.baseurl }}/images/David_Pepin.jpg" alt="Image of David Pepin"/>
 
 ## Enfance
 
