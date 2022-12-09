@@ -37,6 +37,8 @@ Ils l'ont trouvé dans sa douche. Il ne s'était pas pointé pour son _shift_ de
 
 Il faut dire qu’il ne l’a pas eu facile…
 
+<p style="text-align: center;">* * * </p>
+
 1951.
 
 Régent n’avais même pas deux ans, j’avais sept mois. Louise, notre mère, n’était pas encore sortie de l’hôpital depuis l’accouchement. Une histoire de coeur, thrombose, ou quelque chose comme ça. Je n’ai jamais su exactement. 
@@ -53,8 +55,7 @@ Il ne s’en est jamais remis, je pense, de ce trou noir financier. Une vie à s
 
 En tout, on a trouvé huit dollars et cinquante-sept cents en change dans une poche de son pantalon, sans doute ce qu’il restait des _tips_ de la veille, et deux dollars et vingt-cinq cents dans les craques du divan brun. Pas de compte de banque, pas de carte de crédit. Quelques babioles sans valeur. Deux ou trois souvenirs importants, des bijoux qui apparteaient à Louise, les boutons de manchette qu’il portait à son mariage. Une vie de travail acharné qui tenait dans une petite boîte.
 
-*     *     *
-
+<p style="text-align: center;">* * * </p>
 Le petit bureau de l’arrangeur funéraire correspondait plutôt bien à l’image que je m’en étais fait : morne, brun, froid, avec des relents de trépas…
 
 Le petit homme trapu nous avait fait son petit boniment appris par coeur sur les soins impeccables qu’ils apportaient à nos proches décédés, pour leur dernier “voyage” - Ç’eut été préférable qu’il y ait des soins avant, il me semble. 
@@ -67,7 +68,7 @@ Puis il nous a proposé la crémation. Mon frère a failli s’étouffer :
 
 Jean-Paul avait un arrangement prépayé pour le cercueil _cheap_. Ce sont les vers qui seront contents. 
 
-*     *     *
+<p style="text-align: center;">* * * </p>
 
 Il fallait bien faire quelque chose avec sa vieille _minoune_. La rouille avait rongé presque toute la carrosserie, et elle faisait un tout un vacarme en roulant. Comme nous pensions bien refuser la succession — il devait bien avoir des dettes, Jean-Paul —, nous avons décidé d’aller vendre nous-même l’auto à la ferraille. 30$, ça ne nuirait pas. Le gars de la cour à _scrap_ avait l’air sceptique en regardant successivement le permis de conduire de Jean-Paul, puis le visage de Régent : 
 
@@ -113,7 +114,7 @@ Mais on a déménagé à la hâte deux jours plus tard…
 
 J’avais oublié ça, avant que Régent en parle. Je me rappelais de combats héroïques, de résistances obstinées, de la dure fraternité entre Régent et moi; mais pas de la misère, de la pauvreté, du manque. Faut croire qu’il avait quand même bien fait ça, Jean-Paul. 
 
-*     *     *
+<p style="text-align: center;">* * * </p>
 
 Après un service funéraire sobre, le salon funéraire a été pénible, comme toujours. J’ai beau savoir que c’est important pour le deuil, j’ai toujours trouvé ça étrange de défiler devant un corps inanimé, bouffi, rempli de substances étranges pour qu’il ait l’air un peu vrai. J’imagine qu’on ne voudrait pas se rappeler d’une personne qu’on aime dans son ultime déchéance.
 
