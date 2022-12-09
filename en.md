@@ -16,7 +16,6 @@ category: Home
 <div class="posts">
   
 
-  <p>Here are the latest entries:</p>
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in posts %}
     <article class="post">

@@ -24,8 +24,9 @@
       <div class="container">
         <header class="masthead clearfix">
 
-          <div class="site-name">
-            David Pepin
+          <div class="site-name">>
+            
+            <a href="{{ pagelang.homeurl }}"></a><span class="fa fa-home"></span> David Pepin</a>
           </div>
 
           <nav>
@@ -33,8 +34,7 @@
 
 
    
-    
-         <a href="{{ pagelang.homeurl }}" {% if page.category == "Home" %}style="border-bottom: 5px solid #222"{% endif %}>{{ pagelang.homename }}</a>
+   
 
             <a href="{{ pagelang.billetsurl }}" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
         {{ pagelang.billetsname }}</a>
