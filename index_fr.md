@@ -10,9 +10,9 @@ ref: index
 
 
   Bienvenue dans mon espace de publication personnel!
-
-  Des billets de blogue, des textes de fiction, des notes éparpillées : un endroit où déposer des expériences d'écriture. 
   
+  Des billets de blogue, des textes de fiction, des notes éparpillées : un endroit où déposer des expériences d'écriture. 
+
    </div>
 <div class="posts">
   
