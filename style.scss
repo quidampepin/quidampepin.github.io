@@ -217,15 +217,17 @@ nav {
   font-size: 22px;
 
 
+nav a:hover {
+  border-bottom: 5px solid $darkGray;
+}
+
   a {
     margin-right: 20px;
     color: $darkGray;
     text-decoration: none;
     font-weight: 600;
     letter-spacing: 1px;
-    a:hover {
-      border-bottom: 5px solid $darkGray;
-    }
+	  
   }
   @include mobile {
     float: none;
@@ -263,7 +265,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 1em;
-  style="border-top: 2px solid #ccc;
+  style="border-top: 2px solid #ccc; width: 100px;
 }
 
 .posts > .post:last-child {
