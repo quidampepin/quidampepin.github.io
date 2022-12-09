@@ -9,9 +9,9 @@ ref: notes
 <div class="posts">
   {% assign posts=site.categories.Notes | where:"lang", page.lang %}
   {% for post in posts %}
-   <article class="post">
+   <article class="post" style="border-top: 2px solid #ccc;">
 
-   <h3 style="margin-bottom:0" style="border-top: 2px solid #ccc;">
+   <h3 style="margin-bottom:0">
    
    {{ post.title }}
       </h3>
