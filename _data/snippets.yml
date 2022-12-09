@@ -1,7 +1,7 @@
 
 EN:
   homename: Home
-  homeurl: /index_en/
+  homeurl: /en/
   notesname: Notes
   notesurl: /notes_en/
   billetsname: Blog
@@ -16,7 +16,7 @@ EN:
 
 FR:
   homename: Accueil
-  homeurl: /index_fr/
+  homeurl: /fr/
   notesname: Notes
   notesurl: /notes/
   billetsname: Blogue
