@@ -21,7 +21,7 @@ category: Home
        <h2 style="margin-bottom:0">
    
       {{ post.title }}
-      </h3>
+      </h2>
       <div class="date">
         {{ post.date | date: "%Y-%m-%d"}} - {{ post.tag }}
       </div>
