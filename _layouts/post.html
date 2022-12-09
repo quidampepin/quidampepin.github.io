@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="post">
+<article class="post" style="max-width:65ch;">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
   {% for post in posts %}
     
