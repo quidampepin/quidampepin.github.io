@@ -10,6 +10,8 @@ category: Bio
 
 ## Enfance
 
+<img style="float: right; margin: 20px; width: 25%; height: 25%;" src="{{ site.baseurl }}/images/David_Pepin.jpg" alt="Image of David Pepin"/>
+
 J’ai grandi à Papineauville, un petit village paisible. Peuplé d’à peine 1 500 âmes, il est situé à 1 heure d’Ottawa-Gatineau et 2 heures de Montréal, sur la la Kitchissippi (la Rivière des Outaouais). 
 
 Je viens d’une famille résolument francophone : la vaste majorité des mes ancêtres sont des colons français arrivés en Nouvelle-France entre 1608 et 1759.

@@ -6,9 +6,10 @@ category: Bio
 ---
 
 <h1>Bio</h1>
-<img style="float: right; margin: 20px; width: 25%; height: 25%;" src="{{ site.baseurl }}/images/David_Pepin.jpg" alt="Image of David Pepin"/>
 
 ## Childhood
+
+<img style="float: right; margin: 20px; width: 25%; height: 25%;" src="{{ site.baseurl }}/images/David_Pepin.jpg" alt="Image of David Pepin"/>
 
 I grew up in Papineauville, a small peaceful village. With a population of barely 1,500, it is located 1 hour from Ottawa-Gatineau and 2 hours from Montreal, on the Kitchissippi (Ottawa River). 
 
