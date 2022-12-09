@@ -11,7 +11,7 @@ ref: notes
   {% for post in posts %}
    <article class="post">
 
-   <h3 style="margin-bottom:0">
+   <h3 style="margin-bottom:0" style="border-top: 2px solid #ccc;">
    
    {{ post.title }}
       </h3>

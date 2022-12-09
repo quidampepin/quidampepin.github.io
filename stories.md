@@ -10,7 +10,7 @@ ref: recits
   {% assign posts=site.categories.recits | where:"lang", page.lang %}
   {% for post in posts %}
 
-  <article class="post">
+  <article class="post" style="border-top: 2px solid #ccc;">
 
   <h3 style="margin-bottom:0">
    
