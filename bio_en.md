@@ -6,7 +6,7 @@ category: Bio
 ---
 
 <h1>Bio</h1>
-<img src="{{ site.baseurl }}/images/David_Pepin.jpg" alt="Image of David Pepin"/>
+<img style="float: right; margin: 20px; width: 50%; height: 50%;" src="{{ site.baseurl }}/images/David_Pepin.jpg" alt="Image of David Pepin"/>
 
 ## Childhood
 
