@@ -15,12 +15,13 @@ category: Home
 
 <div class="posts">
   
-  <h2>Latest entries</h2>
+
+  <p>Here are the latest entries:</p>
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in posts %}
     <article class="post">
 
-       <h3 style="margin-bottom:0">
+       <h2 style="margin-bottom:0">
    
       {{ post.title }}
       </h3>
