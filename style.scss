@@ -228,10 +228,16 @@ nav a:hover {
     font-weight: 600;
     letter-spacing: 1px;
 	  
+  
   }
   @include mobile {
     float: none;
   }
+  
+  a:hover {
+    border-bottom: 5px solid $darkGray;
+  }
+  
 }
 
 //
