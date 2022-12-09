@@ -25,7 +25,7 @@
         <header class="masthead clearfix">
 
           <div class="site-name">
-            <a href="{{ pagelang.homeurl }}">{{ pagelang.homename}}</a>
+            David Pepin
           </div>
 
           <nav>
@@ -34,7 +34,10 @@
 
    
     
-      <a href="{{ pagelang.billetsurl }}" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
+            <a href="{{ pagelang.homeurl }}" {% if page.category == "Home" %}style="border-bottom: 5px solid #222"{% endif %}>
+              {{ pagelang.homename }}</a>
+
+            <a href="{{ pagelang.billetsurl }}" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
         {{ pagelang.billetsname }}</a>
     
       <a href="{{ pagelang.recitsurl }}" {% if page.category == "recits" %}style="border-bottom: 5px solid #222"{% endif %}>
