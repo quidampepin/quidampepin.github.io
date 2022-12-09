@@ -2,7 +2,7 @@
 layout: page
 lang: FR
 ref: index
-Category: Home
+category: Home
 ---
 
 <h1>Bienvenue</h1>
