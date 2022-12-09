@@ -39,6 +39,8 @@ They found him in his shower. He hadn't shown up for his delivery shift. That ne
 
 I have to say he didn't have it easy...
 
+<p style="text-align: center;">* * * </p>
+
 1951.
 
 Regent was not even two years old, I was seven months old. Louise, our mother, had not yet been discharged from the hospital since the delivery. A heart problem, thrombosis, or something like that. I never knew exactly.
@@ -55,7 +57,7 @@ He never recovered, I think, from this financial black hole. A lifetime of fight
 
 All in all, we found eight dollars and fifty-seven cents in change in a pocket of his pants, probably what was left of the previous day's tips, and two dollars and twenty-five cents in the cracks of the brown couch. No bank account, no credit card. A few worthless trinkets. A couple of important mementos, jewelry that belonged to Louise, the cufflinks he wore at his wedding. A lifetime of hard work that fit in a small box.
 
-*     *     *
+<p style="text-align: center;">* * * </p>
 
 The little office of the funeral arranger corresponded rather well to the image I had formed of it: gloomy, brown, cold, with hints of death...
 
@@ -69,7 +71,7 @@ Then he suggested cremation. My brother almost choked:
 
 Jean-Paul had a prepaid arrangement for the cheap casket. The worms will be happy.
 
-*     *     *
+<p style="text-align: center;">* * * </p>
 
 Something had to be done with his old wreck of car. The rust had eaten away most of the bodywork, and it was making quite a racket as it drove along. Since we were thinking of refusing the inheritance - he must have had debts, Jean-Paul - we decided to sell the car to the scrap yard ourselves. 30$ wouldn't hurt. The guy at the scrap yard looked skeptical as he looked successively at Jean-Paul's driver's license, and at Regent's face:
 
@@ -115,7 +117,7 @@ But we moved in a hurry two days later...
 
 I had forgotten about that, before Regent mentioned it. I remembered heroic battles, stubborn resistance, the rough brotherhood between Regent and me; but not the misery, the poverty, the lack. It seems that Jean-Paul had done OK with us.
 
-*     *     *
+<p style="text-align: center;">* * * </p>
 
 After a sober funeral service, the funeral home was painful, as always. Even though I know it's important for mourning, I always found it strange to parade in front of an inanimate, bloated body, filled with strange substances to make it look a little real. I guess you wouldn't want to remember someone you love in their final demise.
 
