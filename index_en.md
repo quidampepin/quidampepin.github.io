@@ -9,10 +9,10 @@ ref: index
 <div style="max-width: 65ch;">
 
 
-  <p>Welcome to my personal publishing space. The opinions and ideas presented here are my own, and do not represent the opinion of my employer.</p>  
+ Welcome to my personal publishing space!
 
+  Blog posts, fiction, scattered notes: a place to publish writing experiments.
 
-<p>I am one of <a href="https://wiki.gccollab.ca/Canada%27s_Free_Agents">Canada's Free Agents</a>, currently employed by the Public Health Agency of Canada.</p>
    </div>
 <div class="posts">
   
