@@ -22,7 +22,7 @@
     {% assign pagelang = site.data.snippets[page.lang] %}
     <div class="wrapper-masthead">
       <div class="container">
-        <header class="masthead clearfix">
+        <header style="max-width:65ch;" class="masthead clearfix">
           
            {% if page.layout == "post" %}
             {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
