@@ -28,7 +28,7 @@ category: Home
         {{ post.date | date: "%Y-%m-%d"}} - {{ post.tag }}
       </div>
        <p style="margin-top: .5em;">
-        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Read the rest of "{{ post.title }}"</a>
+        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Read "{{ post.title }}"</a>
       </p>
 
 
