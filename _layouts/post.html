@@ -2,7 +2,7 @@
 layout: default
 ---
     {% assign pagelang = site.data.snippets[page.lang] %}
-
+<div style="margin-top: 4px">
  {% if page.category == "Notes" %}
 <a class="read-more" href="{{ pagelang.notesurl }}"><span class="fa fa-arrow-left"></span> All {{ pagelang.notesname }}</a>
 {% endif %}
@@ -14,6 +14,7 @@ layout: default
 {% if page.category == "Billets" %}
 <a class="read-more" href="{{ pagelang.billetssurl }}"><span class="fa fa-arrow-left"></span> All {{ pagelang.billetsname }}</a>
 {% endif %}
+  </div>
 
 <article class="post" style="max-width:65ch;">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
