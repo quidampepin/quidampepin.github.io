@@ -2,17 +2,17 @@
 layout: default
 ---
     {% assign pagelang = site.data.snippets[page.lang] %}
-<div style="margin-top: 4px">
+<div style="margin-top: 6px; margin-bottom:6px;">
  {% if page.category == "Notes" %}
-<a class="read-more" href="{{ pagelang.notesurl }}"><span class="fa fa-arrow-left"></span> All {{ pagelang.allnotes }}</a>
+<a class="read-more" href="{{ pagelang.notesurl }}"><span class="fa fa-arrow-left"></span> {{ pagelang.allnotes }}</a>
 {% endif %}
 
 {% if page.category == "recits" %}
-<a class="read-more" href="{{ pagelang.recitssurl }}"><span class="fa fa-arrow-left"></span> All {{ pagelang.allfiction }}</a>
+<a class="read-more" href="{{ pagelang.recitssurl }}"><span class="fa fa-arrow-left"></span> {{ pagelang.allfiction }}</a>
 {% endif %}
 
 {% if page.category == "Billets" %}
-<a class="read-more" href="{{ pagelang.billetssurl }}"><span class="fa fa-arrow-left"></span> All {{ pagelang.allblog }}</a>
+<a class="read-more" href="{{ pagelang.billetssurl }}"><span class="fa fa-arrow-left"></span> {{ pagelang.allblog }}</a>
 {% endif %}
   </div>
 
