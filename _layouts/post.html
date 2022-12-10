@@ -2,6 +2,18 @@
 layout: default
 ---
 
+ {% if page.category == "Notes" %}
+<a class="read-more" href="{{ pagelang.notesurl }}"><span class="fa fa-arrow-left"></span> All {{ pagelang.notesname }}</a>
+{% endif %}
+
+{% if page.category == "recits" %}
+<a class="read-more" href="{{ pagelang.recitssurl }}"><span class="fa fa-arrow-left"></span> All {{ pagelang.recitsname }}</a>
+{% endif %}
+
+{% if page.category == "Billets" %}
+<a class="read-more" href="{{ pagelang.billetssurl }}"><span class="fa fa-arrow-left"></span> All {{ pagelang.billetsname }}</a>
+{% endif %}
+
 <article class="post" style="max-width:65ch;">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
   {% for post in posts %}
