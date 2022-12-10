@@ -24,6 +24,22 @@
       <div class="container">
         <header class="masthead clearfix">
           
+           {% if page.layout == "post" %}
+            {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+  {% for post in posts %}
+    
+      <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
+    {% endfor %}
+          {% endif %}
+          
+          {% if page.layout == "page" %}
+          {% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for post in posts %}
+      
+        <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
+      {% endfor %}
+          {% endif %}
+          
           <div class="site-name">
             
             David Pepin
