@@ -24,6 +24,9 @@
       <div class="container">
         <header class="masthead clearfix">
 
+  <a style="float-right" href="{{ pagelang.biourl }}" {% if page.category == "Bio" %}style="border-bottom: 3px solid #222"{% endif %}>
+            {{ pagelang.bioname }}</a>
+          
           <div class="site-name">
             
             <a href="{{ pagelang.homeurl }}"><span class="fa fa-home"></span> David Pepin</a>
@@ -34,8 +37,10 @@
 
 
    
-   
-
+          
+           <a href="{{ pagelang.homesurl }}" {% if page.category == "Home" %}style="border-bottom: 5px solid #222"{% endif %}>
+        {{ pagelang.homename }}</a>
+    
             <a href="{{ pagelang.billetsurl }}" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
         {{ pagelang.billetsname }}</a>
     
@@ -45,8 +50,6 @@
         <a href="{{ pagelang.notesurl }}" {% if page.category == "Notes" %}style="border-bottom: 5px solid #222"{% endif %}>
           {{ pagelang.notesname }}</a>
 
-          <a href="{{ pagelang.biourl }}" {% if page.category == "Bio" %}style="border-bottom: 5px solid #222"{% endif %}>
-            {{ pagelang.bioname }}</a>
     
 </nav>
 
