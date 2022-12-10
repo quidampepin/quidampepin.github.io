@@ -215,6 +215,7 @@ nav {
   font-family: $opensans;
   font-weight: 600;
   font-size: 22px;
+  border-top: 4px
 
 
 nav a:hover {
@@ -232,6 +233,7 @@ nav a:hover {
   }
   @include mobile {
     float: none;
+    font-size: 18px;
   }
 
   a:hover {
