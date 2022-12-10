@@ -12,6 +12,9 @@ EN:
   disclaimer: The opinions and ideas presented here are my own, and do not represent the opinion of my employer.
   biourl: /bio_en/
   bioname: About me
+  allnotes: All notes
+  allblog: All blog entries
+  allfiction: All fiction stories
 
 
 FR:
@@ -27,3 +30,7 @@ FR:
   disclaimer: Les opinions et les idées présentées ici n'engagent que moi, et ne représentent pas l'opinion de mon employeur.
   biourl: /bio_fr/
   bioname: À propos de moi
+  allnotes: Toutes les notes
+  allblog: Tous les billets de blogue
+  allfiction: Tous les textes de fiction
+
