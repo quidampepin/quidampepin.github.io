@@ -264,7 +264,11 @@ nav a:hover {
     text-decoration: none;
     text-align: right;
     letter-spacing: 1px;
-	  
+
+	@include mobile {
+    float: none;
+    margin-top: 4px;
+  }
 }
 
 
