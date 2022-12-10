@@ -23,9 +23,6 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-
-  <a href="{{ pagelang.biourl }}" {% if page.category == "Bio" %}style="border-bottom: 3px solid #222"{% endif %}>
-            {{ pagelang.bioname }}</a>
           
           <div class="site-name">
             
@@ -70,7 +67,7 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          <a href="{{ pagelang.biourl }}" {% if page.category == "Bio" %}style="border-bottom: 3px solid #222"{% endif %}>
+          <a href="{{ pagelang.biourl }}">
             {{ pagelang.bioname }}</a>
           {% include svg-icons.html %}
 
