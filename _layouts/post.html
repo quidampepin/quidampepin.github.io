@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+    {% assign pagelang = site.data.snippets[page.lang] %}
 
  {% if page.category == "Notes" %}
 <a class="read-more" href="{{ pagelang.notesurl }}"><span class="fa fa-arrow-left"></span> All {{ pagelang.notesname }}</a>
