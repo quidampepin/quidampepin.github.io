@@ -15,6 +15,8 @@ Why not just talk about a blog? Because it won't just be a space for posting blo
 
 In short: a place to publish my writing experiments.
 
+I write most posts in French first, and then make the translation available. 
+
 <div class="posts">
   
 
