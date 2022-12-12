@@ -27,8 +27,20 @@
 
           
           <div class="site-name">
-            
             David Pepin
+
+            {% if page.layout == "post" %}
+          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  
+    <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
+  {% endfor %}
+        {% endif %}
+        
+        {% if page.layout == "page" %}
+        {% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% for post in posts %}
+  
           </div>
 
           <nav>
@@ -50,17 +62,7 @@
           {{ pagelang.notesname }}</a>
 
     
-          {% if page.layout == "post" %}
-          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %}
-  
-    <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
-  {% endfor %}
-        {% endif %}
-        
-        {% if page.layout == "page" %}
-        {% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for post in posts %}
+          
     
       <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
     {% endfor %}
