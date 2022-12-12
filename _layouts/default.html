@@ -24,12 +24,7 @@
       <div class="container">
         <header style="max-width:65ch;" class="masthead clearfix">
           
-
-          
-          <div class="site-name">
-            David Pepin
-
-            {% if page.layout == "post" %}
+          {% if page.layout == "post" %}
           {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
   
@@ -40,7 +35,15 @@
         {% if page.layout == "page" %}
         {% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for post in posts %}
-  
+  <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
+  {% endfor %}
+      {% endif %}
+
+          
+          <div class="site-name">
+            David Pepin
+
+
           </div>
 
           <nav>
@@ -62,11 +65,9 @@
           {{ pagelang.notesname }}</a>
 
     
-          
+        
     
-      <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
-    {% endfor %}
-        {% endif %}
+
 </nav>
 
    

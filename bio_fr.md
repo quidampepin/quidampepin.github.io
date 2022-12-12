@@ -17,7 +17,7 @@ Je viens d’une famille résolument francophone : la vaste majorité des mes an
 
 Je suis parti étudier à Montréal à l’aube de mes 18 ans. 
 
-J’ai fait un diplôme collégial en Arts et Lettres. Puis j’ai commencé un baccalauréat en littérature à l’UQAM. Pour plein de raisons, je n’ai pas complété mes études : difficulté à rentrer dans le moule, grandes ambitions, et un peu de paresse.
+J’ai fait un diplôme collégial en Arts et Lettres. Puis j’ai commencé un baccalauréat en littérature à l’UQAM. Pour plein de raisons, je n’ai pas complété mes études : difficulté à rentrer dans le moule, grandes ambitions, et un peu de désillusion.
 
 Après m'être installé à Gatineau, et un autre essai à l'université, j’ai finalement accepté que ma voie n’était pas celle des études supérieures. Je suis un autodidacte, curieux,  têtu, touche-à-tout et éparpillé. Je devais trouver une autre façon de faire mon chemin. 
 
