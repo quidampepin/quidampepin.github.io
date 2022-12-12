@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Refining Our design goals
+title: Refining our design goals
 category: Notes
 excerpt_separator: <!--more-->
 tag: Note
