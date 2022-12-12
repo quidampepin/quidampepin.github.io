@@ -15,7 +15,7 @@ After several unsuccessful attempts in the past, I decided to create a personal 
 
 ## My favorite subjects
 
-Much of what I plan to write is related to my work: content design , UX, Government of Canada web presence and service delivery, and evidence-based continuous improvement). 
+Much of what I plan to write is related to my work: content design, UX, Government of Canada web presence and service delivery, and evidence-based continuous improvement). 
 
 I intend to do it while respecting my code of ethics, of course (I want to write a post on this question, but in the meantime this post written by Sean Boots reflects my position quite well: [Principles for blogging as a public servant](https://sboots.ca/2020/01/21/principles-for-blogging-as-a-public-servant/). 
 

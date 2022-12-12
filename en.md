@@ -9,9 +9,11 @@ category: Home
 
 
 
- Welcome to my personal publishing space!
+Welcome to my personal publishing space!
  
- Blog posts, fiction, scattered notes: a place to publish writing experiments.
+Why not just talk about a blog? Because it won't just be a space for posting blog posts. There will also be short fiction texts, as well as notes, to quickly share a link or an idea.
+
+In short: a place to publish my writing experiments.
 
 <div class="posts">
   

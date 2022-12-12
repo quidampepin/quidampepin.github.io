@@ -83,11 +83,17 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          <a href="{{ pagelang.biourl }}">
-            {{ pagelang.bioname }}</a>
-          {% include svg-icons.html %}
+          
+        <ul style="text-align: left;">
+        <li><a href="{{ pagelang.biourl }}">{{ pagelang.bioname }}</a></li>
+        <li><a href="https://github.com/quidampepin}">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/david-pepin-9b458613b/">LinkedIn</a></li>
+        <li><a href="https://twitter.com/quidampepin">Twitter</a></li>
+        <li><a href=" @quidampepin@mstdn.ca">Mastodon</a></li>
+     
+          </ul>
 
-          <p style="text-align: left;">{{ pagelang.disclaimer }}<p>
+          <p>{{ pagelang.disclaimer }}</p>
             
           <p>&copy; David Pepin <br>{{ pagelang.creativecommons }} <a href=https://creativecommons.org/licenses/by/4.0/deed.fr>Licence Creative Commons Attribution 4.0 International</a>.</p>
 

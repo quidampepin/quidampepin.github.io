@@ -6,6 +6,9 @@ ref: billets
 
 
 <h1>Blog</h1>
+
+Blog posts about content design, UX, Government of Canada web presence and service delivery, evidence-based continuous improvement and other topics.
+
 <div class="posts">
   {% assign posts=site.categories.Billets | where:"lang", page.lang %}
   {% for post in posts %}

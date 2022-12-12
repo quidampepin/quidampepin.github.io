@@ -10,7 +10,9 @@ category: Home
 
   Bienvenue dans mon espace de publication personnel!
   
-  Des billets de blogue, des textes de fiction, des notes éparpillées : un endroit où déposer des expériences d'écriture. 
+  Pourquoi ne  pas parler simplement d’un blogue? Parce que ce ne sera pas uniquement un espace pour publier des billets de blogue. Il y aura aussi de courts textes de fiction, de même que des notes, pour partager un lien ou une idée.
+
+  En bref: un endroit où publier mes expériences d'écriture. 
 
 <div class="posts">
   

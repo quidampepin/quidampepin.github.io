@@ -6,6 +6,9 @@ ref: notes
 
 
 <h1>Notes</h1>
+
+Short notes, links and other ideas. 
+
 <div class="posts">
   {% assign posts=site.categories.Notes | where:"lang", page.lang %}
   {% for post in posts %}

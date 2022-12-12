@@ -5,6 +5,9 @@ ref: recits
 ---
 
 <h1>Fiction</h1>
+
+Short stories and other narrative texts. 
+
 <div class="posts">
 
   {% assign posts=site.categories.recits | where:"lang", page.lang %}
