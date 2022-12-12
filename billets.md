@@ -7,7 +7,7 @@ ref: billets
 
 <h1>Blogue</h1>
 
-Billets de blogue au sujet de la conception de contenu (_content design_), de l’expérience utilisateur (UX), de la présence Web et de la prestation de service du gouvernement du Canada, de l’amélioration continue basée sur les données probantes (_evidence-based continuous improvement_), de d'autres sujets.
+Billets de blogue à propos de divers sujets.
 
 <div class="posts">
    {% assign posts=site.categories.Billets | where:"lang", page.lang %}
