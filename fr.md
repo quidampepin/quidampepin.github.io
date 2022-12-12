@@ -14,6 +14,9 @@ category: Home
 
   En bref: un endroit où publier mes expériences d'écriture. 
 
+  Je rédige d'abord la plupart des articles en français, puis je mets à disposition une traduction anglaise. 
+
+
 <div class="posts">
   
    {% assign posts=site.posts | where:"lang", page.lang %}
