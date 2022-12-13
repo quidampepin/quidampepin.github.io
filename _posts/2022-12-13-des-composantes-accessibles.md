@@ -17,7 +17,7 @@ La ressource contient plusieurs composantes, dont:
 - menu déroulant
 - interface à onglets
 
-[Acces & Use ](https://accessuse.eu/en/components.html)
+[Access & Use ](https://accessuse.eu/en/components.html)
  
 [Source Twitter: Accessible components ](https://twitter.com/vitalyf/status/1602338575130959872)
 

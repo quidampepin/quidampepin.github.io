@@ -17,7 +17,7 @@ The resource contains several components, including:
 - drop-down menu
 - tabbed interface
 
-[Acces & Use ](https://accessuse.eu/en/components.html)
+[Access & Use ](https://accessuse.eu/en/components.html)
  
 [Source Twitter: Accessible components ](https://twitter.com/vitalyf/status/1602338575130959872)
 
