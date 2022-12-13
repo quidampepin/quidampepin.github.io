@@ -19,5 +19,5 @@ La ressource contient plusieurs composantes, dont:
 
 [Acces & Use ](https://accessuse.eu/en/components.html)
  
-[sourrce Twitter: Accessible components ](https://twitter.com/vitalyf/status/1602338575130959872)
+[Source Twitter: Accessible components ](https://twitter.com/vitalyf/status/1602338575130959872)
 
