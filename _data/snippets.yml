@@ -15,6 +15,7 @@ EN:
   allnotes: All notes
   allblog: All blog entries
   allfiction: All fiction stories
+  feed: Fil XML
 
 
 FR:
@@ -33,4 +34,5 @@ FR:
   allnotes: Toutes les notes
   allblog: Tous les billets de blogue
   allfiction: Tous les textes de fiction
+  feed: XML feed
 
