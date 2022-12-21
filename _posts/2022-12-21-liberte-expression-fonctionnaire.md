@@ -54,7 +54,7 @@ Si nous pensons qu’une décision ou une façon de faire nuit à la qualité de
 
 ### Travailler de façon ouverte (_open by default_)
 
-Finalement, les [normes relatives au numérique](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) nous enjoignent à “travailler ouvertement par défaut”. 
+Finalement, les [normes relatives au numérique](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) nous enjoignent à « travailler ouvertement par défaut ». 
 
 Nous sommes encouragés à partager avec nos collègues et avec le public nos façons de faire, nos recherches, nos réflexions. 
 
@@ -77,7 +77,7 @@ Je n’entrerai pas un débat sur la légitimité de nos institutions démocrati
 
 ### L’intérêt du public avant tout
 
-Ainsi, lorsqu’il est question de la liberté de parole du fonctionnaire, pour moi, le principe suprême est l’**intérêt du public**. 
+Ainsi, lorsqu’il est question de la liberté de parole du fonctionnaire, pour moi, le principe suprême est **l’intérêt du public**. 
 
 Si une décision, une approche ou une procédure nuit à notre capacité à servir le public, nous avons la responsabilité d’en parler, de façon ouverte et transparente, et de contribuer à améliorer les choses. 
 
