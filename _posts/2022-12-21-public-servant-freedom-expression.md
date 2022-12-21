@@ -41,7 +41,7 @@ According to this code, we are required to respect the following values
 When we speak, whether in public or not, we must be inspired by these values. It is our duty, among other things, to try to improve the public service, to use public funds wisely, and to do everything possible to better serve the public.
 
 
-### Duty of Loyalty
+### Duty of loyalty
 
 Second, we have a [duty of loyalty](https://www.canada.ca/en/treasury-board-secretariat/services/values-ethics/code/duty-loyalty.html) to our employer. This duty includes the obligation not to publicly criticize the government, with some exceptions.
 
