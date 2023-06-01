@@ -29,5 +29,5 @@ That's when I really found my career path: organizing information and developing
 
 Since then, one thing led to another and I learned a lot. Writing for the web, UX, content design, service design, evidence-based improvement: I try to draw from many disciplines to design the best content possible. 
 
-As of August 2022, I am one of [Canada’s Free Agents ](https://wiki.gccollab.ca/Canada%27s_Free_Agents). I’m currently on assignment with the Public Health Agency of Canada.
+I am currently working at Immigration, Refugees and Citizenship Canada, leading a team using evidence for continuous improvement of the web presence.
 

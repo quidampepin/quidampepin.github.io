@@ -30,4 +30,4 @@ C’est à ce moment que j’ai vraiment trouvé ma voie professionnelle : organ
 
 Depuis ce temps, de fil en aiguille, j’ai beaucoup appris. Écriture pour le Web, UX, design de contenu, conception de service, amélioration fondée sur les données probantes : j’essaie de m’inspirer de plusieurs disciplines pour concevoir le meilleur contenu possible. 
 
-Depuis août 2022, je suis un [Agent libre du Canada](https://wiki.gccollab.ca/Agents_libres_du_Canada), et je suis présentement en affectation à l’Agence de santé publique du Canada. 
+Je suis présentment à l'emploi d'Immigration, Réfugiés et Citoyenneté Canada. Je gère une équipe qui utilise les données probante pour l'amélioration continue de la présence Web.
