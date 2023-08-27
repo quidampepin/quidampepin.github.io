@@ -8,14 +8,14 @@ lang: FR
 ref: three-horizons
 ---
 
-La présence Web du gouvernement du Canada (GC) n'est pas un simple "site Web" - c'est le principal point d'entrée pour tous les services du gouvernement. Les équipes Web travaillent d'arrache-pied depuis des années pour l’entretenir et l'améliorer. Pourtant, la nécessité de la transformer radicalement semble pratiquement évidente pour tous ceux qui ont vu les gens essayer de l'utiliser.
+La présence Web du gouvernement du Canada (GC) n'est pas un simple « site Web » - c'est le principal point d'entrée pour tous les services du gouvernement. Les équipes Web travaillent d'arrache-pied depuis des années pour l’entretenir et l'améliorer. Pourtant, la nécessité de la transformer radicalement semble pratiquement évidente pour tous ceux qui ont vu les gens essayer de l'utiliser.
 
  
 <!--more-->
 
 Ces dernières années, des équipes de transformation de service sont apparues dans de nombreux ministères, dans le but de réimaginer l'expérience client, en particulier dans son aspect numérique. La prolifération de ces équipes, de même que la [nomination d'un nouveau ministre des services aux citoyens](https://policyoptions.irpp.org/magazines/august-2023/terry-beech-tall-order-service-delivery/), mettent en lumière un défi de taille. Il semble y avoir une certaine « tension » entre ceux qui entretiennent et améliorent régulièrement la présence Web (généralement au sein des équipes de communication) et les nouvelles équipes de transformation (généralement situées en dehors des communications). Cette tension entraîne souvent des chevauchements, de la méfiance, un manque de coordination et une duplication des efforts.
 
-Il semble que la solution consisterait à passer à un **modèle de gestion de produit**. La plupart du temps, nous gérons l'amélioration et la transformation comme des "projets" séparés et distincts, avec des calendriers et des livrables rigides, ce qui nous conduit inévitablement vers une gestion « waterfall ». Même lorsque les équipes travaillent en sprints ou qu’elles utilisent la méthodologie scrum, elles finissent souvent par n'avoir d'agile que le nom. Traiter l'ensemble de la présence Web d’un service comme un produit, en s'appuyant sur une amélioration et une transformation continues fondées sur des données probantes, permettrait probablement d'obtenir de bien meilleurs résultats. 
+Il semble que la solution consisterait à passer à un **modèle de gestion de produit**. La plupart du temps, nous gérons l'amélioration et la transformation comme des « projets » séparés et distincts, avec des calendriers et des livrables rigides, ce qui nous conduit inévitablement vers une gestion « waterfall ». Même lorsque les équipes travaillent en sprints ou qu’elles utilisent la méthodologie scrum, elles finissent souvent par n'avoir d'agile que le nom. Traiter l'ensemble de la présence Web d’un service comme un produit, en s'appuyant sur une amélioration et une transformation continues fondées sur des données probantes, permettrait probablement d'obtenir de bien meilleurs résultats. 
 
 Des équipes de produit pluridisciplinaires, habilitées à prendre des décisions, comprenant des personnes travaillant dans les domaines de la politique, de la technologie, du contenu et de la conception, et travaillant de manière réellement agile, pourraient avoir un réel impact sur les résultats des services gouvernementaux. Mais cela nécessitera des changements significatifs dans notre mode de fonctionnement, notre mode de financement et notre processus d'approbation. 
 
@@ -32,7 +32,7 @@ Pour étudier comment nous pourrions y parvenir, je propose un cadre à trois ho
 
 ## Trois horizons : entretenir, améliorer, transformer		
 
-<img class="img-fluid" src="{{ site.baseurl }}/images/three_horizons.png" alt="Titre du graphique : Présence Web du GC - Un cadre à trois horizons. 2 axes. Axe X : temps. Axe Y : Recherche, innovation, bouleversement. Trois bulles, commençant toutes dans le coin inférieur gauche du graphique. 1ère bulle : Entretenir (environ un tiers de l'axe). 2e bulle : Améliorer (environ la moitié de l'axe). 3ème bulle : Transformer (va jusqu'au bout des axes)."/>
+<img class="img-fluid" src="{{ site.baseurl }}/images/trois_horizons.png" alt="Titre du graphique : Présence Web du GC - Un cadre à trois horizons. 2 axes. Axe X : temps. Axe Y : Recherche, innovation, bouleversement. Trois bulles, commençant toutes dans le coin inférieur gauche du graphique. 1ère bulle : Entretenir (environ un tiers de l'axe). 2e bulle : Améliorer (environ la moitié de l'axe). 3ème bulle : Transformer (va jusqu'au bout des axes)."/>
 
 ### Entretenir
 
@@ -53,7 +53,7 @@ Les responsables de l’amélioration sont généralement à l'abri des tempête
 
 L'amélioration de la présence existante nécessite une remise en question constante du statu quo, mais n'implique pas une refonte complète de la manière dont nous offrons un service. C'est la position dans laquelle je me sens personnellement le plus à l'aise : elle comporte son lot de bouleversements, mais en travaillant dans le cadre existant, elle permet d'obtenir rapidement des améliorations concrètes pour les utilisateurs du service. 
 
-Si "de petits changements peuvent faire une grande différence", les responsables de l'amélioration vont généralement découvrir des problèmes qui nécessitent une transformation beaucoup plus profonde. Certaines choses ne peuvent tout simplement pas être résolues en améliorant le design existant. 
+Si  « de petits changements peuvent faire une grande différence », les responsables de l'amélioration vont généralement découvrir des problèmes qui nécessitent une transformation beaucoup plus profonde. Certaines choses ne peuvent tout simplement pas être résolues en améliorant le design existant. 
 
 
 ### Transformer
@@ -78,9 +78,9 @@ Nous devons nous poser les questions suivantes :
 
 
 
-* **Que savons-nous : **Quelles sont les données dont nous disposons déjà sur les tâches des gens, leurs points faibles, les obstacles qu'ils rencontrent, etc.?
-* **Que devrions-nous apprendre : **Où se situent les lacunes dans les données, de quoi avons-nous besoin pour clarifier les choses?
-* **Comment apprendre :** quelles sont les activités dont nous avons besoin pour obtenir cette clarté et aller de l'avant?
+* **Que savons-nous :** Quelles sont les données dont nous disposons déjà sur les tâches des gens, leurs points faibles, les obstacles qu'ils rencontrent, etc.?
+* **Que devrions-nous apprendre :** Où se situent les lacunes dans les données, de quoi avons-nous besoin pour clarifier les choses?
+* **Comment apprendre :** Quelles sont les activités dont nous avons besoin pour obtenir cette clarté et aller de l'avant?
 
 Les réponses à ces questions varieront en fonction du résultat recherché. L’entretien, l'amélioration et la transformation de la présence Web exigent des niveaux de compréhension différents.
 
@@ -96,7 +96,7 @@ Les personnes en chargent de l’**amélioration** ont le temps et l'espace néc
 
 Elles peuvent utiliser ces informations pour améliorer régulièrement la présence Web sans nécessairement réimaginer l'ensemble de l'expérience du service.
 
-Les **transformateurs **peuvent utiliser toutes ces techniques et en ajouter d'autres plus approfondies, comme la conduite d'entretiens approfondis avec les utilisateurs ou la réalisation d'une cartographie complète du parcours (_journey mapping)_. Travaillant à plus long terme, ils peuvent utiliser tous les outils à leur disposition pour repenser l'ensemble de l'expérience client.
+Les **transformateurs** peuvent utiliser toutes ces techniques et en ajouter d'autres plus approfondies, comme la conduite d'entretiens approfondis avec les utilisateurs ou la réalisation d'une cartographie complète du parcours (_journey mapping)_. Travaillant à plus long terme, ils peuvent utiliser tous les outils à leur disposition pour repenser l'ensemble de l'expérience client.
 
 Des ressources comme celles-ci peuvent nous aider à organiser et à hiérarchiser nos activités de recherche :
 
@@ -142,7 +142,7 @@ Lorsque vous améliorez la présence Web, vous êtes dans un espace d'apprentiss
 
 ### Les transformateurs doivent innover
 
-Travailler dans un espace de transformation peut révéler la nécessité d'une révision significative de certains éléments de design. Les transformateurs doivent toujours respecter une "marque" unifiée, mais ils ont besoin d'un espace pour repenser presque tout, et d'un mécanisme pour intégrer les enseignements dans le système.
+Travailler dans un espace de transformation peut révéler la nécessité d'une révision significative de certains éléments de design. Les transformateurs doivent toujours respecter une « marque » unifiée, mais ils ont besoin d'un espace pour repenser presque tout, et d'un mécanisme pour intégrer les enseignements dans le système.
 
 
 ### Nous avons besoin d'une équipe de système design habilitée
@@ -151,7 +151,7 @@ En bref, pour fournir de meilleurs services de manière plus efficace, nous avon
 
 
 
-* favoriser la confiance du public grâce à une "marque minimale viable"
+* favoriser la confiance du public grâce à une « marque minimale viable »
 * fournir des modèles bien documentés et robustes comme points de départ sains et relativement stables
 * offrir la flexibilité nécessaire pour permettre l'apprentissage par l'expérimentation - y compris en permettant aux ministères d'avoir leur propre système de design complémentaire
 * disposer d'un modèle de contribution clair et collaboratif pour continuer à améliorer le système.
@@ -165,23 +165,23 @@ Ces horizons ne sont pas nécessairement équivalents à des unités de travail 
 
 Quelle que soit la manière dont les équipes sont organisées, l'important est qu'aucun horizon ne soit isolé, qu'aucun effort ne soit insignifiant et qu'aucun groupe ne se sente menacé par l'autre. Les différents horizons sont complémentaires et peuvent apprendre les uns des autres. 
 
-**Si vous assurez l’entretien: **
+**Si vous assurez l’entretien :**
 
 
 
 * Vous savez de première main comment fonctionne la présence Web: ce qui marche, ce qui ne marche pas, quels sont les défis, les obstacles, les bloqueurs, qui sont les alliés, quels sont les risques réels, etc. 
 * N'hésitez pas à partager ces connaissances avec tout le monde. 
 * Ne vous sentez pas menacé par ceux qui veulent améliorer ou transformer la présence Web sur laquelle vous travaillez; ce n'est pas une attaque à la qualité de votre travail. 
-* Ne gardez pas jalousement "vos" dossiers - considérez le contenu du site Web comme un service aux utilisateurs, et non comme votre propriété.
+* Ne gardez pas jalousement « vos » dossiers - considérez le contenu du site Web comme un service aux utilisateurs, et non comme votre propriété.
 
-**Si vous améliorez la présence Web : **
+**Si vous améliorez la présence Web :**
 
 
 
-* Vous êtes en quelque sorte "au milieu" : vous pouvez accéder facilement aux connaissances des responsables de l’entretien, vous avez la possibilité d'interpréter les preuves et de mener des recherches pour obtenir davantage d'informations, et vous avez la marge de manœuvre nécessaire pour écouter réellement ce que les transformateurs apprennent sur le parcours de l'utilisateur, les difficultés, et les opportunités. 
+* Vous êtes en quelque sorte « au milieu » : vous pouvez accéder facilement aux connaissances des responsables de l’entretien, vous avez la possibilité d'interpréter les preuves et de mener des recherches pour obtenir davantage d'informations, et vous avez la marge de manœuvre nécessaire pour écouter réellement ce que les transformateurs apprennent sur le parcours de l'utilisateur, les difficultés, et les opportunités. 
 * Ne sous-estimez pas le pouvoir qui vient avec cette position.Vous pouvez contribuer à combler le fossé entre les efforts quotidiens et les efforts de transformation.
 
-**Si vous transformez : **
+**Si vous transformez :**
 
 
 
