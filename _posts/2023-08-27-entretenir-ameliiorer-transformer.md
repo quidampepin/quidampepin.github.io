@@ -32,7 +32,7 @@ Pour étudier comment nous pourrions y parvenir, je propose un cadre à trois ho
 
 ## Trois horizons : entretenir, améliorer, transformer		
 
-<img src="{{ site.baseurl }}/images/three_horizons.png" alt="Titre du graphique : Présence Web du GC - Un cadre à trois horizons. 2 axes. Axe X : temps. Axe Y : Recherche, innovation, bouleversement. Trois bulles, commençant toutes dans le coin inférieur gauche du graphique. 1ère bulle : Entretenir (environ un tiers de l'axe). 2e bulle : Améliorer (environ la moitié de l'axe). 3ème bulle : Transformer (va jusqu'au bout des axes)."/>
+<img class="img-fluid" src="{{ site.baseurl }}/images/three_horizons.png" alt="Titre du graphique : Présence Web du GC - Un cadre à trois horizons. 2 axes. Axe X : temps. Axe Y : Recherche, innovation, bouleversement. Trois bulles, commençant toutes dans le coin inférieur gauche du graphique. 1ère bulle : Entretenir (environ un tiers de l'axe). 2e bulle : Améliorer (environ la moitié de l'axe). 3ème bulle : Transformer (va jusqu'au bout des axes)."/>
 
 ### Entretenir
 
