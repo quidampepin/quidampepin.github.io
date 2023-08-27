@@ -32,7 +32,7 @@ To explore how we could do this, I’m proposing a three-horizon framework, insp
 
 ## Three horizons: maintain, improve, transform	
 
-<img src="{{ site.baseurl }}/images/three_horizons.png" alt="Grapn title: GC Web presence - A three-horizon framework. 2 axe. X axis: time. Y axis: Research, innovation, disruption. Three bubbles, all starting in the bottom left corner of the graph. 1st bubble: Maintain (goes abouta third of the way on the axes). 2nd bubble: Improve (goes about half way on the axes). 3rd bubble: Transfortm (goes all the way on the )"/>
+<img class="img-fluid" src="{{ site.baseurl }}/images/three_horizons.png" alt="Grapn title: GC Web presence - A three-horizon framework. 2 axe. X axis: time. Y axis: Research, innovation, disruption. Three bubbles, all starting in the bottom left corner of the graph. 1st bubble: Maintain (goes abouta third of the way on the axes). 2nd bubble: Improve (goes about half way on the axes). 3rd bubble: Transfortm (goes all the way on the )"/>
 
 ### Maintain
 
