@@ -96,7 +96,7 @@ The responses to these will vary depending on the outcome you’re after. Mainta
 
 They can use these insights to regularly improve the web presence without necessarily reimagining the whole service experience.
 
-**Transformers **can use all these techniques, and add more in-depth ones, like conducting extensive user interviews or do thorough journey mapping. Working on a longer-term horizon, they can use all the tools at their disposal to rethink the whole customer experience.
+**Transformers** can use all these techniques, and add more in-depth ones, like conducting extensive user interviews or do thorough journey mapping. Working on a longer-term horizon, they can use all the tools at their disposal to rethink the whole customer experience.
 
 Resources like these can help us organize and prioritize our research activities:
 
@@ -117,7 +117,7 @@ Here are some ideas on how we could help with this situation:
 
 
 * Create some form of **data hub**, and make it available to everyone in the organization - this hub could include web analytics, search queries, user feedback, GC Task success survey, call centre data, and any other relevant data. It could be useful for both performance reporting and as a tool to help maintain, improve and transform the web presence. Work is already underway on that front in many departments (namely at CRA and ESDC).
-* Build a **UX research repository **to share insights and learnings widely (something like [Atomic Research](https://blog.prototypr.io/what-is-atomic-research-e5d9fbc1285c) could help us do this). 
+* Build a **UX research repository** to share insights and learnings widely (something like [Atomic Research](https://blog.prototypr.io/what-is-atomic-research-e5d9fbc1285c) could help us do this). 
 * Set up some kind of **community of practice**, a place where we can support each other and share our work. 
 
 Sharing needs to happen at the departmental level, but also at the GC-wide level: we can learn from each other. 
@@ -165,7 +165,7 @@ These horizons are not necessarily equivalent to work units or distinct groups o
 
 Regardless of how teams are organized, the important thing is that no horizon should be isolated, no effort is insignificant, and no group should feel threatened by the other. The different horizons are complementary, and can learn from each other. 
 
-**If you're maintaining: **
+**If you're maintaining:**
 
 
 
@@ -174,16 +174,14 @@ Regardless of how teams are organized, the important thing is that no horizon sh
 * Don’t feel threatened by those who want to improve or transform the web presence you work on; it’s not a jab on the quality of your work. 
 * Don’t get territorial on “your” files - treat the web content as a service to users, not as your property.
 
-**If you're improving: **
+**If you're improving:**
 
 
 
 * You are kind of “in the middle”: you can have easy access to the knowledge of maintainers, you have the space to interpret evidence and conduct research to gain more insights, and you have the leeway to really listen to what transformers are learning about the user journey, the pain points, the opportunities. 
 * Don’t underestimate the power of that position. You can help bridge the gap between the day-to-day and the transformation efforts.
 
-**If you're transforming: **
-
-
+**If you're transforming:**
 
 * You’re in a position to imagine what the future might be; that can be very powerful.
 * Don’t work in a silo: talk to maintainers and improvers, listen to what they are learning and use that to inform the transformation.
