@@ -10,7 +10,7 @@ ref: three-horizons
 
 The Government of Canada’s (GC) web presence is not a simple “website” - it’s the main entry point for all services from the government. Web teams have been hard at work for years to maintain and improve it. Yet the need to radically transform it seems almost self-evident to anyone who has watched people try to use it.
 
-
+ 
 <!--more-->
 
 In the last few years, service transformation shops have been popping up in many departments, aiming to reimagine the client experience, especially the digital side of it. The proliferation of these shops, as well as the [nomination of a new Minister of Citizen Services](https://policyoptions.irpp.org/magazines/august-2023/terry-beech-tall-order-service-delivery/), highlights a significant challenge. There seems to be a “tension” between those who maintain and improve the web presence on a regular basis (usually within comms shops) and new transformation shops (usually sitting outside of comms). This tension often leads to overlap, mistrust, lack of coordination, and duplicated efforts.

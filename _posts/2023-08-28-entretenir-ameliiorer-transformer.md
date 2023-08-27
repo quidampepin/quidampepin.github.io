@@ -10,7 +10,7 @@ ref: three-horizons
 
 La présence Web du gouvernement du Canada (GC) n'est pas un simple "site Web" - c'est le principal point d'entrée pour tous les services du gouvernement. Les équipes Web travaillent d'arrache-pied depuis des années pour l’entretenir et l'améliorer. Pourtant, la nécessité de la transformer radicalement semble pratiquement évidente pour tous ceux qui ont vu les gens essayer de l'utiliser.
 
-
+ 
 <!--more-->
 
 Ces dernières années, des équipes de transformation de service sont apparues dans de nombreux ministères, dans le but de réimaginer l'expérience client, en particulier dans son aspect numérique. La prolifération de ces équipes, de même que la [nomination d'un nouveau ministre des services aux citoyens](https://policyoptions.irpp.org/magazines/august-2023/terry-beech-tall-order-service-delivery/), mettent en lumière un défi de taille. Il semble y avoir une certaine « tension » entre ceux qui entretiennent et améliorent régulièrement la présence Web (généralement au sein des équipes de communication) et les nouvelles équipes de transformation (généralement situées en dehors des communications). Cette tension entraîne souvent des chevauchements, de la méfiance, un manque de coordination et une duplication des efforts.
