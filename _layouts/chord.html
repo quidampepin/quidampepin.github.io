@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+
+    <style>
+      body {
+          font-family: Arial, sans-serif;
+          max-width: 800px;
+          margin: 0 auto;
+          padding: 20px;
+          line-height: 1.6;
+      }
+      h1 {
+          color: #333;
+      }
+      #output {
+          margin-top: 20px;
+          border: 1px solid #ddd;
+          padding: 10px;
+          background-color: #f9f9f9;
+      }
+      select, button {
+          margin: 10px 0;
+          padding: 5px;
+      }
+  </style>
+  
+  </head>
+
+  <body>
+    {% assign pagelang = site.data.snippets[page.lang] %}
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header style="max-width:65ch;" class="masthead clearfix">
+          
+          {% if page.layout == "post" %}
+          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  
+    <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
+  {% endfor %}
+        {% endif %}
+        
+        {% if page.layout == "page" %}
+        {% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% for post in posts %}
+  <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
+  {% endfor %}
+      {% endif %}
+
+          
+          <div class="site-name">
+            David Pepin
+
+
+          </div>
+
+          <nav>
+            
+
+
+   
+          
+           <a href="{{ pagelang.homeurl }}" {% if page.category == "Home" %}style="border-bottom: 5px solid #222"{% endif %}>
+        {{ pagelang.homename }}</a>
+    
+            <a href="{{ pagelang.billetsurl }}" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
+        {{ pagelang.billetsname }}</a>
+    
+      <a href="{{ pagelang.recitsurl }}" {% if page.category == "recits" %}style="border-bottom: 5px solid #222"{% endif %}>
+        {{ pagelang.recitsname }}</a>
+
+        <a href="{{ pagelang.notesurl }}" {% if page.category == "Notes" %}style="border-bottom: 5px solid #222"{% endif %}>
+          {{ pagelang.notesname }}</a>
+
+    
+        
+    
+
+</nav>
+
+   
+        </header>
+        
+      </div>
+    </div>
+    <!--
+    <div class="container">
+    {% include google-search.html %}
+  </div>
+  -->
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+        
+
+        <ul>
+        <li><a href="{{ pagelang.biourl }}">{{ pagelang.bioname }}</a></li>
+        <li><a href="https://www.davidpepin.ca/feed.xml">{{ pagelang.feed }}</a></li>
+        <li><a href="https://github.com/quidampepin">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/david-pepin-9b458613b/">LinkedIn</a></li>
+        <li><a href="https://twitter.com/quidampepin">Twitter</a></li>
+        <li><a href="https://mstdn.ca/@quidampepin">Mastodon</a></li>
+     
+          </ul>
+
+          <p>{{ pagelang.disclaimer }}</p>
+            
+          <p>&copy; David Pepin <br>{{ pagelang.creativecommons }} <a href=https://creativecommons.org/licenses/by/4.0/deed.fr>Licence Creative Commons Attribution 4.0 International</a>.</p>
+
+          
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>

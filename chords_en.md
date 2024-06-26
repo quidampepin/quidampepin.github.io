@@ -1,32 +1,10 @@
 ---
-layout: page
+layout: chord
 lang: EN
 ref: chords
 category: Chords
 ---
- <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        h1 {
-            color: #333;
-        }
-        #output {
-            margin-top: 20px;
-            border: 1px solid #ddd;
-            padding: 10px;
-            background-color: #f9f9f9;
-        }
-        select, button {
-            margin: 10px 0;
-            padding: 5px;
-        }
-    </style>    
-<body>
+
     <h1>Chord Progression Generator</h1>
     <label for="key">Select the key: </label>
     <select id="key" name="key">
@@ -214,4 +192,3 @@ const minorProgressions = [
             document.getElementById('output').innerHTML = output;
         }
     </script>
-</body>
