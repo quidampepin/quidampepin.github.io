@@ -26,7 +26,7 @@ category: Chords
             padding: 5px;
         }
     </style>    
-
+<body>
     <h1>Chord Progression Generator</h1>
     <label for="key">Select the key: </label>
     <select id="key" name="key">
@@ -214,3 +214,4 @@ const minorProgressions = [
             document.getElementById('output').innerHTML = output;
         }
     </script>
+</body>
