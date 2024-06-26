@@ -5,7 +5,7 @@ ref: chords
 category: Chords
 ---
 
-<h1>Chord Progression Generator</h1>
+<h1>Chord progression generator</h1>
 <label for="key">Select the key: </label>
 <select id="key" name="key">
     <option value="C">C</option>
@@ -28,6 +28,6 @@ category: Chords
     <option value="minor">Minor</option>
 </select>
 <br>
-<button onclick="generateProgressions()">Generate Progressions</button>
+<button onclick="generateProgressions()">Generate progressions</button>
 <div id="output"></div>
 
