@@ -26,7 +26,6 @@ category: Chords
             padding: 5px;
         }
     </style>
-</head>
 <body>
     <h1>Chord Progression Generator</h1>
     <label for="key">Select the key: </label>
