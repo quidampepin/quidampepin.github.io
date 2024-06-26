@@ -284,8 +284,8 @@ const minorProgressions = [
         
         let output = '';
         progressions.forEach(([numeral, chords]) => {
-            output += `Numeral Notation: ${numeral.join(' - ')}<br>`;
-            output += `Chord Progression in Key: ${chords.join(' - ')}<br><br>`;
+            output += `${numeral.join(' - ')}<br>`;
+            output += `${chords.join(' - ')}<br><br>`;
         });
 
         document.getElementById('output').innerHTML = output;
