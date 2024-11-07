@@ -1,6 +1,6 @@
 ---
 layout: post
-title: État, bureaucratie et pouvoir : réflexions d'un bureaucrate
+title: État, bureaucratie et pouvoir - réflexions d'un bureaucrate
 category: Billets
 excerpt_separator: <!--more-->
 tag: Blogue

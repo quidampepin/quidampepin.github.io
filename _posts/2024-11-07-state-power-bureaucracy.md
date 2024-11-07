@@ -1,6 +1,6 @@
 ---
 layout: post
-title: State, bureaucracy and power: Reflections of a bureaucrat
+title: State, bureaucracy and power - Reflections of a bureaucrat
 category: Billets
 excerpt_separator: <!--more-->
 tag: Blog
