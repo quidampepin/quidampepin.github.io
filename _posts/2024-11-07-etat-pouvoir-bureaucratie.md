@@ -14,11 +14,6 @@ En tant que fonctionnaire de carrière, je fais partie de l'appareil d'État, po
 
  
 <!--more-->
-<div style="text-align: center;">
-<img class="img-fluid" src="{{ site.baseurl }}/images/bureaucracy.png" alt="Image représentant un individu opprimé par le poids de la bureaucratie"/>
-
-*Image générée par ChatGPT*
-</div>
 
 La bureaucratie gouvernementale est souvent considérée comme une partie agaçante mais nécessaire de notre vie collective : un ensemble de procédures, de règles, de formulaires et de processus dont le rôle est de nous permettre de vivre en société. Mais sous cette surface se cache un profond déséquilibre des pouvoirs. Nous, les bureaucrates, exerçons un pouvoir considérable. Nous sommes un élément essentiel d'un système qui opprime, discrimine et écrase souvent les gens, armé d'une pléthore de règles apparemment incompréhensibles qu'ils doivent suivre.
 
