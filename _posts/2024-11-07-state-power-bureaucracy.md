@@ -13,9 +13,11 @@ There’s no point in denying it: I’m a bureaucrat.
 As a career government worker, I'm part of the machinery of the state, for better or worse. I find the English expression “public servant” elegantly side-steps this reality and focuses on an idealized “public” that we ostensibly serve. The French expression, “fonctionnaire”, is perhaps more honest: I serve a specific function in the state apparatus. Part of my role is enforcing rules and maintaining the bureaucracy. I am, in one word, a bureaucrat.
  
 <!--more-->
-
+<div class="centered">
 <img class="img-fluid" src="{{ site.baseurl }}/images/bureaucracy.png" alt="Image representing an individual oppressed by the weight of bureaucracy"/>
+
 *Image generated in ChatGPT*
+</div>
 
 Government bureaucracy is often seen as an annoying but necessary part of our collective life: a set of procedures, rules, forms and processes whose role is to allow us to live in society. But beneath that boring surface lies a deep power imbalance. We bureaucrats wield significant power. We’re an essential part of a system that often oppresses, discriminates and crushes people, armed with a plethora of seemingly incomprehensible rules they must follow.
 
@@ -123,4 +125,4 @@ What I would like to see next is these examples multiply and become part of the 
 
 We need to keep pushing. Every step we take in that direction brings us closer to the idea of a human-centered, effective and just bureaucracy. Together, let’s make sure the public service is a positive force to build a better society, and not a harmful machinery. 
 
-*Note: This blog post was inspired by many different sources. Among them, David Graeber’s “The Utopia of Rules”, Jennifer Palkha’s “Recoding America", [FWD50](https://www.fwd50.com/) conferences, and countless discussions with my fellow public servants. *
+*Note: This blog post was inspired by many different sources. Among them, David Graeber’s “The Utopia of Rules”, Jennifer Palkha’s “Recoding America", [FWD50](https://www.fwd50.com/) conferences, and countless discussions with my fellow public servants.*

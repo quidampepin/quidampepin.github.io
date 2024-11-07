@@ -14,13 +14,15 @@ En tant que fonctionnaire de carrière, je fais partie de l'appareil d'État, po
 
  
 <!--more-->
-
+<div class="centered">
 <img class="img-fluid" src="{{ site.baseurl }}/images/bureaucracy.png" alt="Image représentant un individu opprimé par le poids de la bureaucratie"/>
+
 *Image générée par ChatGPT*
+</div>
 
 La bureaucratie gouvernementale est souvent considérée comme une partie agaçante mais nécessaire de notre vie collective : un ensemble de procédures, de règles, de formulaires et de processus dont le rôle est de nous permettre de vivre en société. Mais sous cette surface se cache un profond déséquilibre des pouvoirs. Nous, les bureaucrates, exerçons un pouvoir considérable. Nous sommes un élément essentiel d'un système qui opprime, discrimine et écrase souvent les gens, armé d'une pléthore de règles apparemment incompréhensibles qu'ils doivent suivre.
 
-Pourtant, nous pouvons avoir un impact positif sur la vie des gens et les aider à obtenir ce dont ils ont besoin de la part de leur gouvernement. 
+Pourtant, nous *pouvons* avoir un impact positif sur la vie des gens et les aider à obtenir ce dont ils ont besoin de la part de leur gouvernement. 
 
 Comment surmonter cette apparente contradiction?
 
@@ -127,4 +129,4 @@ Ce que j'aimerais voir pour la suite des choses, c'est que ces exemples se multi
 
 Nous devons continuer à pousser. Chaque pas que nous faisons dans cette direction nous rapproche de l'idée d'une bureaucratie centrée sur l'humain, efficace et juste. Ensemble, faisons en sorte que le service public soit une force positive pour construire une société meilleure, et non un outil d'oppression. 
 
-*Remarque : Ce billet a été inspiré par de nombreuses sources. Parmi celles-ci, « The Utopia of Rules » de David Graeber, « Recoding America » de Jennifer Palkha, les conférences [FWD50](https://www.fwd50.com/) et d'innombrables discussions avec mes collègues fonctionnaires. *
+*Remarque : Ce billet a été inspiré par de nombreuses sources. Parmi celles-ci, « The Utopia of Rules » de David Graeber, « Recoding America » de Jennifer Palkha, les conférences [FWD50](https://www.fwd50.com/) et d'innombrables discussions avec mes collègues fonctionnaires.*
