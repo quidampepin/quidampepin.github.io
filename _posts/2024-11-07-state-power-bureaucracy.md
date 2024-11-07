@@ -13,7 +13,7 @@ There’s no point in denying it: I’m a bureaucrat.
 As a career government worker, I'm part of the machinery of the state, for better or worse. I find the English expression “public servant” elegantly side-steps this reality and focuses on an idealized “public” that we ostensibly serve. The French expression, “fonctionnaire”, is perhaps more honest: I serve a specific function in the state apparatus. Part of my role is enforcing rules and maintaining the bureaucracy. I am, in one word, a bureaucrat.
  
 <!--more-->
-<div class="centered">
+<div style="text-align: center;">
 <img class="img-fluid" src="{{ site.baseurl }}/images/bureaucracy.png" alt="Image representing an individual oppressed by the weight of bureaucracy"/>
 
 *Image generated in ChatGPT*

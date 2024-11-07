@@ -14,7 +14,7 @@ En tant que fonctionnaire de carrière, je fais partie de l'appareil d'État, po
 
  
 <!--more-->
-<div class="centered">
+<div style="text-align: center;">
 <img class="img-fluid" src="{{ site.baseurl }}/images/bureaucracy.png" alt="Image représentant un individu opprimé par le poids de la bureaucratie"/>
 
 *Image générée par ChatGPT*
