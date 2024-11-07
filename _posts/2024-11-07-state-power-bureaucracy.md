@@ -53,7 +53,7 @@ These are not trivial - not following rules nearly impossible to fully understan
 In my opinion, there's a good reason some people don't trust their government: it's the only entity that can fine them, seize their property, or even deprive them of their freedom. 
 
 
-## But bureaucracy is a bulwark against arbitrary
+## But bureaucracy is a bulwark against arbitrary decisions
 
 If bureaucracy enables state power and causes harm, why do I remain a part of it? Despite its flaws, I believe a well-functioning state is necessary, at least in our current political and economic landscape. It can protect us from arbitrary power, which a healthy and transparent bureaucracy can help control and mitigate.
 
