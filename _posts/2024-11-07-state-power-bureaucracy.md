@@ -120,4 +120,4 @@ What I would like to see next is these examples multiply and become part of the 
 
 We need to keep pushing. Every step we take in that direction brings us closer to the idea of a human-centered, effective and just bureaucracy. Together, let’s make sure the public service is a positive force to build a better society, and not a harmful machinery. 
 
-*Note: This blog post was inspired by many different sources. Among them, David Graeber’s “The Utopia of Rules”, Jennifer Palkha’s “Recoding America", [FWD50](https://www.fwd50.com/) conferences, and countless discussions with my fellow public servants.*
+*Note: This blog post was inspired by many different sources. Among them, David Graeber’s “The Utopia of Rules”, Jennifer Pahlka’s “Recoding America", [FWD50](https://www.fwd50.com/) conferences, and countless discussions with my fellow public servants.*
