@@ -124,4 +124,4 @@ Ce que j'aimerais voir pour la suite des choses, c'est que ces exemples se multi
 
 Nous devons continuer à pousser. Chaque pas que nous faisons dans cette direction nous rapproche de l'idée d'une bureaucratie centrée sur l'humain, efficace et juste. Ensemble, faisons en sorte que le service public soit une force positive pour construire une société meilleure, et non un outil d'oppression. 
 
-*Remarque : Ce billet a été inspiré par de nombreuses sources. Parmi celles-ci, « The Utopia of Rules » de David Graeber, « Recoding America » de Jennifer Palkha, les conférences [FWD50](https://www.fwd50.com/) et d'innombrables discussions avec mes collègues fonctionnaires.*
+*Remarque : Ce billet a été inspiré par de nombreuses sources. Parmi celles-ci, « The Utopia of Rules » de David Graeber, « Recoding America » de Jennifer Pahlka, les conférences [FWD50](https://www.fwd50.com/) et d'innombrables discussions avec mes collègues fonctionnaires.*
