@@ -28,17 +28,17 @@ Thomas awoke to the soft light of a progressive dawn. Pleasant music, carefully 
 
 “I know, Amber, but even so, once in a while, it can’t be that bad...“
 
-“We'll make all of it right very soon, Thomas, trust me.“
+“We'll make everything right very soon, Thomas, trust me.“
 
 “Thank you, Amber.“
 
-“Would you like to know what’s planned today?“
+“Would you like to know what’s the plan for today?“
 
 “Yes, of course...“
 
 As Thomas got up and headed for the bathroom, Amber detailed the day's plan:
 
-“Today, June 4, it's going to be sunny, with a high of 20 degrees Celsius. It's rather cool this morning, so I've chosen clothes for you that will be warm enough for the cool morning air, but light enough for this afternoon. You have an important meeting with Mr Davis at 9 o'clock. Traffic today is expected to be quite heavy, so I've asked the car service to be here at 8.”
+“Today, June 4, is going to be sunny, with a high of 20 degrees Celsius. It's rather cool this morning, so I've chosen clothes for you that will be warm enough for the cool morning air, but light enough for this afternoon. You have an important meeting with Mr Davis at 9 o'clock. Traffic today is expected to be quite heavy, so I've asked the car service to be here at 8.”
 
 “What, I have to go in person?!“
 
@@ -66,9 +66,9 @@ A small door opened in the vanity counter. A receptacle held three small tablets
 
 Thomas pouted.
 
-“Amber, I seem to have a taste for eggs and bacon this morning...“
+“Amber, I think I would like eggs and bacon this morning...“
 
-“It's up to you. But I must warn you: you ate bacon only 5 days ago, and you've gained weight this week. Eating bacon today would cost you 5 meal credits, and increase your health insurance by 2 credits per week. And that's not the kind of meal that will help you in your meeting with Mr. Davis.“
+“It's up to you. But I must warn you: you ate bacon just 5 days ago, and you've gained weight this week. Eating bacon today would cost you 5 meal credits, and increase your health insurance by 2 credits per week. And that's not the kind of meal that will help you in your meeting with Mr. Davis.“
 
 “Okay, let's go with the substitute... Amber?“
 
@@ -90,11 +90,11 @@ He headed for the lobby, looked at himself in the mirror, and slipped on his sho
 
 Thomas looked at his watch: 8 o'clock sharp. On time, as usual. 
 
-Entering the driverless vehicle, Thomas was greeted by the diaphanous screens. He was spoilt for choice. To his right, the route map, with real-time information on traffic, accidents and possible changes to the planned route. To his left, his schedule for the day and the music list, both prepared by Amber. And in front of him, a summary of what he needed to know for his important meeting. He decided to use all the screens in the car to work. He couldn't let himself get distracted.  He could no longer see the outside world, the weather or the journey, and he had turned off the music. 
+Entering the driverless vehicle, Thomas was greeted by the diaphanous screens. He had lots of choice. To his right, the route map, with real-time information on traffic, accidents and possible changes to the planned route. To his left, his schedule for the day and the music list, both prepared by Amber. And in front of him, a summary of what he needed to know for his important meeting. He decided to use all the screens in the car to work. He couldn't let himself get distracted.  He could no longer see the outside world, the weather or the journey, and he had turned off the music. 
 
-Thomas was completely absorbed in the meeting that was coming up. His future was at stake. He had gambled a lot. He would be proposing major changes to the credit distribution algorithm. With these changes, he thought he'd hit the bull's-eye: better reward the most deserving, manage available resources more efficiently, without penalizing the most disadvantaged. Mr. Davis would be impressed, he was sure. Provided he hadn't missed anything...
+Thomas was completely absorbed in the meeting that was coming up. His future was at stake. He had gambled a lot. He would be proposing major changes to the credit distribution algorithm. With these changes, he thought he had hit the bull's-eye: better reward the most deserving and manage available resources more efficiently, all without penalizing the most disadvantaged. Mr. Davis would be impressed, he was sure. Provided he hadn't missed anything...
 
-He had a good 45-minute drive to fine-tune everything. 
+He had a good 45-minute drive to fine tune everything. 
 
 “Amber, can we go over the simulations of the new algorithm together?“
 
@@ -114,7 +114,7 @@ As his eyes adjusted to the intense daylight - why didn't progressive dawn work?
 
 The pain suddenly focused on the inside of his left forearm. 
 
-He watched in horror as someone - a real, flesh-and-blood person! - was sewing his skin back on, like a piece of fabric! 
+He watched in horror as someone - a real, flesh-and-blood person! - was sewing his skin together, like a piece of fabric! 
 
 “What the... “
 
@@ -124,7 +124,7 @@ Confusion gripped Thomas's mind.
 
 “But why, sir? What have you done? What am I doing here?“
 
-“Oh me, I don't know how or why you got here, sir... For that you'll have to talk to Corinne.“
+“Oh, I don't know how or why you got here, sir... For that you'll have to talk to Corinne.“
 
 “Corinne?“
 
@@ -134,7 +134,7 @@ Confusion gripped Thomas's mind.
 
 Thomas jumped to his feet, indignant, appalled, distraught. He continued: 
 
-“ut I need Amber! She has to call a car to take me home! What about my meeting? Shit, my meeting? I can't miss it! Amb... “
+“But I need Amber! She has to call a car to take me home! What about my meeting? Shit, my meeting? I can't miss it! Amb... “
 
 Thomas was about to ask Amber what time it was, and how late he'd be for his meeting, but he held his tongue. 
 
@@ -162,7 +162,7 @@ She introduced herself by looking him straight in the eye:
 
 “Hello, I'm Corinne. What's your name?“
 
-“Uh, Thomas.“
+“Huh, Thomas.“
 
 “Last name?“
 
@@ -174,7 +174,7 @@ Corinne cut him off:
 
 “I don't quite understand...“
 
-“ Of course you don't...“
+“Of course you don't...“
 
 Thomas was taken aback by Corinne's unwavering assurance. He wanted to protest, to demand that Amber be handed over to him immediately, to shout at the top of his voice. He felt incapable of doing so, as if paralyzed. Corinne continued: 
 
@@ -226,7 +226,7 @@ Corinne threw a pile of old clothes on the chair beside the bed, then left.
 
 Thomas struggled to get dressed. The pants didn't fit him at all, and neither did the sweater. What a filthy comedy. God, he missed his made-to-measure wardrobe... He went out and found himself outside. 
 
-“ Come on, follow me. I'll show you our camp.“
+“Come on, follow me. I'll show you our camp.“
 
 What he saw puzzled him. If this was a ruse, it was an elaborate one. Dozens of people were coming and going in this sort of makeshift camp. Some were carrying supplies, others were armed. One group was hotly debating a resolution to be passed at the next session. 
 
@@ -252,7 +252,7 @@ Thomas was skeptical:
 
 Corinne cut him off:
 
-“Wrong! Everything is put in place to make you believe that no one is starving! The cities are full of people barely surviving on the inadequate leftovers of your perfect society, starving... The police hunt them down everywhere! And they shoot on sight!“
+“Wrong! Everything is put in place to make you believe that no one is starving! The cities are full of people barely surviving on the inadequate leftovers of your perfect society... The police hunt them down everywhere! And they shoot on sight!“
 
 “But that's impossible, we'd never let that happen!“
 
@@ -270,7 +270,7 @@ Thomas felt his legs give way under him...
 
 Corinne burst out laughing:
 
-“That's a good one! There's no syntephamine here, and no synthalcohol either.None of that.But we do have marijuana, which we grow ourselves, and beer, made right here. Excellent products, by the way!“
+“That's a good one! There's no syntephamine here, and no synthalcohol either. None of that. But we do have marijuana, which we grow ourselves, and beer, made right here. Excellent products, by the way!“
 
 “What?! All these natural things are extremely dangerous! The 4th Empire banned them long ago! I'm not touching that stuff... Well... can you at least show me the way to the synthe-sex machine? It might help me relax...“
 
@@ -294,7 +294,7 @@ Reaching the edge of the camp, Thomas noticed the sentries, armed to the teeth.
 
 “They're hard to miss!“
 
-“This is the boundary. Inviolable. Anyone crossing this line is shot on the spot.“
+“This is the boundary. Inviolable. Anyone crossing this line is shot without questions.“
 
 “Drastic much?“
 
