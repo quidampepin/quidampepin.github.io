@@ -5,7 +5,10 @@ ref: story_1
 category: Impact
 ---
 
-<h1>Portfolio story 1: <br> Making Canada’s health data easier to explore</h1>
+<h1 class="story-title">
+  <span class="kicker">Portfolio story · Building</span>
+  <span class="title">Making Canada’s health data easier to explore</span>
+</h1>
 
 *2022-2023*
 
