@@ -89,6 +89,97 @@ h1.story-title .title {
   color: #000;
 }
 
+
+.portfolio {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2.25rem 1rem;
+  }
+
+  .portfolio__intro h1 {
+    font-size: 44px;
+    line-height: 1.1;
+    margin: 0 0 0.75rem 0;
+  }
+
+  .portfolio__intro p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin: 0 0 1.75rem 0;
+    max-width: 70ch;
+    color: #222;
+  }
+
+  .portfolio__grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 1fr;
+  }
+
+  @media (min-width: 760px) {
+    .portfolio__grid {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.25rem;
+    }
+  }
+
+  /* Card */
+  .story-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+
+    border: 1px solid #e5e5e5;
+    border-radius: 16px;
+    padding: 1.1rem 1.05rem;
+
+    background: #fff;
+    transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+  }
+
+  .story-card:hover,
+  .story-card:focus-visible {
+    transform: translateY(-2px);
+    border-color: #d0d0d0;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+    outline: none;
+  }
+
+  .story-card__kicker {
+    margin: 0 0 0.6rem 0;
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #555;
+  }
+
+  .story-card__title {
+    margin: 0 0 0.6rem 0;
+    font-size: 1.2rem;
+    line-height: 1.25;
+  }
+
+  .story-card__desc {
+    margin: 0 0 0.9rem 0;
+    line-height: 1.55;
+    color: #222;
+  }
+
+  .story-card__cta {
+    margin: 0;
+    font-weight: 600;
+  }
+
+  /* Optional: tighter title spacing on small screens */
+  @media (max-width: 420px) {
+    .portfolio__intro h1 {
+      font-size: 38px;
+    }
+    .story-card__title {
+      font-size: 1.15rem;
+    }
+  }
+  
 h2 {
   font-size: 34px;
 }
