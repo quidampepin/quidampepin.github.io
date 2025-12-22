@@ -5,7 +5,12 @@ ref: story_2
 category: Impact
 ---
 
-<h1>Helping people find the right immigration program</h1>
+
+<h1 class="story-title">
+  <span class="kicker">Portfolio story · Leading</span>
+  <span class="title">Helping people find the right immigration program</span>
+</h1>
+
 
 *2023-2024*
 

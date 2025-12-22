@@ -5,7 +5,12 @@ ref: story_3
 category: Impact
 ---
 
-<h1>Building a web improvement team at IRCC</h1>
+
+<h1 class="story-title">
+  <span class="kicker">Portfolio story · Transforming</span>
+  <span class="title">Building a web improvement team at IRCC</span>
+</h1>
+
 
 *2023-2026*
 

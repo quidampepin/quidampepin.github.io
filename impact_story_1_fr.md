@@ -7,6 +7,11 @@ category: Impact
 
 <h1>Faciliter l'exploration des données sur la santé au Canada</h1>
 
+<h1 class="story-title">
+  <span class="kicker">Histoire de portfolio · Bâtir</span>
+  <span class="title">Faciliter l'exploration des données sur la santé au Canada</span>
+</h1>
+
 *2022-2023*
 
 J'ai aidé les Canadiens à accéder plus facilement à des renseignements complexes sur la santé publique en repensant la page d'accueil de l’Infobase Santé et en créant un manuel de conception qui a amélioré la clarté et la cohérence pour les années à venir.

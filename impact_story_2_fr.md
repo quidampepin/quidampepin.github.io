@@ -7,6 +7,11 @@ category: Impact
 
 <h1>Aider les gens à trouver le programme d'immigration qui leur convient</h1>
 
+<h1 class="story-title">
+  <span class="kicker">Histoire de portfolio · Diriger</span>
+  <span class="title">Aider les gens à trouver le programme d'immigration qui leur convient</span>
+</h1>
+
 *2023-2024*
 
 J'ai dirigé l'équipe qui a créé un outil appelé « Explorer les programmes d'immigration », un nouvel outil qui simplifie l'accès aux programmes d'immigration en alignant les besoins des utilisateurs, les résultats de la recherche et les meilleures pratiques en matière de services numériques.

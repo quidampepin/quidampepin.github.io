@@ -5,7 +5,11 @@ ref: story_3
 category: Impact
 ---
 
-<h1>Mise en place d'une équipe chargée de l'amélioration du site Web à IRCC</h1>
+
+<h1 class="story-title">
+  <span class="kicker">Histoire de portfolio · Transformer</span>
+  <span class="title">Mise en place d'une équipe chargée de l'amélioration du site Web à IRCC</span>
+</h1>
 
 *2023-2026*
 
