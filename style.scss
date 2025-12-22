@@ -65,6 +65,30 @@ h1 {
   }
 }
 
+h1.story-title {
+  font-size: 44px; /* base fallback */
+  line-height: 1.15;
+  margin-bottom: 1.5rem;
+}
+
+h1.story-title span {
+  display: block;
+}
+
+h1.story-title .kicker {
+  font-size: 0.55em;        /* relative to h1 */
+  font-weight: 500;
+  color: #555;              /* dark grey, not disabled */
+  letter-spacing: 0.02em;
+  margin-bottom: 0.25rem;
+}
+
+h1.story-title .title {
+  font-size: 1em;           /* full h1 size */
+  font-weight: 700;
+  color: #000;
+}
+
 h2 {
   font-size: 34px;
 }
