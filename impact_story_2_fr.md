@@ -5,7 +5,6 @@ ref: story_2
 category: Impact
 ---
 
-<h1>Aider les gens à trouver le programme d'immigration qui leur convient</h1>
 
 <h1 class="story-title">
   <span class="kicker">Histoire de portfolio · Diriger</span>

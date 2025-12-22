@@ -5,7 +5,6 @@ ref: story_1
 category: Impact
 ---
 
-<h1>Faciliter l'exploration des données sur la santé au Canada</h1>
 
 <h1 class="story-title">
   <span class="kicker">Histoire de portfolio · Bâtir</span>
