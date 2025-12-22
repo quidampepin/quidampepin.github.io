@@ -125,7 +125,9 @@ h1.story-title .title {
 
   /* Card */
   .story-card {
-    display: block;
+    display: flex;
+    flex-direction: column;
+
     text-decoration: none;
     color: inherit;
 
@@ -160,14 +162,20 @@ h1.story-title .title {
   }
 
   .story-card__desc {
-    margin: 0 0 0.9rem 0;
-    line-height: 1.55;
-    color: #222;
+  margin: 0 0 0.9rem 0;
+  line-height: 1.55;
+  color: #222;
+
+  flex-grow: 1; /* 👈 THIS is important */
   }
 
   .story-card__cta {
-    margin: 0;
-    font-weight: 600;
+  margin-top: auto; /* 👈 pushes CTA to the bottom */
+  font-weight: 600;
+  }
+
+  .story-card:hover .story-card__cta {
+  text-decoration: underline;
   }
 
   /* Optional: tighter title spacing on small screens */
@@ -179,7 +187,7 @@ h1.story-title .title {
       font-size: 1.15rem;
     }
   }
-  
+
 h2 {
   font-size: 34px;
 }
