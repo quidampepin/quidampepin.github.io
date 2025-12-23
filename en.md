@@ -17,8 +17,7 @@ category: Home
   <h1 class="hero__title">Writing, design, and digital government</h1>
 
   <p class="hero__lead">
-    Welcome to my personal publishing space — a place for short essays, small experiments,
-    and occasional fiction.
+    Welcome to my personal publishing space, a place for short essays, different writing experiments, and occasional fiction.
   </p>
 
 </section>

@@ -5,17 +5,22 @@ ref: index
 category: Home
 ---
 
-<h1>Bienvenue</h1>
+<section class="hero">
+  <img
+    class="hero__photo"
+    src="{{ site.baseurl }}/images/David_Pepin_landing.jpg"
+    alt="Photo of David Pepin"
+    loading="lazy"
+    decoding="async"
+  />
 
+  <h1 class="hero__title">Écriture, design, et gouvernement numérique</h1>
 
-  Bienvenue dans mon espace de publication personnel!
-  
-  Pourquoi ne  pas parler simplement d’un blogue? Parce que ce ne sera pas uniquement un espace pour publier des billets de blogue. Il y aura aussi de courts textes de fiction, de même que des notes, pour partager un lien ou une idée.
+  <p class="hero__lead">
+    Bienvenue dans mon espace de publication personnel, un lieu dédié à de courts essais, à différentes expériences d'écriture et à des fictions occasionnelles.
+  </p>
 
-  En bref: un endroit où publier mes expériences d'écriture. 
-
-  Je rédige d'abord la plupart des articles en français, puis je mets à disposition une traduction anglaise. 
-
+</section>
 
 <div class="posts">
   
