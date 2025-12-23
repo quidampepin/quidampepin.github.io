@@ -9,10 +9,8 @@ category: Impact
   <header class="portfolio__intro">
     <h1>Portfolio</h1>
     <p>
-      I help government services work better for the people who rely on them.
-      These short stories highlight hands-on delivery, project leadership, and
-      organization-level change — grounded in evidence-based continuous improvement.
-    </p>
+      I help government services work better people through evidence-based continuous improvement.</p>
+      <p>These short stories highlight hands-on <strong>delivery</strong>, project <strong>leadership</strong>, and organization-level <strong>change</strong>.</p>
   </header>
 
   <div class="portfolio__grid">
@@ -21,7 +19,7 @@ category: Impact
       <p class="story-card__kicker">Building</p>
       <h2 class="story-card__title">Making Canada’s health data easier to explore</h2>
       <p class="story-card__desc">
-        Revamped the Infobase landing page and created a design manual .
+        Revamped the Infobase landing page and created a design manual.
       </p>
       <p class="story-card__cta">Read the story →</p>
     </a>
