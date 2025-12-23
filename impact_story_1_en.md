@@ -10,6 +10,10 @@ category: Impact
   <span class="title">Making Canada’s health data easier to explore</span>
 </h1>
 
+<p class="story-back">
+  <a href="https://www.davidpepin.ca/portfolio_en/">← Back to portfolio</a>
+</p> 
+
 *2022-2023*
 
 I helped Canadians access complex public health information more easily by redesigning the **Health Infobase landing page** and creating a **design manual** that improved clarity and consistency.
