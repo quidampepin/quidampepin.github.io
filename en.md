@@ -26,8 +26,6 @@ category: Home
   </p>
 </section>
 
-<div class="posts">
-</section>
 
 <div class="posts">
   
