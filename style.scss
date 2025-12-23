@@ -567,13 +567,18 @@ nav a:hover {
 
 .splash__languages a:hover,
 .splash__languages a:focus {
-  text-decoration: underline;
 }
 
 /* Mobile refinement */
 @media (max-width: 480px) {
   .splash__name {
     font-size: 2.2rem;
+  }
+  .splash__tagline {
+  font-size: 1.4rem;
+  }
+  .splash__languages {
+  font-size: 1.2rem;
   }
 }
 
