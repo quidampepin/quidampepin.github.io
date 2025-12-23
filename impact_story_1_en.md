@@ -6,7 +6,7 @@ category: Impact
 ---
 
 <h1 class="story-title">
-  <span class="kicker"><a href="https://www.davidpepin.ca/portfolio_en/" class="kicker-link">Portfolio story</a> · Building</span>
+  <span class="kicker">Portfolio story · Building</span>
   <span class="title">Making Canada’s health data easier to explore</span>
 </h1>
 
