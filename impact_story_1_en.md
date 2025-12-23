@@ -12,7 +12,7 @@ category: Impact
 
 *2022-2023*
 
-I helped Canadians access complex public health information more easily by redesigning the **Health Infobase landing page*** and creating a **design manual** that improved clarity and consistency.
+I helped Canadians access complex public health information more easily by redesigning the **Health Infobase landing page** and creating a **design manual** that improved clarity and consistency.
 
 ---
 

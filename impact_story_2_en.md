@@ -14,7 +14,7 @@ category: Impact
 
 *2023-2024*
 
-I led the team that created a tool called  “Explore immigration program”, a new tool that simplified access to immigration programs by aligning user needs, research insights, and digital service best practices.
+I led the team that created a tool called **Explore immigration program**. It simplifies access to immigration programs by aligning user needs, research insights, and digital service best practices.
 
 
 ---
