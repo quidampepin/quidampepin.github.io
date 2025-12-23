@@ -45,18 +45,23 @@ body {
 }
 
 .hero {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 2rem;
-
+  max-width: 70ch;
   margin: 2.25rem 0 2rem 0;
   padding-bottom: 1.5rem;
   border-bottom: 1px solid #ddd;
 }
 
-.hero__text {
-  max-width: 68ch;
+.hero__photo {
+  float: right;
+  width: 96px;          /* smaller */
+  height: 96px;
+  border-radius: 999px; /* round */
+  object-fit: cover;
+
+  margin-left: 1.25rem;
+  margin-bottom: 0.75rem;
+
+  border: 1px solid #e5e5e5;
 }
 
 .hero__title {
@@ -78,18 +83,21 @@ body {
   color: #444;
 }
 
-.hero__media {
-  flex: 0 0 auto;
+/* Mobile: stack cleanly */
+@media (max-width: 600px) {
+  .hero__photo {
+    float: none;
+    display: block;
+    margin: 0 0 1rem 0;
+    width: 80px;
+    height: 80px;
+  }
+
+  .hero__title {
+    font-size: 2.2rem;
+  }
 }
 
-.hero__photo {
-  width: 140px;
-  height: 140px;
-  border-radius: 999px;
-  object-fit: cover;
-  display: block;
-  border: 1px solid #e5e5e5;
-}
 
 /* Mobile: stack & center the photo */
 @media (max-width: 700px) {

@@ -6,27 +6,27 @@ category: Home
 ---
 
 <section class="hero">
-  <div class="hero__text">
-    <h1 class="hero__title">Writing, design, and digital government</h1>
+  <img
+    class="hero__photo"
+    src="{{ site.baseurl }}/images/David_Pepin.jpg"
+    alt="Photo of David Pepin"
+    loading="lazy"
+    decoding="async"
+  />
 
-    <p class="hero__lead">
-      Welcome to my personal publishing space — a place for short essays, small experiments, and occasional fiction.
-    </p>
+  <h1 class="hero__title">Writing, design, and digital government</h1>
 
-    <p class="hero__body">
-      I write most posts in French first, and then make an English translation available.
-    </p>
-  </div>
+  <p class="hero__lead">
+    Welcome to my personal publishing space — a place for short essays, small experiments,
+    and occasional fiction.
+  </p>
 
-  <div class="hero__media">
-    <img
-      class="hero__photo"
-      src="{{ site.baseurl }}/images/David_Pepin.jpg"
-      alt="Photo of David Pepin"
-      loading="lazy"
-      decoding="async"
-    />
-  </div>
+  <p class="hero__body">
+    I write most posts in French first, and then make an English translation available.
+  </p>
+</section>
+
+<div class="posts">
 </section>
 
 <div class="posts">
