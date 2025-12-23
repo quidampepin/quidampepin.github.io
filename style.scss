@@ -94,6 +94,16 @@ h1.story-title .kicker {
   margin-bottom: 0.25rem;
 }
 
+h1.story-title .kicker-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+h1.story-title .kicker-link:hover,
+h1.story-title .kicker-link:focus {
+  text-decoration: underline;
+}
+
 h1.story-title .title {
   font-size: 1em;           /* full h1 size */
   font-weight: 700;
