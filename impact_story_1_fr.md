@@ -11,6 +11,10 @@ category: Impact
   <span class="title">Faciliter l'exploration des données sur la santé au Canada</span>
 </h1>
 
+<p class="story-back">
+  <a href="https://www.davidpepin.ca/portfolio_fr/">← Retour au portfolio</a>
+</p> 
+
 *2022-2023*
 
 J'ai aidé les Canadiens à accéder plus facilement à des renseignements complexes sur la santé publique en repensant la **page d'accueil de l’Infobase Santé** et en créant un **manuel de conception** qui a amélioré la clarté et la cohérence.

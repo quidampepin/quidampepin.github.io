@@ -11,6 +11,10 @@ category: Impact
   <span class="title">Mise en place d'une équipe chargée de l'amélioration du site Web à IRCC</span>
 </h1>
 
+<p class="story-back">
+  <a href="https://www.davidpepin.ca/portfolio_fr/">← Retour au portfolio</a>
+</p> 
+
 *2023-2026*
 
 J'ai créé et dirigé une équipe pilote dédiée à **l'amélioration continue fondée sur des données probantes**, qui a façonné non seulement le contenu numérique d'IRCC, mais aussi la manière dont l'organisation aborde la conception Web et la prestation de services.
