@@ -569,8 +569,21 @@ nav a:hover {
 .splash__languages a:focus {
 }
 
+.splash__photo {
+  float: none;
+  width: 96px;          /* smaller */
+  height: 96px;
+  border-radius: 999px; /* round */
+  object-fit: cover;
+
+  margin-left: 1.25rem;
+  margin-bottom: 0.75rem;
+
+  border: 1px solid #e5e5e5;
+}
+
 /* Mobile refinement */
-@media (max-width: 480px) {
+@media (max-width: 600px) {
   .splash__name {
     font-size: 2.2rem;
   }
