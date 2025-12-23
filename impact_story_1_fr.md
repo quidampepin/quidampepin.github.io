@@ -13,7 +13,7 @@ category: Impact
 
 *2022-2023*
 
-J'ai aidé les Canadiens à accéder plus facilement à des renseignements complexes sur la santé publique en repensant la page d'accueil de l’Infobase Santé et en créant un manuel de conception qui a amélioré la clarté et la cohérence pour les années à venir.
+J'ai aidé les Canadiens à accéder plus facilement à des renseignements complexes sur la santé publique en repensant la **page d'accueil de l’Infobase Santé** et en créant un **manuel de conception** qui a amélioré la clarté et la cohérence.
 
 
 ---
@@ -30,7 +30,7 @@ J'ai aidé les Canadiens à accéder plus facilement à des renseignements compl
 
 
 ## **Mon rôle**
-* J'ai procédé à une évaluation rapide de la page d'accueil à l'aide d'outils d'analyse, d'une révision du contenu et d'heuristique UX.
+* J'ai procédé à une évaluation rapide de la page d'accueil à l'aide d'outils d'analyse, d'une révision du contenu et d'heuristique.
 * J'ai repensé la page d'accueil afin de la rendre plus claire, de mettre en avant les sujets prioritaires et d'améliorer la lisibilité.
 * J'ai mené des tests d'utilisabilité non modérés afin d'améliorer la nouvelle conception avant son lancement.
 * J'ai créé un manuel de conception léger (principes, idées et modèles) pour les produits liés aux données de santé.

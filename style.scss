@@ -58,6 +58,17 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+ul li,
+ol li {
+  margin-bottom: 0.5rem;
+}
+
+/* Remove extra space after the last item */
+ul li:last-child,
+ol li:last-child {
+  margin-bottom: 0;
+}
+
 h1 {
   font-size: 44px;
   a {

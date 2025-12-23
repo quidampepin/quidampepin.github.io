@@ -12,14 +12,14 @@ category: Impact
 
 *2022-2023*
 
-I helped Canadians access complex public health information more easily by redesigning the Health Infobase landing page and creating a design manual that improved clarity and consistency for years to come.
+I helped Canadians access complex public health information more easily by redesigning the **Health Infobase landing page*** and creating a **design manual** that improved clarity and consistency.
 
 ---
 
 ## **Context**
-* The Health Infobase is a key Government of Canada platform for public health data (e.g., chronic diseases, mental health, COVID-19).
+* The Health Infobase is a key Government of Canada platform for public health data (for example, chronic diseases, mental health, COVID-19).
 * Over time, the landing page became cluttered and dated, with dozens of competing links and no clear information hierarchy.
-* Users — including researchers, policymakers, and the public — struggled to find the data they needed.
+* Users, including researchers, policymakers, and the publicl, struggled to find the data they needed.
 * Updates were being made without a consistent design approach, creating risks for accessibility and usability.
 
 
@@ -27,10 +27,10 @@ I helped Canadians access complex public health information more easily by redes
 
 
 ## **My role**
-* Conducted a rapid assessment of the landing page using analytics, content review, and UX heuristics.
+* Conducted a rapid assessment of the landing page using analytics, content review, and  heuristics.
 * Redesigned the landing page to reduce clutter, highlight priority topics, and improve readability.
 * Conducted unmoderated usability testing to improve the redesign before launch
-* Created a lightweight **design manual **(principles, ideas and patterns) for health data products.
+* Created a lightweight design manual (principles, ideas and patterns) for health data products.
 * Collaborated with subject matter experts and web publishing staff to align on priorities and content placement.
 
 
