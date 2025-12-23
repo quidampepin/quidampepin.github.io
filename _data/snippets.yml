@@ -17,7 +17,7 @@ EN:
   allfiction: All fiction stories
   feed: XML feed
   portfoliourl: /portfolio_en/
-  portfolioame: Portfolio
+  portfoliname: Portfolio
 
 
 FR:
@@ -38,5 +38,5 @@ FR:
   allfiction: Tous les textes de fiction
   feed: Fil XML
   portfoliourl: /portfolio_fr/
-  portfolioame: Portfolio
+  portfoliname: Portfolio
 

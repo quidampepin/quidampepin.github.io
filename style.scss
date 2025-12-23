@@ -458,6 +458,57 @@ nav a:hover {
   }
 }
 
+.splash {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+}
+
+.splash__content {
+  text-align: center;
+  max-width: 640px;
+}
+
+.splash__name {
+  font-size: 2.6rem;
+  font-weight: 700;
+  margin: 0 0 0.75rem 0;
+  line-height: 1.1;
+}
+
+.splash__tagline {
+  font-size: 1.1rem;
+  color: #444;
+  margin: 0 0 2.5rem 0;
+  line-height: 1.6;
+}
+
+.splash__languages {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.splash__languages a {
+  color: #000;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+.splash__languages a:hover,
+.splash__languages a:focus {
+  text-decoration: underline;
+}
+
+/* Mobile refinement */
+@media (max-width: 480px) {
+  .splash__name {
+    font-size: 2.2rem;
+  }
+}
+
+
 .wrapper-footer {
   margin-top: 50px;
   background-color: $lightGray;
