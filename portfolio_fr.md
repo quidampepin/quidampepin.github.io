@@ -36,7 +36,7 @@ category: Impact
     <!-- Card 3 -->
     <a class="story-card" href="https://www.davidpepin.ca/impact_story_3_fr/">
       <p class="story-card__kicker">Transformer</p>
-      <h2 class="story-card__title">Meettre en place d'une équipe chargée de l'amélioration du site Web à IRCC</h2>
+      <h2 class="story-card__title">Mettre en place d'une équipe chargée de l'amélioration du site Web à IRCC</h2>
       <p class="story-card__desc">
         Bâtir une équipe pilote et une vision pour l'amélioration continue fondée sur des données probantes.
       </p>
