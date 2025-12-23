@@ -8,7 +8,7 @@ category: Home
 <section class="hero">
   <img
     class="hero__photo"
-    src="{{ site.baseurl }}/images/David_Pepin.jpg"
+    src="{{ site.baseurl }}/images/David_Pepin_landing.jpg"
     alt="Photo of David Pepin"
     loading="lazy"
     decoding="async"
