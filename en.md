@@ -5,17 +5,29 @@ ref: index
 category: Home
 ---
 
-<h1>Welcome</h1>
+<section class="hero">
+  <div class="hero__text">
+    <h1 class="hero__title">Writing, design, and digital government</h1>
 
+    <p class="hero__lead">
+      Welcome to my personal publishing space — a place for short essays, small experiments, and occasional fiction.
+    </p>
 
+    <p class="hero__body">
+      I write most posts in French first, and then make an English translation available.
+    </p>
+  </div>
 
-Welcome to my personal publishing space!
- 
-Why not just talk about a blog? Because it won't just be a space for posting blog posts. There will also be short fiction texts, as well as notes, to quickly share a link or an idea.
-
-In short: a place to publish my writing experiments.
-
-I write most posts in French first, and then make the translation available. 
+  <div class="hero__media">
+    <img
+      class="hero__photo"
+      src="{{ site.baseurl }}/images/David_Pepin.jpg"
+      alt="Photo of David Pepin"
+      loading="lazy"
+      decoding="async"
+    />
+  </div>
+</section>
 
 <div class="posts">
   
