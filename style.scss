@@ -76,20 +76,17 @@ body {
   color: #222;
 }
 
-.hero__body {
-  margin: 0;
-  line-height: 1.7;
-  color: #444;
-}
 
 /* Mobile: stack cleanly */
 @media (max-width: 600px) {
   .hero__photo {
     float: none;
     display: block;
-    margin: 0 0 1rem 0;
+
     width: 80px;
     height: 80px;
+
+    margin: 0 auto 1rem auto; /* center it */
   }
 
   .hero__title {

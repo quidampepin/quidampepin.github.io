@@ -21,9 +21,6 @@ category: Home
     and occasional fiction.
   </p>
 
-  <p class="hero__body">
-    I write most posts in French first, and then make an English translation available.
-  </p>
 </section>
 
 
