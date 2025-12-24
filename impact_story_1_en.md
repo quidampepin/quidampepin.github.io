@@ -35,7 +35,7 @@ I helped Canadians access complex public health information more easily by redes
   />
   <figcaption>
     <em>Before</em> (legacy Public Health Infobase landing page) and
-    <em>After</em> (Health Infobase – redesigned entry point).
+    <em>After</em> (Health Infobase – redesigned entry point). The redesign focused on clarifying entry points and improving findability across a growing catalogue of health data products.
   </figcaption>
 </figure>
 ---
