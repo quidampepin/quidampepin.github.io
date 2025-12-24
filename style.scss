@@ -195,6 +195,17 @@ h1.story-title .title {
     grid-template-columns: 1fr;
   }
 
+  .impact-comparison {
+  margin: 2rem 0;
+  text-align: center;
+  }
+
+  .impact-comparison figcaption {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+  color: #555;
+  }
+
   @media (min-width: 760px) {
     .portfolio__grid {
       grid-template-columns: repeat(3, 1fr);

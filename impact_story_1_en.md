@@ -26,7 +26,18 @@ I helped Canadians access complex public health information more easily by redes
 * Users, including researchers, policymakers, and the publicl, struggled to find the data they needed.
 * Updates were being made without a consistent design approach, creating risks for accessibility and usability.
 
-
+<figure class="impact-comparison">
+  <img
+    src="./images/infobas_comparison.png"
+    alt="Side-by-side comparison of the Public Health Infobase landing page before and after redesign. The legacy page emphasizes three abstract entry points, while the redesigned page presents clearer topic-based navigation, filters, and searchable health data products."
+    loading="lazy"
+    decoding="async"
+  />
+  <figcaption>
+    <em>Before</em> (legacy Public Health Infobase landing page) and
+    <em>After</em> (Health Infobase – redesigned entry point).
+  </figcaption>
+</figure>
 ---
 
 
