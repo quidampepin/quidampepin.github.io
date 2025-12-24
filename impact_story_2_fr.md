@@ -29,7 +29,17 @@ J'ai dirigé l'équipe qui a créé un outil appelé **Explorer les programmes d
 * Un outil précédent (Venir au Canada) existait, mais les commentaires des utilisateurs montraient qu'il ne répondait pas aux attentes.
 * Il était possible de concevoir un outil plus centré sur l'utilisateur et plus accessible, en s'appuyant sur des données et des tests.
 
-
+<figure class="impact-comparison">
+  <img
+    src="../images/program_tool_comparison_fr.png"
+    alt="Comparaison côte à côte de deux points d'entrée pour l'immigration. À gauche, l'ancien outil « Venir au Canada » présente un long questionnaire d'admissibilité comportant plusieurs champs obligatoires. À droite, le nouvel outil « Explorez les programmes d'immigration » commence par une question simple sur l'intention de l'utilisateur, offrant des options claires telles que le travail, les études, la visite ou la réunification familiale."
+    loading="lazy"
+    decoding="async"
+  />
+  <figcaption>
+    La nouvelle conception de l'expérience a fait passer le point d'entrée d'un questionnaire axé sur l'admissibilité à une exploration axée sur l'intention des voies d'immigration.
+  </figcaption>
+</figure>
 ---
 
 

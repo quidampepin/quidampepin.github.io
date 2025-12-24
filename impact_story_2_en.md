@@ -30,6 +30,18 @@ I led the team that created a tool called **Explore immigration program**. It si
 * There was an opportunity to design something more user-centred and accessible, using evidence and testing.
 
 
+<figure class="impact-comparison">
+  <img
+    src="../images/program_tool_comparison.png"
+    alt="Side-by-side comparison of two immigration entry points. On the left, the legacy “Come to Canada” tool presents a long eligibility questionnaire with multiple required fields. On the right, the newer “Explore immigration programs” tool starts with a simple question about user intent, offering clear options such as work, study, visit, or family reunification."
+    loading="lazy"
+    decoding="async"
+  />
+  <figcaption>
+    The redesigned experience shifted the entry point from an eligibility-first questionnaire to an intent-first exploration of immigration pathways.
+  </figcaption>
+</figure>
+
 ---
 
 

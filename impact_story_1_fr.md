@@ -32,7 +32,7 @@ J'ai aidé les Canadiens à accéder plus facilement à des renseignements compl
 
 <figure class="impact-comparison">
   <img
-    src="../images/infobase_comparison.png"
+    src="../images/infobase_comparison_fr.png"
     alt="Comparaison côte à côte de la page d'accueil de l'Infobase de santé publique avant et après sa refonte. L'ancienne page mettait l'accent sur trois points d'entrée abstraits, tandis que la nouvelle page présente une navigation plus claire par thème, des filtres et des produits de données de santé consultables."
     loading="lazy"
     decoding="async"
