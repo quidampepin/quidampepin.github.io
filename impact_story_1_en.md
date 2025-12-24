@@ -28,7 +28,7 @@ I helped Canadians access complex public health information more easily by redes
 
 <figure class="impact-comparison">
   <img
-    src="./images/infobase_comparison.png"
+    src="../images/infobase_comparison.png"
     alt="Side-by-side comparison of the Public Health Infobase landing page before and after redesign. The legacy page emphasizes three abstract entry points, while the redesigned page presents clearer topic-based navigation, filters, and searchable health data products."
     loading="lazy"
     decoding="async"
