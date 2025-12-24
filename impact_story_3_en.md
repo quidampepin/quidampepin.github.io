@@ -53,7 +53,17 @@ I created and led a pilot team dedicated to **evidence-based continuous improvem
 * Positioned the team as a trusted partner for policy, communications, and IT stakeholders. 
 * Demonstrated that continuous improvement can scale in a complex, policy-heavy environment. 
 
-
+<figure class="impact-comparison">
+  <img
+    src="../images/cycle.png"
+    alt="Diagram showing a continuous improvement cycle with three steps: “Research and explore,” “Design and test,” and “Measure and monitor,” connected in a loop to illustrate an ongoing, iterative approach rather than a one-time delivery."
+    loading="lazy"
+    decoding="async"
+  />
+  <figcaption>
+    We adopted a simple continuous improvement loop that tied research, design, and monitoring together over time.
+  </figcaption>
+</figure>
 
 ---
 

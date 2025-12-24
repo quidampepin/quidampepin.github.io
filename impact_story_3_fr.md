@@ -52,7 +52,17 @@ J'ai créé et dirigé une équipe pilote dédiée à **l'amélioration continue
 * Positionnement de l'équipe comme un partenaire de confiance pour les parties prenantes dans les domaines de la politique, de la communication et de l'informatique.
 * Démonstration que l'amélioration continue peut s'adapter à un environnement complexe et soumis à de nombreuses politiques.
 
-
+<figure class="impact-comparison">
+  <img
+    src="../images/cycle_fr.png"
+    alt="Schéma illustrant un cycle d'amélioration continue en trois étapes : « Recherche et exploration », « Design et tests » et « Mesure et suivi », reliées entre elles pour illustrer une approche itérative continue plutôt qu'une livraison ponctuelle."
+    loading="lazy"
+    decoding="async"
+  />
+  <figcaption>
+    Nous avons adopté un cycle d'amélioration continue simple qui reliait la recherche, le design et le suivi au fil du temps.
+  </figcaption>
+</figure>
 ---
 
 
