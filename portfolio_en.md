@@ -9,7 +9,7 @@ category: Impact
   <header class="portfolio__intro">
     <h1>Portfolio</h1>
     <p>
-      I help government services work better people through evidence-based continuous improvement.</p>
+      I help government services work better for people through evidence-based continuous improvement.</p>
       <p>These short stories highlight hands-on <strong>delivery</strong>, project <strong>leadership</strong>, and organization-level <strong>change</strong>.</p>
   </header>
 
