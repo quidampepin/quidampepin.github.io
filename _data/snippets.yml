@@ -18,6 +18,7 @@ EN:
   feed: XML feed
   portfoliourl: /portfolio_en/
   portfolioname: Portfolio
+  lang: en-CA
 
 
 FR:
@@ -39,4 +40,5 @@ FR:
   feed: Fil XML
   portfoliourl: /portfolio_fr/
   portfolioname: Portfolio
+  lang: fr-CA
 
