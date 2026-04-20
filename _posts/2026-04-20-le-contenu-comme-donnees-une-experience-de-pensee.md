@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le contenu comme données : une expérience de pensée"
+title: "Le contenu comme données : une expérimentation"
 category: Billets
 excerpt_separator: <!--more-->
 tag: Blogue
@@ -16,7 +16,7 @@ L'expérience porte sur 3 programmes du gouvernement du Canada : l'Allocation ca
 
 Jetez un coup d'œil : [Expérience « API des règles GC (en anglais seulement) »](https://www.davidpepin.ca/gc-rules-api/webapp/)
 
-<img class="img-fluid" src="{{ site.baseurl }}/images/web_app_api.png" alt="Page web donnant accès à plusieurs outiles bâtis avec les mêmes fichiers JSON."/>
+<img class="img-fluid" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" src="{{ site.baseurl }}/images/web_app_api.png" alt="Page web donnant accès à plusieurs outiles bâtis avec les mêmes fichiers JSON."/>
 
 ## Plusieurs outils, une seule source
 

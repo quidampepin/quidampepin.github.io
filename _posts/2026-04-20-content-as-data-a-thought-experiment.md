@@ -16,7 +16,8 @@ The experiment uses 3 Government of Canada programs: the Canada Child Benefit, E
 
 Take a look: [GC rules API experiment](https://www.davidpepin.ca/gc-rules-api/webapp/)
 
-<img class="img-fluid" src="{{ site.baseurl }}/images/web_app_api.png" alt="Web page showing a hub to access several tools built with the same JSON files."/>
+<img class="img-fluid" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" src="{{ site.baseurl }}/images/web_app_api.png" alt="Web page showing a hub to access several tools built with the same JSON files."/>
+
 
 ## Several tools, one source
 
