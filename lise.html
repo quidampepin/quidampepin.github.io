@@ -6,7 +6,7 @@
 <title>Pour Lise — 70 ans</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Parisienne&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
     --sage: #c5d3b8;
@@ -149,8 +149,8 @@
     50% { filter: brightness(1.3) drop-shadow(0 0 20px rgba(255,207,82,1)); }
   }
   .cover .ornament {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 2rem;
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2rem;
     color: var(--champagne);
     margin-bottom: 0.5rem;
     letter-spacing: 0.4em;
@@ -161,13 +161,14 @@
     50% { text-shadow: 0 0 25px rgba(255,232,168,1); }
   }
   .cover h1 {
-    font-family: 'Cormorant Garamond', serif;
-    font-weight: 600;
-    font-size: 3.4rem;
+    font-family: 'Parisienne', cursive;
+    font-weight: 400;
+    font-size: 5.5rem;
     color: var(--cream);
     margin: 0.5rem 0 1.5rem;
-    letter-spacing: 0.04em;
-    text-shadow: 0 2px 20px rgba(0,0,0,0.2);
+    letter-spacing: 0.01em;
+    line-height: 1;
+    text-shadow: 0 4px 25px rgba(0,0,0,0.25);
   }
   .cover .tap {
     font-size: 0.85rem;
@@ -257,8 +258,8 @@
   .top-ornament {
     text-align: center;
     color: var(--pink-hot);
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 1.6rem;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8rem;
     letter-spacing: 0.6em;
     margin-bottom: 1rem;
     padding-left: 0.6em;
@@ -266,12 +267,12 @@
 
   .age-display {
     text-align: center;
-    margin: 1rem 0 2rem;
+    margin: 1rem 0 2.5rem;
   }
   .age-display .seventy {
-    font-family: 'Cormorant Garamond', serif;
-    font-weight: 600;
-    font-size: 11rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 13rem;
     line-height: 0.9;
     background: linear-gradient(135deg, var(--pink-hot) 0%, var(--magenta) 25%, var(--gold-bright) 50%, var(--coral) 75%, var(--pink-hot) 100%);
     background-size: 300% 300%;
@@ -290,7 +291,7 @@
   .age-display .ans {
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
-    font-size: 1.8rem;
+    font-size: 2.1rem;
     color: var(--magenta);
     letter-spacing: 0.4em;
     margin-top: -0.25rem;
@@ -299,27 +300,30 @@
 
   .name {
     text-align: center;
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 3.5rem;
+    font-family: 'Parisienne', cursive;
+    font-size: 6rem;
     color: var(--plum);
     margin-bottom: 1.5rem;
-    font-weight: 600;
-    letter-spacing: 0.06em;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
   }
   .name::before, .name::after {
     content: '';
     display: inline-block;
-    width: 50px;
+    width: 60px;
     height: 2px;
     background: linear-gradient(90deg, transparent, var(--gold-bright), transparent);
-    vertical-align: middle;
-    margin: 0 1rem;
   }
 
   .lead {
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
-    font-size: 1.85rem;
+    font-size: 2.15rem;
     text-align: center;
     color: var(--magenta);
     margin-bottom: 2.5rem;
@@ -334,10 +338,12 @@
     -webkit-backdrop-filter: blur(10px);
     border: 1.5px solid var(--gold);
     border-radius: 4px;
-    padding: 2rem 1.75rem;
+    padding: 2.25rem 1.9rem;
     margin-bottom: 2.5rem;
-    font-size: 1.2rem;
-    line-height: 1.75;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 1.7;
     color: var(--ink);
     position: relative;
     box-shadow: 0 10px 40px rgba(214, 51, 132, 0.15);
@@ -405,19 +411,20 @@
     50% { transform: scale(1.4) rotate(180deg); opacity: 1; }
   }
   .gift-amount .label {
-    font-size: 0.85rem;
-    letter-spacing: 0.35em;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.4em;
     text-transform: uppercase;
     color: var(--blush);
-    margin-bottom: 0.75rem;
-    padding-left: 0.35em;
+    margin-bottom: 0.85rem;
+    padding-left: 0.4em;
     font-weight: 500;
     position: relative;
     z-index: 1;
   }
   .gift-amount .amount {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 6.5rem;
+    font-family: 'Playfair Display', serif;
+    font-size: 7.5rem;
     font-weight: 700;
     line-height: 1;
     background: linear-gradient(135deg, #b87b1f 0%, #ffcf52 35%, #fff4c9 50%, #ffcf52 65%, #b87b1f 100%);
@@ -429,17 +436,6 @@
     filter: drop-shadow(0 2px 0 rgba(74, 31, 58, 0.9)) drop-shadow(0 0 20px rgba(255, 207, 82, 0.6));
     position: relative;
     z-index: 1;
-  }
-  .gift-amount .formula {
-    font-family: 'Cormorant Garamond', serif;
-    font-style: italic;
-    font-size: 1.3rem;
-    color: var(--champagne);
-    margin-top: 1rem;
-    letter-spacing: 0.05em;
-    position: relative;
-    z-index: 1;
-    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
   }
 
   /* ─── Suggestion ─── */
@@ -468,25 +464,27 @@
     50% { transform: translateY(-12px) rotate(3deg); }
   }
   .suggestion-label {
-    font-size: 0.85rem;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
     letter-spacing: 0.45em;
     text-transform: uppercase;
     color: var(--pink-hot);
-    margin-bottom: 1.25rem;
+    margin-bottom: 1.5rem;
     padding-left: 0.45em;
     font-weight: 600;
   }
   .suggestion-items {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 1.6rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 1.9rem;
     color: var(--plum);
-    line-height: 1.5;
+    line-height: 1.4;
   }
-  .suggestion-items .item { display: block; margin: 0.5rem 0; }
+  .suggestion-items .item { display: block; margin: 0.6rem 0; }
   .suggestion-items .sep {
     display: block;
     color: var(--gold-bright);
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     margin: 0.3rem 0;
     text-shadow: 0 0 10px rgba(255, 207, 82, 0.6);
   }
@@ -494,9 +492,10 @@
     font-style: italic;
     color: var(--magenta);
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1.25rem;
+    font-size: 1.45rem;
     margin-top: 1.5rem;
     padding: 0 0.5rem;
+    line-height: 1.45;
   }
 
   /* ─── Closing ─── */
@@ -526,25 +525,25 @@
   .closing .line1 {
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     color: var(--pink-hot);
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.9rem;
     line-height: 1.4;
   }
   .closing .line2 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 1.4rem;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.7rem;
     color: var(--plum);
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     font-weight: 600;
   }
   .closing .heart {
     display: block;
-    margin-top: 2rem;
+    margin-top: 2.25rem;
     color: var(--gold-deep);
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
-    font-size: 1.15rem;
+    font-size: 1.4rem;
     letter-spacing: 0.18em;
   }
   .closing .hearts-row {
@@ -563,12 +562,19 @@
   /* Phone tweaks */
   @media (max-width: 420px) {
     .card { padding: 2.5rem 1.25rem 3.5rem; }
-    .age-display .seventy { font-size: 9rem; }
-    .name { font-size: 2.8rem; }
-    .name::before, .name::after { width: 30px; margin: 0 0.7rem; }
-    .lead { font-size: 1.55rem; }
-    .gift-amount .amount { font-size: 5rem; }
-    .suggestion-items { font-size: 1.4rem; }
+    .age-display .seventy { font-size: 10rem; }
+    .age-display .ans { font-size: 1.75rem; }
+    .name { font-size: 4.5rem; gap: 0.6rem; }
+    .name::before, .name::after { width: 35px; }
+    .lead { font-size: 1.85rem; }
+    .message { font-size: 1.2rem; }
+    .gift-amount .amount { font-size: 6rem; }
+    .suggestion-items { font-size: 1.65rem; }
+    .suggestion .detail { font-size: 1.25rem; }
+    .closing .line1 { font-size: 1.5rem; }
+    .closing .line2 { font-size: 1.45rem; }
+    .closing .heart { font-size: 1.2rem; letter-spacing: 0.14em; }
+    .cover h1 { font-size: 4.5rem; }
   }
 </style>
 </head>
@@ -595,31 +601,46 @@
       <stop offset="1" stop-color="#ff8fb0" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Single flute (vertical, will be rotated) -->
-    <symbol id="flute" viewBox="0 0 60 160" overflow="visible">
-      <!-- Stem -->
-      <line x1="30" y1="80" x2="30" y2="140" stroke="url(#gold-grad)" stroke-width="3"/>
-      <!-- Base -->
-      <ellipse cx="30" cy="145" rx="18" ry="4" fill="url(#gold-grad)"/>
-      <ellipse cx="30" cy="143" rx="18" ry="2" fill="#ffcf52"/>
-      <!-- Glass body -->
-      <path d="M15 15 L11 80 Q30 88 49 80 L45 15 Z"
+    <!-- Single champagne flute (tall, slim, with proper stem + base) -->
+    <symbol id="flute" viewBox="0 0 60 200" overflow="visible">
+      <!-- BASE (foot) — wide disc at bottom -->
+      <ellipse cx="30" cy="190" rx="18" ry="5" fill="#b87b1f"/>
+      <ellipse cx="30" cy="188" rx="18" ry="4.5" fill="#e6a93a"/>
+      <ellipse cx="30" cy="187" rx="14" ry="2.5" fill="#ffcf52"/>
+
+      <!-- STEM — vertical bar from base up to bowl -->
+      <rect x="28" y="120" width="4" height="68" fill="#b87b1f"/>
+      <rect x="28.5" y="120" width="3" height="68" fill="#e6a93a"/>
+      <rect x="29.5" y="120" width="1" height="68" fill="#ffcf52"/>
+
+      <!-- Small junction ball where stem meets bowl -->
+      <circle cx="30" cy="120" r="3" fill="#e6a93a"/>
+      <circle cx="29" cy="119" r="1" fill="#ffcf52"/>
+
+      <!-- Glass BOWL: tall, slim, slightly tapered -->
+      <path d="M22 12 L20 35 L19 80 Q19 115 30 120 Q41 115 41 80 L40 35 L38 12 Z"
             fill="rgba(255, 233, 168, 0.35)"
             stroke="#e6a93a"
-            stroke-width="2"/>
+            stroke-width="2"
+            stroke-linejoin="round"/>
       <!-- Champagne liquid -->
-      <path d="M13 35 L11 80 Q30 88 49 80 L47 35 Z"
-            fill="url(#champagne-grad)"/>
-      <!-- Bubbles inside -->
-      <circle cx="22" cy="65" r="2" fill="#fff8ec"/>
-      <circle cx="34" cy="72" r="1.5" fill="#fff8ec"/>
-      <circle cx="28" cy="55" r="1.8" fill="#fff8ec"/>
-      <circle cx="38" cy="60" r="1.2" fill="#fff8ec"/>
-      <circle cx="25" cy="78" r="1" fill="#fff8ec"/>
-      <!-- Rim highlight -->
-      <ellipse cx="30" cy="16" rx="15" ry="3" fill="none" stroke="#fff8ec" stroke-width="1.5" opacity="0.7"/>
-      <!-- Glass shine -->
-      <path d="M18 25 L17 70" stroke="#fff8ec" stroke-width="1.5" opacity="0.5"/>
+      <path d="M19.3 48 L19 80 Q19 115 30 120 Q41 115 41 80 L40.7 48 Z"
+            fill="rgba(255, 207, 82, 0.85)"/>
+      <!-- Bubbles rising in a stream -->
+      <circle cx="28" cy="110" r="1.5" fill="#fff8ec" opacity="0.95"/>
+      <circle cx="31" cy="100" r="1.2" fill="#fff8ec" opacity="0.95"/>
+      <circle cx="29" cy="88" r="1.6" fill="#fff8ec" opacity="0.95"/>
+      <circle cx="32" cy="75" r="1.1" fill="#fff8ec" opacity="0.95"/>
+      <circle cx="28" cy="62" r="1.4" fill="#fff8ec" opacity="0.95"/>
+      <circle cx="31" cy="52" r="1" fill="#fff8ec" opacity="0.95"/>
+      <circle cx="33" cy="105" r="0.9" fill="#fff8ec" opacity="0.85"/>
+      <circle cx="27" cy="82" r="1" fill="#fff8ec" opacity="0.85"/>
+      <circle cx="33" cy="68" r="0.9" fill="#fff8ec" opacity="0.85"/>
+      <!-- Rim opening at top -->
+      <ellipse cx="30" cy="13" rx="8.5" ry="2.5" fill="rgba(255, 207, 82, 0.6)" stroke="#e6a93a" stroke-width="1.5"/>
+      <!-- Glass shine highlights -->
+      <path d="M22.5 20 L21 65" stroke="#fff8ec" stroke-width="1.3" opacity="0.7" stroke-linecap="round"/>
+      <path d="M37 28 L36.5 55" stroke="#fff8ec" stroke-width="0.8" opacity="0.5" stroke-linecap="round"/>
     </symbol>
 
     <!-- Starburst -->
@@ -743,18 +764,18 @@
 
   <!-- HERO: clinking champagne flutes with burst + confetti + "70" -->
   <div class="hero reveal">
-    <svg class="hero-scene" viewBox="0 0 380 260" xmlns="http://www.w3.org/2000/svg">
+    <svg class="hero-scene" viewBox="0 0 380 290" xmlns="http://www.w3.org/2000/svg">
       <!-- Background burst -->
-      <g class="hero-burst" style="transform-origin: 190px 130px;">
-        <circle cx="190" cy="130" r="120" fill="url(#burst-grad)" opacity="0.9"/>
-        <g transform="translate(190 130)">
+      <g class="hero-burst" style="transform-origin: 190px 140px;">
+        <circle cx="190" cy="140" r="125" fill="url(#burst-grad)" opacity="0.9"/>
+        <g transform="translate(190 140)">
           <g opacity="0.5">
-            <ellipse rx="4" ry="110" fill="#ffcf52"/>
-            <ellipse rx="4" ry="110" fill="#ffcf52" transform="rotate(30)"/>
-            <ellipse rx="4" ry="110" fill="#ffcf52" transform="rotate(60)"/>
-            <ellipse rx="4" ry="110" fill="#ffcf52" transform="rotate(90)"/>
-            <ellipse rx="4" ry="110" fill="#ffcf52" transform="rotate(120)"/>
-            <ellipse rx="4" ry="110" fill="#ffcf52" transform="rotate(150)"/>
+            <ellipse rx="4" ry="115" fill="#ffcf52"/>
+            <ellipse rx="4" ry="115" fill="#ffcf52" transform="rotate(30)"/>
+            <ellipse rx="4" ry="115" fill="#ffcf52" transform="rotate(60)"/>
+            <ellipse rx="4" ry="115" fill="#ffcf52" transform="rotate(90)"/>
+            <ellipse rx="4" ry="115" fill="#ffcf52" transform="rotate(120)"/>
+            <ellipse rx="4" ry="115" fill="#ffcf52" transform="rotate(150)"/>
           </g>
         </g>
       </g>
@@ -780,13 +801,13 @@
       </g>
 
       <!-- Left flute -->
-      <g class="hero-flute-left" style="transform-origin: 145px 200px;">
-        <use href="#flute" x="115" y="60"/>
+      <g class="hero-flute-left" style="transform-origin: 145px 250px;">
+        <use href="#flute" x="115" y="60" width="60" height="200"/>
       </g>
 
       <!-- Right flute -->
-      <g class="hero-flute-right" style="transform-origin: 235px 200px;">
-        <use href="#flute" x="205" y="60"/>
+      <g class="hero-flute-right" style="transform-origin: 235px 250px;">
+        <use href="#flute" x="205" y="60" width="60" height="200"/>
       </g>
 
       <!-- Sparkles at clink point and around -->
@@ -812,13 +833,13 @@
         <use href="#spark" x="285" y="155" width="14" height="14" transform="translate(-7 -7)"/>
       </g>
 
-      <!-- "70" badge in front -->
-      <g class="hero-70" style="transform-origin: 190px 200px;">
-        <circle cx="190" cy="200" r="42" fill="#fff8ec" stroke="#ffcf52" stroke-width="3"/>
-        <circle cx="190" cy="200" r="38" fill="none" stroke="#ff5d8f" stroke-width="1" stroke-dasharray="3 3"/>
-        <text x="190" y="215" text-anchor="middle"
-              font-family="Cormorant Garamond, serif"
-              font-size="40" font-weight="600"
+      <!-- "70" badge in front, sitting between the flutes' bases -->
+      <g class="hero-70" style="transform-origin: 190px 250px;">
+        <circle cx="190" cy="250" r="38" fill="#fff8ec" stroke="#ffcf52" stroke-width="3"/>
+        <circle cx="190" cy="250" r="34" fill="none" stroke="#ff5d8f" stroke-width="1" stroke-dasharray="3 3"/>
+        <text x="190" y="264" text-anchor="middle"
+              font-family="Playfair Display, serif"
+              font-size="36" font-weight="700"
               fill="#d63384">70</text>
       </g>
     </svg>
@@ -848,7 +869,6 @@
       <span class="corner-spark br" aria-hidden="true">✦</span>
       <div class="label">Ton cadeau</div>
       <div class="amount">700 $</div>
-      <div class="formula">— 10 fois ton âge —</div>
     </div>
   </div>
 
