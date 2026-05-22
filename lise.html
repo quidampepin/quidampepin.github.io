@@ -488,14 +488,16 @@
     margin: 0.3rem 0;
     text-shadow: 0 0 10px rgba(255, 207, 82, 0.6);
   }
-  .suggestion .detail {
-    font-style: italic;
-    color: var(--magenta);
+  .suggestion-items .item-detail {
+    display: block;
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1.45rem;
-    margin-top: 1.5rem;
-    padding: 0 0.5rem;
-    line-height: 1.45;
+    font-style: italic;
+    font-weight: 400;
+    color: var(--magenta);
+    font-size: 1.15rem;
+    margin-top: -0.2rem;
+    line-height: 1.35;
+    padding: 0 1rem;
   }
 
   /* ─── Closing ─── */
@@ -570,7 +572,7 @@
     .message { font-size: 1.2rem; }
     .gift-amount .amount { font-size: 6rem; }
     .suggestion-items { font-size: 1.65rem; }
-    .suggestion .detail { font-size: 1.25rem; }
+    .suggestion-items .item-detail { font-size: 1.1rem; }
     .closing .line1 { font-size: 1.5rem; }
     .closing .line2 { font-size: 1.45rem; }
     .closing .heart { font-size: 1.2rem; letter-spacing: 0.14em; }
@@ -837,7 +839,7 @@
       <g class="hero-70" style="transform-origin: 190px 250px;">
         <circle cx="190" cy="250" r="38" fill="#fff8ec" stroke="#ffcf52" stroke-width="3"/>
         <circle cx="190" cy="250" r="34" fill="none" stroke="#ff5d8f" stroke-width="1" stroke-dasharray="3 3"/>
-        <text x="190" y="264" text-anchor="middle"
+        <text x="190" y="250" text-anchor="middle" dy="0.20em"
               font-family="Playfair Display, serif"
               font-size="36" font-weight="700"
               fill="#d63384">70</text>
@@ -883,17 +885,16 @@
       <span class="item">Escapade au Dix30 :</span>
       <span class="sep">✦</span>
       <span class="item">Une journée au spa - Awü</span>
+      <span class="item-detail">Massages, soins variés, et même un massage du cuir chevelu — pure détente.</span>
       <span class="sep">✦</span>
       <span class="item">Une nuitée à l'hôtel - Alt</span>
-      <span class="item">à distance de marche du spa</span>
-      
+      <span class="item-detail">À distance de marche du spa.</span>
     </div>
-    <p class="detail">Massages, soins variés, et même un massage du cuir chevelu — pure détente.</p>
   </div>
 
   <div class="closing reveal">
     <svg class="closing-flower" viewBox="0 0 100 100"><use href="#rose"/></svg>
-    <div class="line1">Profite. Repose-toi. Laisse-toi choyer.</div>
+    <div class="line1">Repose-toi. Laisse-toi choyer.</div>
     <div class="line2">Bon 70<sup>e</sup>, Lise.</div>
     <div class="heart">— De la part de tous ceux qui t'aiment —</div>
     <div class="hearts-row">♥ ♥ ♥</div>
