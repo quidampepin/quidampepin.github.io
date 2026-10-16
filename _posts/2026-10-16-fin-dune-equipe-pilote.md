@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The end of a pilot team
+title: La fin d'une équipe pilote
 category: Billets
 excerpt_separator: <!--more-->
 tag: Blog
