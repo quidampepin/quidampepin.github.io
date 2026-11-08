@@ -27,6 +27,7 @@ EN:
   navlabel: Main
   langlabel: Language
   otherlang: Français
+  darkmode: Dark mode
   language: en-CA
   months: [January, February, March, April, May, June, July, August, September, October, November, December]
 
@@ -59,5 +60,6 @@ FR:
   navlabel: Principal
   langlabel: Langue
   otherlang: English
+  darkmode: Mode sombre
   language: fr-CA
   months: [janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre]

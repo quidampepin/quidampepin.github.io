@@ -30,20 +30,27 @@
   --font-head: Montserrat, "Open Sans", system-ui, sans-serif;
 }
 
+// Dark palette. Applied when the visitor picks "dark" with the toggle,
+// or when their system is dark and they haven't picked "light".
+@mixin dark-tokens {
+  --bg: #15171a;
+  --bg-soft: #1d2024;
+  --ink: #e9e7e3;
+  --ink-soft: #d4d1cc;
+  --muted: #a3a8ae;
+  --line: #2f3338;
+  --link: #8ab8ee;
+  --link-hover: #b9d5f5;
+  --accent: #e08a5f;
+  --accent-soft: #3a2a22;
+  --accent-lift: 1.45;
+  color-scheme: dark;
+}
+
+:root { --accent-lift: 1; color-scheme: light; }
+:root[data-theme="dark"] { @include dark-tokens; }
 @media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #15171a;
-    --bg-soft: #1d2024;
-    --ink: #e9e7e3;
-    --ink-soft: #d4d1cc;
-    --muted: #a3a8ae;
-    --line: #2f3338;
-    --link: #8ab8ee;
-    --link-hover: #b9d5f5;
-    --accent: #e08a5f;
-    --accent-soft: #3a2a22;
-  }
-  img { opacity: .95; }
+  :root:not([data-theme="light"]) { @include dark-tokens; }
 }
 
 /**************/
@@ -204,6 +211,32 @@ th { font-weight: 700; color: var(--ink); }
   color: var(--ink);
   text-decoration: none;
   &:hover { color: var(--accent); text-decoration: none; }
+}
+
+.masthead__tools {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  transition: color 120ms ease, border-color 120ms ease, background 120ms ease;
+  svg { width: 1.1rem; height: 1.1rem; }
+  .icon-sun { display: none; }
+  &[aria-pressed="true"] .icon-sun { display: block; }
+  &[aria-pressed="true"] .icon-moon { display: none; }
+  &:hover { color: var(--accent); border-color: var(--accent); }
 }
 
 .lang-toggle {
@@ -589,10 +622,8 @@ h1.story-title {
 
 .project-card:hover .project-card__title a { text-decoration: underline; text-decoration-color: var(--card-accent); text-decoration-thickness: 2px; text-underline-offset: .2em; }
 
-@media (prefers-color-scheme: dark) {
-  // Project accents are tuned for light backgrounds; lift them a bit
-  .project-card__open, .project-card__meta .kicker { filter: brightness(1.45); }
-}
+// Project accents are tuned for light backgrounds; lift them in dark mode
+.project-card__open, .project-card__meta .kicker { filter: brightness(var(--accent-lift)); }
 
 /**********/
 /* SPLASH */
