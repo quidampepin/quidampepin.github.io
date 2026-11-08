@@ -1,37 +1,28 @@
 ---
 layout: default
 ---
-    {% assign pagelang = site.data.snippets[page.lang] %}
-    <!--
-    <div style="margin-top: 12px;">
- {% if page.category == "Notes" %}
-<a class="read-more" href="{{ pagelang.notesurl }}"><span class="fa fa-arrow-left"></span> {{ pagelang.allnotes }}</a>
-{% endif %}
+{%- assign pagelang = site.data.snippets[page.lang] | default: site.data.snippets.EN -%}
+<article class="post">
+  <header class="post__header">
+    {%- if page.category == "Billets" %}
+    <p class="back-link"><a href="{{ pagelang.billetsurl }}">← {{ pagelang.allblog }}</a></p>
+    {%- elsif page.category == "recits" %}
+    <p class="back-link"><a href="{{ pagelang.recitsurl }}">← {{ pagelang.allfiction }}</a></p>
+    {%- elsif page.category == "Notes" %}
+    <p class="back-link"><a href="{{ pagelang.notesurl }}">← {{ pagelang.allnotes }}</a></p>
+    {%- endif %}
 
-{% if page.category == "recits" %}
-<a class="read-more" href="{{ pagelang.recitsurl }}"><span class="fa fa-arrow-left"></span> {{ pagelang.allfiction }}</a>
-{% endif %}
+    <h1 class="post__title">{{ page.title }}</h1>
 
-{% if page.category == "Billets" %}
-<a class="read-more" href="{{ pagelang.billetsurl }}"><span class="fa fa-arrow-left"></span> {{ pagelang.allblog }}</a>
-{% endif %}
-  </div>
+    <p class="post-list__meta">
+      {%- if page.tag %}<span class="kicker">{{ page.tag }}</span>{% endif -%}
+      {% include date.html date=page.date lang=page.lang %}
+    </p>
+  </header>
 
-  -->
-<article class="post" style="max-width:65ch;">
-  
-  <h1>{{ page.title }}</h1>
-  
-  <div class="date">
-    {{ page.date | date: "%Y-%m-%d" }} - {{ page.tag }}
-   </div>
-   
   <div class="entry">
-
     {{ content }}
   </div>
-
-
 
   {% include disqus.html %}
 </article>

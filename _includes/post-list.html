@@ -1,0 +1,18 @@
+{%- comment -%}
+  Usage: {% include post-list.html posts=some_posts lang=page.lang heading="h2" %}
+{%- endcomment -%}
+{%- assign pl = site.data.snippets[include.lang] -%}
+{%- assign hx = include.heading | default: "h2" -%}
+<ol class="post-list">
+  {%- for post in include.posts %}
+  <li class="post-list__item">
+    <p class="post-list__meta">
+      {%- if post.tag %}<span class="kicker">{{ post.tag }}</span>{% endif -%}
+      {% include date.html date=post.date lang=include.lang %}
+    </p>
+    <{{ hx }} class="post-list__title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></{{ hx }}>
+    <div class="post-list__excerpt">{{ post.excerpt | strip_html | truncatewords: 60 }}</div>
+    <a class="post-list__more" href="{{ site.baseurl }}{{ post.url }}" aria-hidden="true" tabindex="-1">{{ pl.readmore }} <span class="arrow">→</span></a>
+  </li>
+  {%- endfor %}
+</ol>

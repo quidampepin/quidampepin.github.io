@@ -9,6 +9,7 @@ EN:
   recitsname: Fiction
   recitsurl: /stories/
   creativecommons: Made available under the
+  ccurl: https://creativecommons.org/licenses/by/4.0/deed.en
   disclaimer: The opinions and ideas presented here are my own, and do not represent the opinion of my employer.
   biourl: /bio_en/
   bioname: About me
@@ -18,7 +19,16 @@ EN:
   feed: XML feed
   portfoliourl: /portfolio_en/
   portfolioname: Portfolio
+  projectsurl: /projects/
+  projectsname: Projects
+  readmore: Read
+  open: Open
+  code: Source code
+  navlabel: Main
+  langlabel: Language
+  otherlang: Français
   language: en-CA
+  months: [January, February, March, April, May, June, July, August, September, October, November, December]
 
 
 FR:
@@ -31,6 +41,7 @@ FR:
   recitsname: Fiction
   recitsurl: /recits/
   creativecommons: Mis à disposition selon les termes de la
+  ccurl: https://creativecommons.org/licenses/by/4.0/deed.fr
   disclaimer: Les opinions et les idées présentées ici n'engagent que moi, et ne représentent pas l'opinion de mon employeur.
   biourl: /bio_fr/
   bioname: À propos de moi
@@ -40,5 +51,13 @@ FR:
   feed: Fil XML
   portfoliourl: /portfolio_fr/
   portfolioname: Portfolio
+  projectsurl: /projets/
+  projectsname: Projets
+  readmore: Lire
+  open: Ouvrir
+  code: Code source
+  navlabel: Principal
+  langlabel: Langue
+  otherlang: English
   language: fr-CA
-
+  months: [janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre]

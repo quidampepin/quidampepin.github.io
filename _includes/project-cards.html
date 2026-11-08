@@ -1,0 +1,30 @@
+{%- assign pl = site.data.snippets[include.lang] -%}
+{%- assign l = include.lang | downcase -%}
+<ul class="project-grid">
+  {%- for p in site.data.projects %}
+  {%- assign k_title = "title_" | append: l -%}
+  {%- assign k_type = "type_" | append: l -%}
+  {%- assign k_desc = "desc_" | append: l -%}
+  {%- assign k_status = "status_" | append: l -%}
+  {%- assign title = p[k_title] -%}
+  {%- assign type = p[k_type] -%}
+  {%- assign desc = p[k_desc] -%}
+  {%- assign status = p[k_status] -%}
+  {%- assign url = p.url -%}
+  {%- if l == "fr" and p.url_fr %}{% assign url = p.url_fr %}{% endif -%}
+  <li class="project-card" style="--card-accent: {{ p.accent | default: 'var(--accent)' }}">
+    <p class="project-card__meta">
+      <span class="kicker">{{ type }}</span>
+      {%- if status %}<span class="badge">{{ status }}</span>{% endif -%}
+    </p>
+    <h2 class="project-card__title"><a href="{{ url }}">{{ title }}</a></h2>
+    <p class="project-card__desc">{{ desc }}</p>
+    <p class="project-card__links">
+      <span class="project-card__open" aria-hidden="true">{{ pl.open }} →</span>
+      {%- if p.repo %}
+      <a class="project-card__repo" href="{{ p.repo }}">{{ pl.code }}<span class="visually-hidden"> – {{ title }}</span></a>
+      {%- endif %}
+    </p>
+  </li>
+  {%- endfor %}
+</ul>

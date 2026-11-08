@@ -1,117 +1,74 @@
 <!DOCTYPE html>
-<html lang="{{ site.data.snippets[page.lang].language | default: 'en' }}">
+{%- assign pagelang = site.data.snippets[page.lang] | default: site.data.snippets.EN -%}
+<html lang="{{ pagelang.language | default: 'en' }}">
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 
     {% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
     <link rel="icon" href="{{ '/assets/favicon/favicon.ico' | relative_url }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon/favicon-32x32.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicon/favicon-16x16.png' | relative_url }}">
-<link rel="apple-touch-icon" href="{{ '/assets/favicon/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicon/favicon-16x16.png' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/assets/favicon/apple-touch-icon.png' | relative_url }}">
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous" />
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+    <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml">
   </head>
 
   <body>
-    {% assign pagelang = site.data.snippets[page.lang] %}
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header style="max-width:65ch;" class="masthead clearfix">
-          
-          {% if page.layout == "post" %}
-          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %}
-  
-    <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
-  {% endfor %}
-        {% endif %}
-        
-        {% if page.layout == "page" %}
-        {% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for post in posts %}
-  <a class="selector" href="{{ post.url }}" class="{{ post.lang }}" {% if post.lang == page.lang %}style="border-bottom: 5px solid #222"{% endif %}>{{ post.lang }}</a>  
-  {% endfor %}
-      {% endif %}
+    {%- comment -%} Find this page's counterpart in the other language (same ref, other lang). {%- endcomment -%}
+    {%- if page.layout == "post" -%}
+      {%- assign twins = site.posts | where: "ref", page.ref -%}
+    {%- else -%}
+      {%- assign twins = site.pages | where: "ref", page.ref -%}
+    {%- endif -%}
+    {%- assign other = nil -%}
+    {%- if page.ref -%}
+      {%- for t in twins -%}{%- if t.lang != page.lang -%}{%- assign other = t -%}{%- endif -%}{%- endfor -%}
+    {%- endif -%}
 
-          
-          <div class="site-name">
-            David Pepin
+    <a class="skip-link" href="#main">{% if page.lang == "FR" %}Passer au contenu{% else %}Skip to content{% endif %}</a>
 
+    <header class="masthead">
+      <div class="container masthead__inner">
+        <a class="site-name" href="{{ pagelang.homeurl }}">David Pepin</a>
 
-          </div>
+        {%- if other %}
+        <a class="lang-toggle" href="{{ site.baseurl }}{{ other.url }}" lang="{{ site.data.snippets[other.lang].language | slice: 0, 2 }}" hreflang="{{ site.data.snippets[other.lang].language | slice: 0, 2 }}">{{ pagelang.otherlang }}</a>
+        {%- endif %}
 
-          <nav>
-            
-
-
-   
-          
-           <a href="{{ pagelang.homeurl }}" {% if page.category == "Home" %}style="border-bottom: 5px solid #222"{% endif %}>
-        {{ pagelang.homename }}</a>
-    
-            <a href="{{ pagelang.billetsurl }}" {% if page.category == "Billets" %}style="border-bottom: 5px solid #222"{% endif %}>
-        {{ pagelang.billetsname }}</a>
-    
-      <a href="{{ pagelang.recitsurl }}" {% if page.category == "recits" %}style="border-bottom: 5px solid #222"{% endif %}>
-        {{ pagelang.recitsname }}</a>
-
-        <a href="{{ pagelang.portfoliourl }}" {% if page.category == "Impact" %}style="border-bottom: 5px solid #222"{% endif %}>
-          {{ pagelang.portfolioname }}</a>
-
-    
-        
-    
-
-</nav>
-
-   
-        </header>
-        
+        <nav class="site-nav" aria-label="{{ pagelang.navlabel }}">
+          <a href="{{ pagelang.homeurl }}" {% if page.category == "Home" %}aria-current="page"{% endif %}>{{ pagelang.homename }}</a>
+          <a href="{{ pagelang.billetsurl }}" {% if page.category == "Billets" %}aria-current="page"{% endif %}>{{ pagelang.billetsname }}</a>
+          <a href="{{ pagelang.recitsurl }}" {% if page.category == "recits" %}aria-current="page"{% endif %}>{{ pagelang.recitsname }}</a>
+          <a href="{{ pagelang.portfoliourl }}" {% if page.category == "Impact" %}aria-current="page"{% endif %}>{{ pagelang.portfolioname }}</a>
+          <a href="{{ pagelang.projectsurl }}" {% if page.category == "Projects" %}aria-current="page"{% endif %}>{{ pagelang.projectsname }}</a>
+        </nav>
       </div>
-    </div>
-    <!--
-    <div class="container">
-    {% include google-search.html %}
-  </div>
-  -->
-    <div id="main" role="main" class="container">
+    </header>
+
+    <main id="main" class="container">
       {{ content }}
-    </div>
+    </main>
 
-    <div class="wrapper-footer">
+    <footer class="site-footer">
       <div class="container">
-        <footer class="footer">
-        
+        <ul class="site-footer__links">
+          <li><a href="{{ pagelang.biourl }}">{{ pagelang.bioname }}</a></li>
+          <li><a href="{{ site.baseurl }}/feed.xml">{{ pagelang.feed }}</a></li>
+          <li><a href="https://github.com/quidampepin">GitHub</a></li>
+          <li><a href="https://www.linkedin.com/in/david-pepin-9b458613b/">LinkedIn</a></li>
+          <li><a href="https://bsky.app/profile/quidampepin.bsky.social">Bluesky</a></li>
+        </ul>
 
-        <ul>
-        <li><a href="{{ pagelang.biourl }}">{{ pagelang.bioname }}</a></li>
-        <li><a href="https://www.davidpepin.ca/feed.xml">{{ pagelang.feed }}</a></li>
-        <li><a href="https://github.com/quidampepin">GitHub</a></li>
-        <li><a href="https://www.linkedin.com/in/david-pepin-9b458613b/">LinkedIn</a></li>
-        <li><a href="https://bsky.app/profile/quidampepin.bsky.social">Bluesky</a></li>
-     
-          </ul>
+        <p>{{ pagelang.disclaimer }}</p>
 
-          <p>{{ pagelang.disclaimer }}</p>
-            
-          <p>&copy; David Pepin <br>{{ pagelang.creativecommons }} <a href=https://creativecommons.org/licenses/by/4.0/deed.fr>Licence Creative Commons Attribution 4.0 International</a>.</p>
-
-          
-        </footer>
+        <p>&copy; David Pepin. {{ pagelang.creativecommons }} <a href="{{ pagelang.ccurl }}">Licence Creative Commons Attribution 4.0 International</a>.</p>
       </div>
-    </div>
+    </footer>
 
     {% include analytics.html %}
   </body>

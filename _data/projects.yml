@@ -1,0 +1,49 @@
+# Projects shown on /projects/ and /projets/ (order = display order).
+# url / url_fr: where the project lives (relative to davidpepin.ca). url_fr is optional.
+# accent: colour of the card's top band.
+# status (optional): shown as a small badge, e.g. "Prototype" / "Prototype".
+
+- id: cadence
+  title_en: Cadence
+  title_fr: Cadence
+  type_en: Music tool
+  type_fr: Outil musical
+  desc_en: A chord progression generator for songwriters. Sixteen styles, seven modes, 13 guitar tunings, ukulele and piano voicings, playback and MIDI export.
+  desc_fr: Un générateur de progressions d'accords pour l'écriture de chansons. Seize styles, sept modes, 13 accordages de guitare, doigtés pour ukulélé et piano, lecture audio et export MIDI.
+  url: /chord_progression/
+  repo: https://github.com/quidampepin/chord_progression
+  accent: "#3d6fb6"
+
+- id: beer-history
+  title_en: Good Luck to the Barley Mow
+  title_fr: Prendre un verre de bière mon minou
+  type_en: Web book
+  type_fr: Livre Web
+  desc_en: Brewing Canada's beers, from New France to today. A history of brewing in Canada, with 41 recipes you can scale.
+  desc_fr: Brasser les bières du Canada, de la Nouvelle-France à aujourd'hui. Une histoire du brassage au Canada, avec 41 recettes ajustables.
+  url: /beer-history/en/
+  url_fr: /beer-history/fr/
+  repo: https://github.com/quidampepin/beer-history
+  accent: "#b8862b"
+
+- id: brewsim
+  title_en: BrewSim
+  title_fr: BrewSim
+  type_en: Game
+  type_fr: Jeu
+  desc_en: A realistic craft brewery management game set in Ottawa–Gatineau, from 1985 to 2040. Design recipes, brew with real beer chemistry, run a taproom and grow a microbrewery.
+  desc_fr: Un jeu réaliste de gestion de microbrasserie à Ottawa–Gatineau, de 1985 à 2040. Créez vos recettes, brassez selon une vraie chimie de la bière, gérez un salon de dégustation et faites grandir votre brasserie.
+  url: /brewsim/
+  repo: https://github.com/quidampepin/brewsim
+  accent: "#b4532a"
+
+- id: kebec
+  title_en: Kebec
+  title_fr: Kebec
+  type_en: Game
+  type_fr: Jeu
+  desc_en: What if you could rewrite history? A bilingual historical strategy game, from 1608 to 2000.
+  desc_fr: Et si on pouvait réécrire l'histoire? Un jeu de stratégie historique bilingue, de 1608 à 2000.
+  url: /kebec/
+  repo: https://github.com/quidampepin/kebec
+  accent: "#2f6b4f"
