@@ -1,31 +1,15 @@
 ---
+layout: page
 category: Notes
 lang: FR
 ref: notes
+title: Notes
 ---
 
+<header class="page-intro">
+  <h1>Notes</h1>
+  <p class="lead">Courtes notes, liens et autres idées.</p>
+</header>
 
-<h1>Notes</h1>
-Courtes notes, liens et autres idées.
-
-<div class="posts">
-    {% assign posts=site.categories.Notes | where:"lang", page.lang %}
-  {% for post in posts %}
-   <article class="post" style="border-top: 2px solid #ccc;">
-
-   <h3 style="margin-bottom:0">
-   
-   {{ post.title }}
-      </h3>
-      <div class="date">
-        {{ post.date | date: "%Y-%m-%d"}}
-      </div>
-           <p style="margin-top: .5em;">
-        {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><span class="fa fa-arrow-right"></span> Lire « {{ post.title }} »</a>
-      </p>
-
-
-   </article>
-    
-  {% endfor %}
-</div>
+{% assign posts = site.categories.Notes | where: "lang", page.lang %}
+{% include post-list.html posts=posts lang=page.lang %}

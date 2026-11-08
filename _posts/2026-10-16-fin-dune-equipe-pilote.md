@@ -3,7 +3,7 @@ layout: post
 title: La fin d'une équipe pilote
 category: Billets
 excerpt_separator: <!--more-->
-tag: Blog
+tag: Blogue
 lang: FR
 ref: end-pilot
 ---

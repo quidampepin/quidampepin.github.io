@@ -1,0 +1,9 @@
+{%- assign d_lang = include.lang | default: "EN" -%}
+{%- assign d_m = include.date | date: "%-m" | minus: 1 -%}
+{%- assign d_month = site.data.snippets[d_lang].months[d_m] -%}
+{%- assign d_day = include.date | date: "%-d" -%}
+{%- if d_lang == "FR" -%}
+<time datetime="{{ include.date | date: '%Y-%m-%d' }}">{{ d_day }}{% if d_day == "1" %}<sup>er</sup>{% endif %} {{ d_month }} {{ include.date | date: "%Y" }}</time>
+{%- else -%}
+<time datetime="{{ include.date | date: '%Y-%m-%d' }}">{{ d_month }} {{ d_day }}, {{ include.date | date: "%Y" }}</time>
+{%- endif -%}
