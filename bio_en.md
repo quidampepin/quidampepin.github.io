@@ -29,5 +29,5 @@ That's when I really found my career path: organizing information and developing
 
 Since then, one thing led to another and I learned a lot. Writing for the web, UX, content design, service design, evidence-based improvement: I try to draw from many disciplines to design the best content possible. 
 
-I am currently working at Immigration, Refugees and Citizenship Canada, leading a team using evidence for continuous improvement of the web presence.
+I am currently working at the Financial Consumer Agengy of Canada, using evidence to improve its presence.
 
