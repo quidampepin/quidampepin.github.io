@@ -30,4 +30,4 @@ C’est à ce moment que j’ai vraiment trouvé ma voie professionnelle : organ
 
 Depuis ce temps, de fil en aiguille, j’ai beaucoup appris. Écriture pour le Web, UX, design de contenu, conception de service, amélioration fondée sur les données probantes : j’essaie de m’inspirer de plusieurs disciplines pour concevoir le meilleur contenu possible. 
 
-Je suis présentment à l'emploi d'Immigration, Réfugiés et Citoyenneté Canada. Je gère une équipe qui utilise les données probante pour l'amélioration continue de la présence Web.
+Je suis présentment à l'emploi de l'Agence de la consommation en matière financière du Canada, utilisant les données probante pour l'amélioration de la présence Web.
